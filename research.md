@@ -8,6 +8,6 @@ permalink: /research/
 
 <ul>
 {% for group in site.research_groups %}
-  <li>{{ group.name }} presso {{ group.institution }}</li>
+  <li><a href="{{ group.url }}">{{ group.name }} presso {{ group.institution }}<a></li>
 {% endfor %}
 </ul>
