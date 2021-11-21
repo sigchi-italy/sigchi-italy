@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-permalink: /research/
+permalink: /research_groups/
 ---
 
 ## Gruppi affiliati a SIGCHI Italy
