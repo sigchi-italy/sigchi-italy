@@ -1,7 +1,6 @@
 ---
-
 layout: page
-title: "Test contacts page"
+title: Test
 permalink: /about/contacts.html
 ---
 
