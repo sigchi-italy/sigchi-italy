@@ -1,3 +1,2 @@
-#Come aggiungere un corso all'elenco di quelli censiti da SIGCHItaly
+## Istruzioni
 
-1 prova
