@@ -39,7 +39,6 @@ plugins:
 collections:
   research_groups:
     output: true
-    permalink: /:collection/:name
    
 
 # Exclude from processing.
