@@ -6,7 +6,8 @@ permalink: /research/
 
 ## Gruppi affiliati a SIGCHI Italy
 
+<ul>
 {% for group in site.research_groups %}
-  <h2>{{ group.name }} @ {{ group.institution }}</h2>
-  <p>{{ group.content | markdownify }}</p>
+  <li>{{ group.name }} presso {{ group.institution }}</li>
 {% endfor %}
+</ul>
