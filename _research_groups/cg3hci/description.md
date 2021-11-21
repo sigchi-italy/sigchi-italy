@@ -1,6 +1,6 @@
 ---
 name: CG3HCI
-institute: University of Cagliari
+institution: Università di Cagliari
 ---
 
 ## CG3HCI Group
