@@ -8,3 +8,5 @@ institution: Università di Cagliari
 
 ## CG3HCI Group
 Università di Cagliari
+
+![CG3HCI logo](assets/logocg3hci.png "Logo CG3HCI")
