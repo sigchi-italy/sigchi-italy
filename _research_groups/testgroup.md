@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: TestGroup@Unica
 group_name: Test Group
 institution: Università di Cagliari
