@@ -1,5 +1,5 @@
 ---
-istitution: Università di Cagliari
+institution: Università di Cagliari
 department: Matematica e Informatica
 degree: Informatica 
 level: bachelor
