@@ -1,5 +1,6 @@
 ---
 layout: page
+title: IUM - UniCA
 institution: Università di Cagliari
 department: Matematica e Informatica
 degree: Informatica 
