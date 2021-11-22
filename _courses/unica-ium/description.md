@@ -1,4 +1,3 @@
-<!---  Nella parte di intestazione mettiamo le informazioni su cui vogliamo poi calcolare qualche statistica --->
 ---
 istitution: Università di Cagliari
 department: Matematica e Informatica
@@ -8,7 +7,7 @@ course-name: Interazione Uomo Macchina
 cfu: 6
 hours: 60
 ---
-
+<!---  Nella parte di intestazione mettiamo le informazioni su cui vogliamo poi calcolare qualche statistica --->
 <!---  Nella parte di contenuto mettiamo invece le informazioni descrittive  --->
 
 ## Obiettivi formativi
