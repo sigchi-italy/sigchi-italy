@@ -1,4 +1,5 @@
 ---
+layout: page
 institution: Università di Cagliari
 department: Matematica e Informatica
 degree: Informatica 
