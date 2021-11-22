@@ -39,6 +39,8 @@ plugins:
 collections:
   research_groups:
     output: true
+  courses:
+    output: true
    
 
 # Exclude from processing.
