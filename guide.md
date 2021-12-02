@@ -4,11 +4,11 @@ Follow the steps below to enter a new course.
 
 *Step 1:* After logging in with your Github account, fork the Github repository which you can find at the following link: https://github.com/davidespano/sigchi-italy
 
-![fork](/images/guide/fork.png)
+![fork](/images/guide/imagefork.png)
 
 *Step 2:* In your copy of the repository create a new branch, as shown in the following image.
 
-![branch](/images/guide/branch.png)
+![branch](/images/guide/imagebranch.png)
 
  * First, click on *main* (red box);
  * then, enter a *branch name* (orange box). Please, name the branch with [institution acronym]-[course acronym];
@@ -42,7 +42,7 @@ In this way, you have created a new branch in your copy of the project.
 
 * finally, click the *Create pull request* button.
 
-![pull3](/images/guide/pullStep3.png)
+![pull3](/images/guide/imagepullStep3.png)
 
 In this way you have sent a pull request to the original project with your teaching data. Once accepted, the course will be visible among those listed. In case you want to change it, you can always update your copy of the repository and send another pull request. 
 
