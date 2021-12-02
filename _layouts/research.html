@@ -1,14 +1,11 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>{{ page.title }}</title>
-  </head>
-  <body>
-    <header class="post-header">
-        <h1 class="post-title">{{ page.title }}</h1>
-   {% if page.picture %}{% include lab-picture.html image=page.picture %}{% endif %}
-   </header>
-   {{ content }}
-  </body>
-</html>
+<header class="page-header"  
+        role="banner">
+      <h1 class="project-name">Davide Spano</h1>
+</header>
+<main id="content" class="main-content" role="main">
+  {% if page.picture %}{% include lab-picture.html image=page.picture %}{% endif %}
+       {{ content }}
+      <footer class="site-footer">
+        &copy; Davide Spano
+      </footer>
+</main>
