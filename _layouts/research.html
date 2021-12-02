@@ -76,14 +76,20 @@
                 <div class="position-sticky" style="top: 2rem;">
                     <div class="p-4 mb-3 bg-light rounded">
                         <h4 class="fst-italic">Lab Info</h4>
-                        <ul>
-                            <li><strong>Institution</strong>:{{page.institution}}</li>
-                            <li><strong>Department</strong>:{{page.department}}</li>
-                            <li><strong>Address</strong>:
+                        <dl>
+                            <dt>Institution</dt>
+                            <dd>{{page.institution}}</dd>
+                            <dt>Department</dt>>
+                            <dd>{{page.department}}</dd>
+                            <dt>Address</dt>
+                            <dd>
                                 {{page.address.street-name}}
                                 {{page.address.street-number}},
-                                {{page.address.zip}}, {{page.address.city}}, {{page.address.state}}</li>
-                        </ul>
+                                {{page.address.zip}}, {{page.address.city}}, {{page.address.state}}
+                            </dd>
+                            <dt>Website</dt>
+                            <dd>{{page.website}}</dd>
+                        </dl>
                     </div>
 
                 </div>

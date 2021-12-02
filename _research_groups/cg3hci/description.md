@@ -11,7 +11,8 @@ address:
   city: Cagliari
   state: Italy
   zip: 09124
-picture: assets/logo.png
+picture: assets/logocg3hci.png
+website: http://cg3hci.dmi.unica.it
 members: 
    - member:
       name: Lucio Davide
