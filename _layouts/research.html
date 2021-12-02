@@ -11,7 +11,7 @@
     <style>
         main > .container {
             padding-top: 60px;
-            overflow:auto;
+
         }
 
         html, body {
@@ -20,6 +20,7 @@
 
         main {
             min-height: 100%;
+            overflow:auto;
         }
 
 
@@ -32,7 +33,7 @@
         }
 
     </style>
-    <title>{{page.title}}}</title>
+    <title>{{page.title}}</title>
 </head>
 <body>
 <header>
@@ -86,6 +87,48 @@
 
                     <h2 class="blog-post-title">Members</h2>
 
+                    <dl>
+                        <dt>Institution</dt>
+                        <dd>{{page.institution}}</dd>
+                        <dt>Department</dt>
+                        <dd>{{page.department}}</dd>
+                        <dt>Address</dt>
+                        <dd>
+                            {{page.address.street-name}}
+                            {{page.address.street-number}},
+                            {{page.address.zip}}, {{page.address.city}}, {{page.address.state}}
+                        </dd>
+                        <dt>Website</dt>
+                        <dd>{{page.website}}</dd>
+                    </dl>
+                    <dl>
+                        <dt>Institution</dt>
+                        <dd>{{page.institution}}</dd>
+                        <dt>Department</dt>
+                        <dd>{{page.department}}</dd>
+                        <dt>Address</dt>
+                        <dd>
+                            {{page.address.street-name}}
+                            {{page.address.street-number}},
+                            {{page.address.zip}}, {{page.address.city}}, {{page.address.state}}
+                        </dd>
+                        <dt>Website</dt>
+                        <dd>{{page.website}}</dd>
+                    </dl>
+                    <dl>
+                        <dt>Institution</dt>
+                        <dd>{{page.institution}}</dd>
+                        <dt>Department</dt>
+                        <dd>{{page.department}}</dd>
+                        <dt>Address</dt>
+                        <dd>
+                            {{page.address.street-name}}
+                            {{page.address.street-number}},
+                            {{page.address.zip}}, {{page.address.city}}, {{page.address.state}}
+                        </dd>
+                        <dt>Website</dt>
+                        <dd>{{page.website}}</dd>
+                    </dl>
                 </article>
 
             </div>
