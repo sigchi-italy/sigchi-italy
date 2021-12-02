@@ -1,5 +1,5 @@
 ---
-layout: research
+layout: research 
 permalink: /research_groups/cg3hci/description.html
 title: CG3HCI@Unica
 group-name: CG3HCI
