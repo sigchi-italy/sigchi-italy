@@ -10,11 +10,29 @@
           integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <style>
         main > .container {
-            padding: 60px 15px 0;
+            padding-top: 60px;
+            overflow:auto;
+        }
+
+        html, body {
+            height: 100%;
+        }
+
+        main {
+            min-height: 100%;
+        }
+
+
+        .footer {
+            position: relative;
+            margin-top: -150px; /* negative value of footer height */
+            height: 150px;
+            clear:both;
+            padding-top:20px;
         }
 
     </style>
-    <title>Hello, world!</title>
+    <title>{{page.title}}}</title>
 </head>
 <body>
 <header>
@@ -62,8 +80,8 @@
             <div class="col-md-8">
 
                 <article class="blog-post">
-                    <img class="lab-pic" src="{{ page.picture }}" alt="a picture of the {{ page.group-name }} group">
                     <h2 class="blog-post-title">{{page.group-name}}</h2>
+                    <img class="lab-pic" src="{{ page.picture }}" alt="a picture of the {{ page.group-name }} group">
                     {{content}}
 
                     <h2 class="blog-post-title">Members</h2>
@@ -79,7 +97,7 @@
                         <dl>
                             <dt>Institution</dt>
                             <dd>{{page.institution}}</dd>
-                            <dt>Department</dt>>
+                            <dt>Department</dt>
                             <dd>{{page.department}}</dd>
                             <dt>Address</dt>
                             <dd>
@@ -98,7 +116,7 @@
     </div>
 
 </main>
-<footer class="footer mt-auto py-3 bg-light fixed-bottom">
+<footer class="footer py-3 bg-light">
     <div class="container">
         <span class="text-muted">Place sticky footer content here.</span>
     </div>
