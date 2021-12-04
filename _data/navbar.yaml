@@ -1,0 +1,10 @@
+nav:
+
+  - title: Home
+    url: /
+
+  - title: Courses
+    url: courses/
+
+  - title: Research
+    url: research_groups/
