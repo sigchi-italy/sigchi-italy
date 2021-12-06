@@ -4,7 +4,10 @@ nav:
     url: /
 
   - title: Courses
-    url: courses/
+    url: /courses/
 
   - title: Research
-    url: research_groups/
+    url: /research_groups/
+
+  - title: Guide
+    url: /guide/

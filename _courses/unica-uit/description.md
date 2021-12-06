@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: course
 title: UIT - UniCA
 institution: Università di Cagliari
 department: Matematica e Informatica

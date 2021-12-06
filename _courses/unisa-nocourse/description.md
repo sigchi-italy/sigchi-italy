@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: course
 title: No course
 institution: University of Salerno
 department: Informatica
