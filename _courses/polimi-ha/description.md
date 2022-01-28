@@ -1,4 +1,5 @@
 ---
+layout: course
 title: Hypermedia Applications (Web and Multimedia)
 institution: Politecnico di Milano
 department: Elettronica, Informazione e Bioingegneria

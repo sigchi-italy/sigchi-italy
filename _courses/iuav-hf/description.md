@@ -1,4 +1,5 @@
 ---
+layout: course
 title: Human Factors
 institution: uUn. San Marino-IUAv
 department: DESDE

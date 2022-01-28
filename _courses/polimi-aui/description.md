@@ -1,4 +1,5 @@
 ---
+layout: course
 title: Advanced User Interfaces
 institution: Politecnico di Milano
 department: Elettronica, Informazione e Bioingegneria
