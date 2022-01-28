@@ -13,8 +13,8 @@ address:
   zip: 09124
 picture: assets/logocg3hci.png
 website: http://cg3hci.dmi.unica.it
-    members: 
-       - member:
+members: 
+    - member:
       name: Lucio Davide
       surname: Spano
       picture: null
