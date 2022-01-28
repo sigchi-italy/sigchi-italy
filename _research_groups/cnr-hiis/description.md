@@ -1,5 +1,6 @@
 ---
 layout: research
+permalink: /research_groups/cnr-hiis/description.html
 title: HIIS
 group-name: HIIS
 institution: CNR-ISTI
