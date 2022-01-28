@@ -21,10 +21,10 @@ teacher: Bagnara Pozzi
 ---
 
 
- ## Syllabus 
+## Syllabus 
 HCI, Ergonomics, Workplace, Work Organisation,Interfaces, Usability, Interaction design, Service design
 
- ## Materiale di insegnamento 
+## Materiale di insegnamento 
 Lezioni e progetti a piccoli gruppi
 
  ## Esame finale 
