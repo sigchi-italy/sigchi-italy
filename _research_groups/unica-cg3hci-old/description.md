@@ -5,34 +5,34 @@ group-name: CG3HCI
 institution: University of Cagliari, Department of Mathematics and Computer Science
 website: http://cg3hci.dmi.unica.it/lab/
 members: 
-    -member: 
-        name: Lucio Davide
-        surname: Spano
-        picture: null
-        url: null
-		 email: davide.spano@unica.it
+ -member: 
+  name: Lucio Davide
+  surname: Spano
+  picture: null
+  url: null
+  email: davide.spano@unica.it
 keywords: 
-    -keyword: Gestures
-    -keyword: Intelligent User Interfaces
-    -keyword: End User Development
-    -keyword: Augmented Reality
-    -keyword: Virtual Reality
-    -keyword: Videogames
-    -keyword: User Interface Engineering
-    -keyword: Learning
-    -keyword: AI Explainability
-    -keyword: 
+ -keyword: Gestures
+ -keyword: Intelligent User Interfaces
+ -keyword: End User Development
+ -keyword: Augmented Reality
+ -keyword: Virtual Reality
+ -keyword: Videogames
+ -keyword: User Interface Engineering
+ -keyword: Learning
+ -keyword: AI Explainability
+ -keyword: 
 papers: 
-    -doi: 10.1016/j.ijhcs.2018.09.001
-    -doi: 10.1016/j.cag.2018.02.009
-    -doi: 10.1145/3179429
-    -doi: 10.1145/3229095
-    -doi: 10.1016/j.cag.2016.08.002
-    -doi: 10.1007/s11042-019-7230-3
-    -doi: 10.1007/s11042-019-7604-6
-    -doi: 10.1016/j.ijhcs.2015.10.008
-    -doi: 10.1145/2912124
-    -doi: 10.3390/fi8020010
+ -doi: 10.1016/j.ijhcs.2018.09.001
+ -doi: 10.1016/j.cag.2018.02.009
+ -doi: 10.1145/3179429
+ -doi: 10.1145/3229095
+ -doi: 10.1016/j.cag.2016.08.002
+ -doi: 10.1007/s11042-019-7230-3
+ -doi: 10.1007/s11042-019-7604-6
+ -doi: 10.1016/j.ijhcs.2015.10.008
+ -doi: 10.1145/2912124
+ -doi: 10.3390/fi8020010
 ---
 
 

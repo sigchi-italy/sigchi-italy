@@ -5,34 +5,34 @@ group-name: UX
 institution: Università di Milano-Bicocca
 website: 
 members: 
-    -member: 
-        name: Rossana Actis
-        surname: Grosso
-        picture: null
-        url: null
-		 email: rossana.actis@unimib.it
+ -member: 
+  name: Rossana Actis
+  surname: Grosso
+  picture: null
+  url: null
+  email: rossana.actis@unimib.it
 keywords: 
-    -keyword: User experience evaluation
-    -keyword: Measurement of User Experience
-    -keyword: Implied social attribution
-    -keyword: Cognitive effects of interaction with digital devices
-    -keyword: 
-    -keyword: 
-    -keyword: 
-    -keyword: 
-    -keyword: 
-    -keyword: 
+ -keyword: User experience evaluation
+ -keyword: Measurement of User Experience
+ -keyword: Implied social attribution
+ -keyword: Cognitive effects of interaction with digital devices
+ -keyword: 
+ -keyword: 
+ -keyword: 
+ -keyword: 
+ -keyword: 
+ -keyword: 
 papers: 
-    -doi: https://doi.org/10.1016/j.chb.2017.01.032
-    -doi:  DOI https://doi.org/10.1007/978-3-319-26844-6_36
-    -doi: https://doi.org/10.1007/978-3-319-07485-6_16
-    -doi: DOI: https://doi.org/10.1163/22134913-00002022
-    -doi: https://doi.org/10.2298/PSI1703285A
-    -doi: Front. Psychol., 0https://doi.org/10.3389/fpsyg.2016.01697
-    -doi:  ront. Behav. Neurosci., 30 https://doi.org/10.3389/fnbeh.2015.00258
-    -doi: 
-    -doi: 
-    -doi: 
+ -doi: https://doi.org/10.1016/j.chb.2017.01.032
+ -doi:  DOI https://doi.org/10.1007/978-3-319-26844-6_36
+ -doi: https://doi.org/10.1007/978-3-319-07485-6_16
+ -doi: DOI: https://doi.org/10.1163/22134913-00002022
+ -doi: https://doi.org/10.2298/PSI1703285A
+ -doi: Front. Psychol., 0https://doi.org/10.3389/fpsyg.2016.01697
+ -doi:  ront. Behav. Neurosci., 30 https://doi.org/10.3389/fnbeh.2015.00258
+ -doi: 
+ -doi: 
+ -doi: 
 ---
 
 

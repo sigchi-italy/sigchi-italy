@@ -5,34 +5,34 @@ group-name: HIT
 institution: Università degli Studi di Padova
 website: http://hit.psy.unipd.it/
 members: 
-    -member: 
-        name: Luciano
-        surname: Gamberini
-        picture: null
-        url: null
-		 email: luciano.gamberini@unipd.it
+ -member: 
+  name: Luciano
+  surname: Gamberini
+  picture: null
+  url: null
+  email: luciano.gamberini@unipd.it
 keywords: 
-    -keyword: human-computer interaction
-    -keyword: mediated interaction and communication
-    -keyword: presence in virtual and augmented reality
-    -keyword: persuasive technology
-    -keyword: 
-    -keyword: 
-    -keyword: 
-    -keyword: 
-    -keyword: 
-    -keyword: 
+ -keyword: human-computer interaction
+ -keyword: mediated interaction and communication
+ -keyword: presence in virtual and augmented reality
+ -keyword: persuasive technology
+ -keyword: 
+ -keyword: 
+ -keyword: 
+ -keyword: 
+ -keyword: 
+ -keyword: 
 papers: 
-    -doi: 10.1371/journal.pone.0177851
-    -doi: 10.1016/j.neuropsychologia.2007.12.016
-    -doi: 10.1348/014466606X120482
-    -doi: 10.1109/MC.2011.125
-    -doi: 10.1080/10447318.2016.1142798
-    -doi: 10.1007/978-3-319-13500-7_7
-    -doi: 10.1007/978-3-319-10190-3_6
-    -doi: 10.1007/s00779-011-0476-z
-    -doi: 10.1080/10447318.2016.1142798
-    -doi: 10.1080/08351813.2016.1234614
+ -doi: 10.1371/journal.pone.0177851
+ -doi: 10.1016/j.neuropsychologia.2007.12.016
+ -doi: 10.1348/014466606X120482
+ -doi: 10.1109/MC.2011.125
+ -doi: 10.1080/10447318.2016.1142798
+ -doi: 10.1007/978-3-319-13500-7_7
+ -doi: 10.1007/978-3-319-10190-3_6
+ -doi: 10.1007/s00779-011-0476-z
+ -doi: 10.1080/10447318.2016.1142798
+ -doi: 10.1080/08351813.2016.1234614
 ---
 
 

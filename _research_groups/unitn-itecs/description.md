@@ -5,34 +5,34 @@ group-name: ITECS
 institution: Università di Trento - Dipartimento di Psicologia e Scienze Cognitive
 website: http://itecs.dipsco.unitn.it
 members: 
-    -member: 
-        name: Massimo
-        surname: Zancanaro
-        picture: null
-        url: null
-		 email: massimo.zancanaro@unitn.it
+ -member: 
+  name: Massimo
+  surname: Zancanaro
+  picture: null
+  url: null
+  email: massimo.zancanaro@unitn.it
 keywords: 
-    -keyword: co-design
-    -keyword: artificial intelligence
-    -keyword: cognitive science
-    -keyword: smart cities
-    -keyword: technology in education
-    -keyword: 
-    -keyword: 
-    -keyword: 
-    -keyword: 
-    -keyword: 
+ -keyword: co-design
+ -keyword: artificial intelligence
+ -keyword: cognitive science
+ -keyword: smart cities
+ -keyword: technology in education
+ -keyword: 
+ -keyword: 
+ -keyword: 
+ -keyword: 
+ -keyword: 
 papers: 
-    -doi: 10.1145/3311927.3325331
-    -doi: 10.1145/3328320.3328400
-    -doi: 
-    -doi: 
-    -doi: 
-    -doi: 
-    -doi: 
-    -doi: 
-    -doi: 
-    -doi: 
+ -doi: 10.1145/3311927.3325331
+ -doi: 10.1145/3328320.3328400
+ -doi: 
+ -doi: 
+ -doi: 
+ -doi: 
+ -doi: 
+ -doi: 
+ -doi: 
+ -doi: 
 ---
 
 

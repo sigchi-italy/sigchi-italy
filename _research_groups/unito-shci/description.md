@@ -5,34 +5,34 @@ group-name: SHCI
 institution: Dipartimento di Informatica - Università di Torino
 website: http://icxt.di.unito.it/laboratori/smart-human-computer-interaction/
 members: 
-    -member: 
-        name: Cristina
-        surname: Gena
-        picture: null
-        url: null
-		 email: cristina.gena@unito.it
+ -member: 
+  name: Cristina
+  surname: Gena
+  picture: null
+  url: null
+  email: cristina.gena@unito.it
 keywords: 
-    -keyword: human robot interaction
-    -keyword: brain computer interfaces
-    -keyword: gestural interaction
-    -keyword: multimodal interaction 
-    -keyword: intellingent user interfaces 
-    -keyword: information visualization
-    -keyword: wereable computing 
-    -keyword: 
-    -keyword: 
-    -keyword: 
+ -keyword: human robot interaction
+ -keyword: brain computer interfaces
+ -keyword: gestural interaction
+ -keyword: multimodal interaction 
+ -keyword: intellingent user interfaces 
+ -keyword: information visualization
+ -keyword: wereable computing 
+ -keyword: 
+ -keyword: 
+ -keyword: 
 papers: 
-    -doi: https://doi.org/10.1007/s11042-019-7273-5
-    -doi: https://doi.org/10.1007/s11257-019-09225-8
-    -doi: 10.1145/3314183.3323865
-    -doi: 10.1145/3320435.3320472
-    -doi: 10.1109/ARSO.2018.8625810
-    -doi: https://doi.org/10.1080/0144929X.2017.1322145
-    -doi: 
-    -doi: 
-    -doi: 
-    -doi: 
+ -doi: https://doi.org/10.1007/s11042-019-7273-5
+ -doi: https://doi.org/10.1007/s11257-019-09225-8
+ -doi: 10.1145/3314183.3323865
+ -doi: 10.1145/3320435.3320472
+ -doi: 10.1109/ARSO.2018.8625810
+ -doi: https://doi.org/10.1080/0144929X.2017.1322145
+ -doi: 
+ -doi: 
+ -doi: 
+ -doi: 
 ---
 
 
