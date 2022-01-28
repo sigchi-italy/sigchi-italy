@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+{% include head.html %}
+<body>
+{% include header.html %}
+<main class="flex-shrink-0">
+    <div class="container">
+        <div class="row g-5">
+            <div class="col-md-8">
+
+                <article class="blog-post">
+                    <h1 class="blog-post-title">{{page.course-name}}</h1>
+                    {{content}}
+                </article>
+
+            </div>
+
+            <div class="col-md-4">
+                <div class="position-sticky" style="top: 2rem;">
+                    <div class="p-4 mb-3 bg-light rounded">
+                        <h4 class="fst-italic">Course Info</h4>
+                        <dl>
+                            <dt>Institution</dt>
+                            <dd>{{page.institution}}</dd>
+                            <dt>Department</dt>
+                            <dd>{{page.department}}</dd>
+                            <dt>Degree</dt>
+                            <dd>{{page.degree}}</dd>
+                            <dt>Level</dt>
+                            <dd>{{page.level}}</dd>
+                            <dt>CFU</dt>
+                            <dd>{{page.cfu}}</dd>
+                            <dt>Hours</dt>
+                            <dd>{{page.hours}}</dd>
+                            <dt>Website</dt>
+                            <dd><a href="{{page.website}}">{{page.website}}</a></dd>
+                        </dl>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+</main>
+{% include footer.html %}
+</body>
+</html>

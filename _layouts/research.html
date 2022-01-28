@@ -1,83 +1,8 @@
 <!doctype html>
 <html lang="en">
-<head>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-    <!-- Bootstrap CSS -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
-          integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-
-    <style>
-        main > .container {
-            padding-top: 60px;
-
-        }
-
-        html, body {
-            height: 100%;
-        }
-
-        main {
-            min-height: 100%;
-            overflow:auto;
-            padding-bottom: 150px;
-        }
-
-
-        .footer {
-            position: relative;
-            margin-top: -150px; /* negative value of footer height */
-            height: 150px;
-            clear:both;
-            padding-top:20px;
-        }
-
-    </style>
-    <link href="/sigchi-italy/_layouts/custom-bootstrap.css" rel="stylesheet">
-    <title>{{page.title}}</title>
-</head>
+{% include head.html %}
 <body>
-<header>
-    <div class="px-3 py-2 bg-dark text-white fixed-top">
-        <div class="container">
-            <div class="d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start">
-                <a href="/" class="d-flex align-items-center my-2 my-lg-0 me-lg-auto text-white text-decoration-none">
-                    <img src="http://sigchitaly.eu/wp-content/uploads/2014/06/cropped-sigchilogo250.png" height="35" alt="Sigchi-Italy">
-                </a>
-
-                <ul class="nav col-12 col-lg-auto my-2 justify-content-center my-md-0 text-small">
-                    <li>
-                        <a href="#" class="nav-link text-secondary">
-                            Home
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#" class="nav-link text-white">
-                            Dashboard
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#" class="nav-link text-white">
-                            Orders
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#" class="nav-link text-white">
-                            Products
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#" class="nav-link text-white">
-                            Customers
-                        </a>
-                    </li>
-                </ul>
-            </div>
-        </div>
-    </div>
-</header>
+{% include header.html %}
 <main class="flex-shrink-0">
     <div class="container">
         <div class="row g-5">
@@ -89,6 +14,16 @@
                     {{content}}
 
                     <h3 class="blog-post-title">Members</h3>
+                    {% for item in page.members %}
+                    <li class="no-bullet">
+                            {% if item.member.picture and item.member.picture != "null" and item.member.picture != "" %}
+                            <img class="member" src="{{item.member.picture}}" alt="picture of {{item.member.name}} {{item.member.surname}}">
+                            {% else %}
+                            <img class="member" src="{{site.baseurl}}/images/site/user.png" alt="picture of {{item.member.name}} {{item.member.surname}}">
+                            {% endif %}
+                            <span class="member-detail"><a href="{{member.member.url}}">{{item.member.name}} {{item.member.surname}}</a></span>
+                    </li>
+                    {% endfor %}
                 </article>
 
             </div>
@@ -119,14 +54,6 @@
     </div>
 
 </main>
-<footer class="footer py-3 bg-light">
-    <div class="container">
-        <span class="text-muted">Place sticky footer content here.</span>
-    </div>
-</footer>
-
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
-        integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
-        crossorigin="anonymous"></script>
+{% include footer.html %}
 </body>
 </html>

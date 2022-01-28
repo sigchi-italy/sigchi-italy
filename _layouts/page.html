@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+{% include head.html %}
+<body>
+{% include header.html %}
+<main class="flex-shrink-0">
+    <div class="container">
+        <div class="row g-5">
+            <div class="col-md-8">
+
+                <article class="blog-post">
+                    <h2 class="blog-post-title">{{page.group-name}}</h2>
+                    {{content}}
+
+                </article>
+
+            </div>
+
+
+        </div>
+    </div>
+
+</main>
+{% include footer.html %}
+</body>
+</html>

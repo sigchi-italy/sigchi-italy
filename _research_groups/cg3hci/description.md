@@ -22,7 +22,7 @@ members:
    - member:
       name: Riccardo 
       surname: Scateni
-      picture: null
+      picture: http://cg3hci.dmi.unica.it/lab/user/pages/02.people/01.riccardo.scateni/img/riccardo.jpg
       url: https://cg3hci.dmi.unica.it/lab/en/people/riccardo.scateni
 ---
 <!-- Inserire qui un testo libero che descriva il laboratorio -->
