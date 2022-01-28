@@ -14,16 +14,16 @@ address:
 picture: assets/logocg3hci.png
 website: http://cg3hci.dmi.unica.it
 members: 
-    - member:
-      name: Lucio Davide
-      surname: Spano
-      picture: null
-      url: https://cg3hci.dmi.unica.it/lab/en/people/davide.spano
-   - member:
-      name: Riccardo 
-      surname: Scateni
-      picture: http://cg3hci.dmi.unica.it/lab/user/pages/02.people/01.riccardo.scateni/img/riccardo.jpg
-      url: https://cg3hci.dmi.unica.it/lab/en/people/riccardo.scateni
+ - member:
+    name: Lucio Davide
+    surname: Spano
+    picture: null
+    url: https://cg3hci.dmi.unica.it/lab/en/people/davide.spano
+ - member:
+    name: Riccardo 
+    surname: Scateni
+    picture: http://cg3hci.dmi.unica.it/lab/user/pages/02.people/01.riccardo.scateni/img/riccardo.jpg
+    url: https://cg3hci.dmi.unica.it/lab/en/people/riccardo.scateni
 ---
 <!-- Inserire qui un testo libero che descriva il laboratorio -->
 
