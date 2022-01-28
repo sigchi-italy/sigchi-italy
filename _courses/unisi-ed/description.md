@@ -1,4 +1,5 @@
 ---
+layout: course
 title: Experience Design
 institution: Università di Siena
 department: Dipartimento di Scienze Sociali, Politiche e Cognitive
@@ -20,14 +21,14 @@ teacher: Patrizia Marti
 ---
 
 
- ## Syllabus 
+## Syllabus 
 Non ancora disponibile. Il corso parte nel secondo semestre dell'a.a. 2015-2016
 
- ## Materiale di insegnamento 
+## Materiale di insegnamento 
 Non ancora disponibile. Il corso parte nel secondo semestre dell'a.a. 2015-2016
 
- ## Esame finale 
+## Esame finale 
 Progetto di gruppo;Esame orale
 
- ## Strumenti di sviluppo 
+## Strumenti di sviluppo 
 Mockup tools

@@ -1,4 +1,5 @@
 ---
+layout: course
 title: Interazione Uomo Macchina
 institution: Verona
 department: Informatica
@@ -20,7 +21,7 @@ teacher: Andrea Giachetti
 ---
 
 
- ## Syllabus 
+## Syllabus 
 Contenuti:
 -­‐ L'uomo. Fisiologia, percezione, modelli di memoria e ragionamento, emozione
 -­‐ Il calcolatore ed i suoi dispositivi di I/O. Dispositivi, tipi di interfacce
@@ -31,15 +32,15 @@ Contenuti:
 realtà virtuale.
 -­‐ Laboratorio/esercitazioni: Valutazione di siti web e sistemi d’interazione moderni, sviluppo di interfacce con librerie QT.
 
- ## Materiale di insegnamento 
+## Materiale di insegnamento 
 slides del corso, materiale online
 alcune  parti su Dix et al.
 
- ## Esame finale 
+## Esame finale 
 Domande a risposta aperta;Progetto di gruppo
 
- ## Strumenti di sviluppo 
+## Strumenti di sviluppo 
 QT
 
- ## Altre informazioni 
+## Altre informazioni 
 il corso sarà variato nel 2015/16

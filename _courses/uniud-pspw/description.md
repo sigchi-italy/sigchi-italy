@@ -1,4 +1,5 @@
 ---
+layout: course
 title: Progetto di siti e portali web
 institution: Università di Udine
 department: Dip. di Matematica e Informatica
@@ -20,20 +21,20 @@ teacher: Giorgio Brajnik
 ---
 
 
- ## Syllabus 
+## Syllabus 
 Analisi dei requisiti
 Approccio usage-centered development
 Progettazione dell'interfaccia utente
 Indagini di usabilità
 Indagini di accessibilità
 
- ## Materiale di insegnamento 
+## Materiale di insegnamento 
 Slide
 Esempi
 Libro: G. Brajnik - Elio Toppano. Creare siti web multimediali. Fondamenti per l'analisi e la progettazione (Creating websites. A foundation for analysis and design), Pearson - Addison Wesley, maggio 2007. 
 
- ## Esame finale 
+## Esame finale 
 Domande a risposta aperta;Progetto individuale;Progetto di gruppo;Esame orale
 
- ## Strumenti di sviluppo 
+## Strumenti di sviluppo 
 Mockup tools;Linguaggi di scripting

@@ -1,4 +1,5 @@
 ---
+layout: course
 title: Human Computer Interaction
 institution: Politecnico di Torino
 department: Dipartimento di Automatica e Informatica
@@ -20,14 +21,14 @@ teacher: Luigi De Russis, Fulvio Corno
 ---
 
 
- ## Syllabus 
+## Syllabus 
 https://didattica.polito.it/pls/portal30/gap.pkg_guide.viewGap?p_cod_ins=02JSKSM
 
- ## Materiale di insegnamento 
+## Materiale di insegnamento 
 https://elite.polito.it/teaching/current-courses/513-02jskov-hci?start=2
 
- ## Esame finale 
+## Esame finale 
 Domande a risposta aperta;Progetto di gruppo;Esame orale
 
- ## Strumenti di sviluppo 
+## Strumenti di sviluppo 
 Mockup tools;Linguaggi compilati (p. es. con IDEs);Prototipi di carta

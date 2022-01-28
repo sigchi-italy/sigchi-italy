@@ -1,4 +1,5 @@
 ---
+layout: course
 title: Interazione Uomo-Macchina
 institution: Università di Bari Aldo Moro
 department: Informatica
@@ -20,7 +21,7 @@ teacher: Carmelo Ardito
 ---
 
 
- ## Syllabus 
+## Syllabus 
 1. Sistemi interattivi e interfacce d’uso
 2. Evoluzione dei paradigmi d’interazione
 3. Usabilità, Accessibilità, ISO 9126 e Metriche di usabilità
@@ -36,7 +37,7 @@ teacher: Carmelo Ardito
 13. Visualizzazione delle informazioni
 
 
- ## Materiale di insegnamento 
+## Materiale di insegnamento 
 Testo adottato:
 R. Polillo, Facile da usare – Una moderna introduzione alla ingegneria dell’usabilità, Edizioni Apogeo, giugno 2010
 
@@ -46,11 +47,11 @@ Materiale integrativo messo a disposizione degli studenti dal docente tramite ca
 - capitolo su Information Visualization: Dix, A. (2013). Introduction to Information Visualisation. In: Information Retrieval Meets Information Visualization, M. Agosti, N. Ferro, P. Forner, H. Müller and G. Santucci Eds. LNCS 7757. Springer Berlin Heidelberg, 1-27.
 - altro materiale su Information Visualisation
 
- ## Esame finale 
+## Esame finale 
 Domande a risposta aperta;Progetto di gruppo
 
- ## Strumenti di sviluppo 
+## Strumenti di sviluppo 
 Mockup tools
 
- ## Altre informazioni 
+## Altre informazioni 
 Sono previste due prove in itinere che, se superate, esonerano dall'esame scritto. Tali prove sono riservate agli studenti che frequentano assiduamente le lezioni (min 80%). La prima prova si svolge durante la settimana di interruzione delle lezioni a novembre. La seconda prova, a cui possono accedere solo coloro che hanno superato la prima, si svolge in concomitanza con il primo appello di gennaio.

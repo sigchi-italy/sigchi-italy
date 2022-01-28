@@ -27,8 +27,8 @@ HCI, Ergonomics, Workplace, Work Organisation,Interfaces, Usability, Interaction
 ## Materiale di insegnamento 
 Lezioni e progetti a piccoli gruppi
 
- ## Esame finale 
+## Esame finale 
 Progetto di gruppo
 
- ## Strumenti di sviluppo 
+## Strumenti di sviluppo 
 Mockup tools

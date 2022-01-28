@@ -1,4 +1,5 @@
 ---
+layout: course
 title: International Specializing Master in User Experience Psychology
 institution: Università Cattolica del Sacro Cuore e POLIDesign - Politecnico di Milano
 department: Faculty of Psychology and Faculty of Design
@@ -20,17 +21,17 @@ teacher: Andrea Gaggioli
 ---
 
 
- ## Syllabus 
+## Syllabus 
 Può essere scaricato registrandosi da: https://offertaformativa.unicatt.it/master-lista-master-user-experience-psychology
 
- ## Materiale di insegnamento 
+## Materiale di insegnamento 
 Può essere scaricato registrandosi da: https://offertaformativa.unicatt.it/master-lista-master-user-experience-psychology
 
- ## Esame finale 
+## Esame finale 
 Progetto individuale;Progetto di gruppo
 
- ## Strumenti di sviluppo 
+## Strumenti di sviluppo 
 Mockup tools
 
- ## Altre informazioni 
+## Altre informazioni 
 https://www.youtube.com/watch?v=xrEG3wIGUck

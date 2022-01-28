@@ -21,7 +21,7 @@ teacher: Franca Garzotto
 ---
 
 
- ## Syllabus 
+## Syllabus 
 COURSE RATIONALE AND GOALS
 
 Thinking “out of the box” and understanding human needs is crucial to exploit the full potential of novel ICT technologies and to develop ground-breaking interactive applications and services. This course will stimulate this attitude and will provide students with technological and methodological know-how that will facilitate their becoming carriers of innovation in the ICT arena.
@@ -52,7 +52,7 @@ The course will cover 3 main subject areas:
 
 
 
- ## Materiale di insegnamento 
+## Materiale di insegnamento 
 Slides del corso
 Materiale facoltativo:
 
@@ -64,8 +64,8 @@ B. Buxton, Sketching User Exeriences:Getting the Right Design and the Design Rig
 
 J. Lazar et al., Research Methods in Human-Computer Interaction, Editore: Wiley, Anno edizione: 2010 http://sonify.psych.gatech.edu/~walkerb/classes/hci/extrareading/LazarFengHochheiser-CH14-and-Ch15.pdf
 
- ## Esame finale 
+## Esame finale 
 Progetto individuale;Progetto di gruppo
 
- ## Strumenti di sviluppo 
+## Strumenti di sviluppo 
 Mockup tools;API delle varie tecnologie proposte

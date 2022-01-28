@@ -1,4 +1,5 @@
 ---
+layout: course
 title: Interazione Uomo-Macchina
 institution: Politecnico di Milano
 department: Elettronica, Informazione e Bioingegneria
@@ -20,7 +21,7 @@ teacher: Franca Garzotto
 ---
 
 
- ## Syllabus 
+## Syllabus 
 Il corso si propone due principali obbiettivi didattici:
 
 1) consapevolizzare gli studenti sull’importanza della qualità di interfaccia e modalitata' di interazione   nelle applicazioni informatiche moderne;
@@ -44,7 +45,7 @@ I principali argomenti affrontati includono:
 Le lezioni includeranno la discussione di casi di studio in diversi domini applicativi (e-tourism, e-culture, e-learning)
 
 
- ## Materiale di insegnamento 
+## Materiale di insegnamento 
 Slides del corso
 
 Materiale Opzionale:
@@ -58,8 +59,8 @@ In inglese
 Risorsa bibliografica facoltativaR. Harson, P. S. Pyla, The UX Book, Editore: Morgan Kaufman, Anno edizione: 2012 TheUXbook.com
 
 
- ## Esame finale 
+## Esame finale 
 Progetto individuale
 
- ## Altre informazioni 
+## Altre informazioni 
 Si tratta di corso erogato nella Programma di Laurea Triennale ON-LINE

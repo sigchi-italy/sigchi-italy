@@ -1,4 +1,5 @@
 ---
+layout: course
 title: Human-Computer Interaction
 institution: Sapienza
 department: Ingegneria Informatica, Automatica e Gestionale "A.Ruberti"
@@ -20,7 +21,7 @@ teacher: Tiziana Catarci/Giuseppe Santucci
 ---
 
 
- ## Syllabus 
+## Syllabus 
 
     Introductory Concepts
         Human 
@@ -36,12 +37,12 @@ teacher: Tiziana Catarci/Giuseppe Santucci
     Visual Analytics
 
 
- ## Materiale di insegnamento 
+## Materiale di insegnamento 
 A. Dix. et al. Human-Computer Interaction. Pearson/Prentice Hall, 2003 (3rd edition). 
 Slides delle lezioni
 
- ## Esame finale 
+## Esame finale 
 Progetto di gruppo
 
- ## Strumenti di sviluppo 
+## Strumenti di sviluppo 
 Mockup tools;Linguaggi compilati (p. es. con IDEs);d3.js

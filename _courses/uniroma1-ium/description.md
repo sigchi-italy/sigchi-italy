@@ -1,4 +1,5 @@
 ---
+layout: course
 title: Interazione Uomo Macchina
 institution: Sapienza Università di Roma
 department: Dipartimento di Informatica
@@ -20,7 +21,7 @@ teacher: Emanuele Panizzi
 ---
 
 
- ## Syllabus 
+## Syllabus 
 Argomenti trattati nel corso
 • progetto e sviluppo di sistemi interattivi
 • agile + UCD
@@ -42,10 +43,10 @@ Progetto d'esame: progetto di interfaccia mobile
  • prototyping (paper prototyping, mago di OZ, app e siti web prototipali)
  • revisioni (2 revisioni minimo per ogni gruppo)
 
- ## Materiale di insegnamento 
+## Materiale di insegnamento 
 Dix et al, Human Computer Interaction, 3a ed
 Slide del corso.
 Altri titoli indicati nelle slide.
 
- ## Esame finale 
+## Esame finale 
 Domande a risposta aperta;Progetto di gruppo;Esame orale

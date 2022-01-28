@@ -1,4 +1,5 @@
 ---
+layout: course
 title: Interaction Design
 institution: Università di Torino
 department: Culture, Politica e Società
@@ -20,14 +21,14 @@ teacher: Rossana Simeoni
 ---
 
 
- ## Syllabus 
+## Syllabus 
 Il corso ha l'obiettivo di fornire gli elementi fondamentali dell’Interaction-Design e dell’Interazione Uomo-Macchina secondo un approccio multidisciplinare. Il programma del corso comprende:
 1) il contributo dei fattori umani, della tecnologia e della creativita’;
 2) le metodologie e le tecniche di progettazione di sistemi e device interattivi innovativi;
 3) le fasi di progettazione dei sistemi interattivi e delle interfacce uomo-macchina con attenzione al contesto applicativo di riferimento.
 Alle lezioni frontali sono accostati: casi di studio, laboratori ed esercitazioni di progettazione.
 
- ## Materiale di insegnamento 
+## Materiale di insegnamento 
 Manuale di base:
 
 Dan Saffer “Designing for Interaction: Creating Innovative Applications and Devices, second Edition, New Riders
@@ -48,8 +49,8 @@ Bruno Munari, “Da cosa nasce cosa”, Laterza.
 
 
 
- ## Esame finale 
+## Esame finale 
 Progetto individuale;Progetto di gruppo;Esame orale
 
- ## Strumenti di sviluppo 
+## Strumenti di sviluppo 
 Mockup tools;Linguaggi compilati (p. es. con IDEs)

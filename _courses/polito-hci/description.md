@@ -1,4 +1,5 @@
 ---
+layout: course
 title: Human Computer Interaction
 institution: Politecnico di Torino
 department: Dipartimento di Automatica e Informatica
@@ -20,7 +21,7 @@ teacher: Fulvio Corno, Luigi De Russis
 ---
 
 
- ## Syllabus 
+## Syllabus 
 Nowadays, computing devices are ubiquitously present and integrated in our daily life. Sensors and actuators are, indeed, embedded in home appliances, lights, or cars; wearable devices like smart watches provide information at glance and act as always-on and personal digital extensions; smartphones and tablets are widely spread. Moreover, most of such devices are Internet-connected and people communicate with them by using various interaction paradigms, ranging from "click", to "touch", to gestures, speech, or tangible manipulation. As the technology improves, however, we are challenged of how to design suitable interfaces and interactions, so that people can use such technologies with "joy" rather than "frustration".
 
 This course would provide a strong foundation to address this challenge. In addition, the course will give students hands-on practice to master this complexity and to develop innovative solutions by adopting a modern human-centered design process while building a web application to serve a set of target users. In the end, students will learn how to design and build technologies that are usable, useful, and used.
@@ -34,11 +35,11 @@ Course topics will cover three areas:
 Most of the topics will have a theoretical (in-class) foundation plus hands-on (in-lab) experiences by using web technologies. Students' projects will follow the proposed human-centered design process and will submit intermediate deliverables. Projects will consist of a modern web application, in which one of the "beyond WIMP" technologies is exploited for user interaction.
 During the course, communication within teams and with teachers as well as project development will adopt contemporary solutions and tools (e.g., Git and GitHub, Slack, …).
 
- ## Materiale di insegnamento 
+## Materiale di insegnamento 
 All the course material is available on the website at http://bit.ly/polito-hci
 
- ## Esame finale 
+## Esame finale 
 Domande a risposta aperta;Progetto di gruppo;Esame orale
 
- ## Strumenti di sviluppo 
+## Strumenti di sviluppo 
 Mockup tools;Linguaggi di scripting;Linguaggi compilati (p. es. con IDEs)

@@ -1,4 +1,5 @@
 ---
+layout: course
 title: Seminars in Software and Services. Smart spaces
 institution: Sapienza Università di Roma
 department: Dipartimento di Ingegneria Informatica Automatica Gestionale
@@ -20,14 +21,14 @@ teacher: Massimo Mecella
 ---
 
 
- ## Syllabus 
+## Syllabus 
 Il corso è di nuova istituzione dall'a.a. 2014/15, ed andrà in aula per la 1a edizione dal 28 Settembre 2015. Si pensa di inserire una parte su modalità di interazione avanzata, ad es., attraverso tecnologie quali Leap Motion, wearable, etc.
 
- ## Materiale di insegnamento 
+## Materiale di insegnamento 
 Ancora da definire nei dettagli
 
- ## Esame finale 
+## Esame finale 
 Progetto di gruppo
 
- ## Strumenti di sviluppo 
+## Strumenti di sviluppo 
 Linguaggi di scripting;Linguaggi compilati (p. es. con IDEs)

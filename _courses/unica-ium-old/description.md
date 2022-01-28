@@ -1,4 +1,5 @@
 ---
+layout: course
 title: Interazione Uomo Macchina
 institution: Università di Cagliari
 department: Matematica e Informatica
@@ -20,7 +21,7 @@ teacher: Lucio Davide Spano
 ---
 
 
- ## Syllabus 
+## Syllabus 
 1- Introduzione all’HCI
 2- I dispositivi di interazione
     2.1 - I dispositivi di ingresso: inserimento testo, puntamento, tracciamento, rilevazione parametri ambientali e fisiologici
@@ -56,7 +57,7 @@ teacher: Lucio Davide Spano
      7.4 - Interfacce naturali
 
 
- ## Materiale di insegnamento 
+## Materiale di insegnamento 
 Slides ed esercitazioni fornite dal docente
 
 Libri:
@@ -66,8 +67,8 @@ Dix, Finlay, Abowd, Beale: Interazione Uomo Macchina (terza edizione); McGraw Hi
 
 Preece, Rogers, Sharp: Interaction Design: beyond human-computer interaction (3rd edition), Wiley (2011)
 
- ## Esame finale 
+## Esame finale 
 Domande a risposta multipla;Domande a risposta aperta;Progetto di gruppo;Esame orale
 
- ## Strumenti di sviluppo 
+## Strumenti di sviluppo 
 Mockup tools;Linguaggi di scripting;Linguaggi compilati (p. es. con IDEs)

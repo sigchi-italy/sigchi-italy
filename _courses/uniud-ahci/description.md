@@ -1,4 +1,5 @@
 ---
+layout: course
 title: Advanced Human-Computer Interaction
 institution: Università di Udine
 department: 
@@ -20,7 +21,7 @@ teacher: Luca Chittaro
 ---
 
 
- ## Syllabus 
+## Syllabus 
 
     Information Visualization(IV): Information Visualization (IV): definitions. Data vs. Information. Goals of IV. Information Visualization vs. Scientific Visualization. Issues involved in IV Design. Mapping: principles, visual attributes. Mapping examples. 2D vs. 3D visualizations. Typical IV design problems. A classification of data types: Categorical, Numerical, Topological, Symbolic, Textual Data.
     Techniques for visualizing and interacting with data: Bivariate, Trivariate, Multivariate data: Scatterplots, Mosaic Display, Parallel coordinate plots, Starplot, Chernoff Faces. Hierarchical Axis. Dimensional Stacking. A general model for information visualization systems. A classification of task types: overview, zoom, filter, details-on-demand, relate, history, extract. Dynamic Queries, Alphasliders, The Attribute Explorer. InfoZoom. Demonstration of XMDV software. Pixel-oriented visualizations: screen-filling curves, recursive pattern, circle segments.
@@ -38,5 +39,5 @@ teacher: Luca Chittaro
     Virtual Humans:. Avatars. Ergonomic dummies. Autonomous agents. Embodied interface agents. General architecture. Applications. Virtual humans in learning and training.
 
 
- ## Materiale di insegnamento 
+## Materiale di insegnamento 
 Articoli e trasparenze consegnate dal docente.

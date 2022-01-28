@@ -1,4 +1,5 @@
 ---
+layout: course
 title: Interaction Design Studio
 institution: Politecnico di Milano
 department: Dipartimento di Elettronica, Informazione e Bioingegneria e Dipartimento di Design
@@ -20,7 +21,7 @@ teacher: Maristella Matera
 ---
 
 
- ## Syllabus 
+## Syllabus 
 Gli argomenti principali trattati nel corso includono:
 
 - User Centered Design: approccio e strumenti progettuali.
@@ -57,12 +58,12 @@ Il corso si conclude con una presentazione finale da parte degli studenti mirata
 
 Il tema generale del progetto riguarda le “Smart Experiences”, cioè servizi, sistemi e applicazioni innovative che utilizzano tecnologie diverse in grado di potenziare le funzionalità e le possibilità di interazione messe a disposizione degli utenti, e di aumentare l’efficacia, l'utilità e l'impatto sociale. Le caratteristiche peculiari delle Smart Experiences includono: la interoperabilità tra diversi sistemi e servizi digitali, la pervasività, la multimodalità e la multicanalità, la capacità di identificare e adattarsi al contesto d’uso e al profilo dell’utente, l’utilizzo di paradigmi di interazione "naturale" e “sociale”.
 
- ## Materiale di insegnamento 
+## Materiale di insegnamento 
 Dispense dei docenti
 Strumentazione per lo sviluppo di smart objects
 
- ## Esame finale 
+## Esame finale 
 Progetto di gruppo
 
- ## Strumenti di sviluppo 
+## Strumenti di sviluppo 
 Mockup tools;Linguaggi di scripting;Strumentazione per smart objects

@@ -1,4 +1,5 @@
 ---
+layout: course
 title: Web Design
 institution: Università Ca' Foscari Venezia
 department: DAIS
@@ -20,7 +21,7 @@ teacher: Fabio Pittarello
 ---
 
 
- ## Syllabus 
+## Syllabus 
 - Web e Graphics Design a confronto: il colore, i caratteri tipografici, il layout.
 - Pianificare un sito web. Organizzare l'informazione. Sistemi di navigazione.
 - Euristiche di usabilità per il web.
@@ -30,7 +31,7 @@ teacher: Fabio Pittarello
 - Responsive web design: costruire un sito web adattabile a classi diverse di dispositivi.
 - Frameworks per lo sviluppo di siti web (Bootstrap)
 
- ## Materiale di insegnamento 
+## Materiale di insegnamento 
 Il riferimento principale per il corso è il sito didattico di ateneo: http://moodle.unive.it
 a cui lo studente può accedere per trovare i materiali del corso, che includono le slides delle lezione svolte, tutorial ed esercitazioni.
 
@@ -45,11 +46,11 @@ Altri testi consigliati:
 - D. Cederholm, CSS3 for Web Designers, A Book Apart, 2015 (second edition).
 - J. Zeldman, Designing with Web Standards (Third Edition) New Riders Press, 2009.
 
- ## Esame finale 
+## Esame finale 
 Domande a risposta multipla;Progetto di gruppo
 
- ## Strumenti di sviluppo 
+## Strumenti di sviluppo 
 Mockup tools;IDE per HTML5 e CSS
 
- ## Altre informazioni 
+## Altre informazioni 
 Altre informazioni sul corso sono disponibili a partire dalla home page del docente: http://www.dais.unive.it/~pitt/

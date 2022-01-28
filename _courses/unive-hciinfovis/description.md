@@ -1,4 +1,5 @@
 ---
+layout: course
 title: Human Computer Interaction and Information Visualization
 institution: Università Ca' Foscari Venezia
 department: DAIS
@@ -20,7 +21,7 @@ teacher: Fabio Pittarello
 ---
 
 
- ## Syllabus 
+## Syllabus 
 Mobile and ubiquitous interaction
 
 - Mobile HCI 
@@ -48,7 +49,7 @@ Information Visualization
     - smart cities (energy, social data, mobility data)
     - education/learning
 
- ## Materiale di insegnamento 
+## Materiale di insegnamento 
 Slides and tutorials will be available through the University site available at: http://moodle.unive.it
 
 Preliminary list of textbooks
@@ -57,12 +58,12 @@ Preliminary list of textbooks
 - Bob Spence, Information Visualization: Design for Interaction,
 Prentice Hall, 2007 (2nd ed.)
 
- ## Esame finale 
+## Esame finale 
 Domande a risposta multipla;Progetto di gruppo
 
- ## Strumenti di sviluppo 
+## Strumenti di sviluppo 
 Mockup tools;Linguaggi di scripting
 
- ## Altre informazioni 
+## Altre informazioni 
 The first edition of the course will start for the Academic Year 2016/17.
 Further information about the course will be available starting from the teacher's home page: http://www.dais.unive.it/~pitt/

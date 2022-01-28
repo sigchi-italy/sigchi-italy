@@ -1,4 +1,5 @@
 ---
+layout: course
 title: Interazione Uomo Macchina
 institution: Università di Milano Bicocca
 department: Informatica, Sistemistica e Comunicazione (DISCO)
@@ -20,7 +21,7 @@ teacher: Roberto Polillo
 ---
 
 
- ## Syllabus 
+## Syllabus 
 1. Introduzione al corso, nascita ed obiettivi della disciplina della Human Computer Interaction.
 2. Interfacce d'uso e usabilità. Progettazione centrata sull'utente. Scenari d'uso, casi d'uso. 
 3. L'ingegneria della usabilità: progettazione iterativa centrata sull'utente. Requisiti. Ruolo dei prototipi, ruolo dell'utente durante la progettazione. Ingegneria e creatività: interaction design pattern, ibridazioni, metafore. Esempi Valutazione dell'usabilità dei sistemi interattivi: ispezioni e test di usabilità.	
@@ -46,18 +47,18 @@ teacher: Roberto Polillo
 			
 			
 
- ## Materiale di insegnamento 
+## Materiale di insegnamento 
 Libro di testo:
 R.Polillo, FACILE DA USARE, Ed.Apogeo, 2010
 più slides usate a lezione
 
- ## Esame finale 
+## Esame finale 
 Domande a risposta multipla;Domande a risposta aperta;Progetto di gruppo
 
- ## Strumenti di sviluppo 
+## Strumenti di sviluppo 
 Mockup tools;Toolkit per mobile a scelta
 
- ## Altre informazioni 
+## Altre informazioni 
 Il corso prevede lezioni frontali sui principi e le metodologie utilizzate, ed esercitazioni in aula durante le quali docente e studenti analizzano e commentano esempi di interfacce di semplici sistemi interattivi. Una parte importante del corso è costituita dalla realizzazione del progetto d’esame, costituito dal prototipo di una semplice app per device mobili (iOS or Android) proposto dagli stessi studenti, organizzati in gruppi di 3 studenti. Il progetto è organizzato in diverse fasi logiche (requisiti, scenari d'uso, prototipo a bassa fedeltà, prototipo ad alta fedeltà, test di usabilità finale, e viene sottoposto a diverse revisioni individuali con i docenti. Il progetto utilizza  strumenti di prototipazione (POP, Prototyping on paper) e un toolkit a scelta degli studenti (ma non prevede attività di programmazione di algoritmi o di gestione di basi di dati). 
 Considerata la necessità di lavoro in gruppo, e di frequente interazione con i docenti, per conseguire gli obiettivi didattici del corso è necessaria una presenza costante alle lezioni.
 "					

@@ -1,4 +1,5 @@
 ---
+layout: course
 title: Interazione Uomo Macchina
 institution: Università di Salerno
 department: Dipartimento di Informatica
@@ -20,7 +21,7 @@ teacher: Giuliana Vitiello
 ---
 
 
- ## Syllabus 
+## Syllabus 
 Contenuti
 INTRODUZIONE DEL CONCETTO DI “INTERAZIONE UOMO MACCHINA”. MODELLI O FRAMEWORK DI INTERAZIONE. GLI STILI DELL’INTERAZIONE. IL CONTESTO SOCIALE DELL’INTERAZIONE. CENNI SULL’ERGONOMIA.
 LA PROGETTAZIONE DELLE INTERFACCE UOMO - SISTEMA. PRINCIPI DI PROGETTAZIONE DELLE INTERFACCE. LINEE GUIDA E METODOLOGIE PER L’INDIVIDUAZIONE DEI PROFILI UTENTE. ANALISI DEI TASK E SCENARI DI UTILIZZO.
@@ -56,11 +57,11 @@ BEN SHNEIDERMAN AND CATHERINE PLAISANT, “DESIGNING THE USER INTERFACE - STRATE
 J. PREECE, Y. ROGERS, H. SHARP,“INTERACTION DESIGN”, ED. APOGEO, 2004
 
 
- ## Materiale di insegnamento 
+## Materiale di insegnamento 
 LIBRI DI TESTO CONSIGLIATI E MATERIALE DIDATTICO OPPORTUNAMENTE PREDISPOSTO, E FORNITO MEDIANTE PIATTAFORMA DI E-LEARNING.
 
- ## Esame finale 
+## Esame finale 
 Domande a risposta multipla;Domande a risposta aperta;Progetto di gruppo;Esame orale
 
- ## Strumenti di sviluppo 
+## Strumenti di sviluppo 
 Mockup tools;Linguaggi di scripting;ambienti IOS e Android

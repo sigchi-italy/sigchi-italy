@@ -1,4 +1,5 @@
 ---
+layout: course
 title: Progettazione Interfacce Grafiche
 institution: Università di Trento
 department: Dipartimento di Scienze Cognitive
@@ -20,7 +21,7 @@ teacher: Massimo Zancanaro e Daniel Tomasini
 ---
 
 
- ## Syllabus 
+## Syllabus 
  Introduzione al concetto di design e al tema del design thinking.
 Discussione sull'importanza del brief. Dal brief alla vision di progetto.
 Introduzione al concetto di stakeholder: utenti primari, secondari e terziari.
@@ -31,8 +32,8 @@ Introduzione alle funzioni di base delle GUI.  Discussione sui principi del visu
 Presentazione dei principi di design.
 Discussione sul concetto di prototipo nell’Interaction Design.
 
- ## Materiale di insegnamento 
+## Materiale di insegnamento 
 Dispense docente e modalità design studio durante il corso. 
 
- ## Esame finale 
+## Esame finale 
 Progetto di gruppo

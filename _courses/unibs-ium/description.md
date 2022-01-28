@@ -1,4 +1,5 @@
 ---
+layout: course
 title: Interazione Uomo-Macchina
 institution: Università degli Studi di Brescia
 department: Dipartimento di Ingegneria dell'Informazione
@@ -20,7 +21,7 @@ teacher: Daniela Fogli
 ---
 
 
- ## Syllabus 
+## Syllabus 
 Obiettivi del corso
 
 L'interazione uomo-macchina e l'usabilità sono assunti come nuove dimensioni dell'ingegneria del software interattivo, alla base delle tecniche di progetto, sviluppo, valutazione e manutenzione dei sistemi interattivi. Il corso presenta l'approccio 'centrato sull'utente' al progetto e allo sviluppo di sistemi interattivi. Le tecniche di valutazione dell'usabilità e di progettazione di interfacce usabili sono gli strumenti centrali del ciclo di sviluppo dei sistemi interattivi che vengono presentati nel corso.
@@ -51,7 +52,7 @@ Specifica dei requisiti. Analisi dei compiti: analisi gerarchica dei compiti, ca
 
 
 
- ## Materiale di insegnamento 
+## Materiale di insegnamento 
 Il corso si basa principalmente sulle slides preparate dal docente.
 
 I testi consigliati sono i seguenti (in ordine di importanza):
@@ -61,8 +62,8 @@ I testi consigliati sono i seguenti (in ordine di importanza):
 - Preece, J., Rogers, Y., Sharp, H. "Interaction Design, beyond human-computer interaction", John Wiley & Sons, 2002 (Trad. It. "Interaction Design", Apogeo, 2004)
 - Nielsen, J., "Usability Engineering", Academic Press, 1993.
 
- ## Esame finale 
+## Esame finale 
 Progetto di gruppo;Esame orale
 
- ## Strumenti di sviluppo 
+## Strumenti di sviluppo 
 Mockup tools

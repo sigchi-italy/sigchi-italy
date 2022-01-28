@@ -1,4 +1,5 @@
 ---
+layout: course
 title: Design dell'Interazione
 institution: Università di Siena
 department: Dipartimento di Scienze Sociali Politiche e Cognitive, DISPOC
@@ -20,19 +21,19 @@ teacher: Antonio Rizzo
 ---
 
 
- ## Syllabus 
+## Syllabus 
 Vedi sito del Corso:
 https://sites.google.com/site/designinterazione2014/
 
- ## Materiale di insegnamento 
+## Materiale di insegnamento 
 Vedi sito del Corso:
 https://sites.google.com/site/designinterazione2014/
 
- ## Esame finale 
+## Esame finale 
 Progetto individuale;Progetto di gruppo
 
- ## Strumenti di sviluppo 
+## Strumenti di sviluppo 
 Mockup tools
 
- ## Altre informazioni 
+## Altre informazioni 
 Brief di design fornito da Aziende private che partecipano alla valutazione dei progetti

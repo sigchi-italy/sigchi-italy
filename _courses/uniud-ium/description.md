@@ -1,4 +1,5 @@
 ---
+layout: course
 title: Interazione Uomo-Macchina
 institution: Università di Udine
 department: 
@@ -20,7 +21,7 @@ teacher: Luca Chittaro
 ---
 
 
- ## Syllabus 
+## Syllabus 
 
     Introduzione. Cenni storici sull'Interazione Uomo-Macchina. Obbiettivi dell'Interazione Uomo-Macchina e sua importanza in diversi settori applicativi.
     I dispositivi per l'interazione. Periferiche per l'inserimento di testo. Periferiche per il puntamento e posizionamento. Body tracking. Accelerometri. Sensori fisiologici. Periferiche per l'output visivo, auditivo, tattile. Casi di studio. Periferiche ed interfacce per utenti disabili.
@@ -33,7 +34,7 @@ teacher: Luca Chittaro
     Interazione e sostenibilita'. Il concetto di sostenibilita' in Interazione Uomo-Macchina. Fattori umani nell'automazione. Information overload.
 
 
- ## Materiale di insegnamento 
+## Materiale di insegnamento 
 L. Gamberini, L. Chittaro, F. Paterno'. Human-Computer Interaction, Pearson, Milano, 2012.
 
 Lo studio del testo viene integrato da casi di studio ed approfondimenti discussi a lezione (tali materiali aggiuntivi sono resi disponibili tramite il sito https://materialedidattico.uniud.it )

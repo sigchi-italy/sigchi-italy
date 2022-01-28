@@ -1,4 +1,5 @@
 ---
+layout: course
 title: Interazione Uomo-Macchina
 institution: Università degli Studi di Milano
 department: Informatica
@@ -20,7 +21,7 @@ teacher: Alessandro Rizzi, Stefano Valtolina, Barbara Rita Barricelli
 ---
 
 
- ## Syllabus 
+## Syllabus 
 Esempi di buono e cattivo design
 Utente e artefatti
 Human Visual System
@@ -50,8 +51,8 @@ Usabilità e accessibilità
 Disabilità visive: non vedenti e ipovedenti
 Disabilità motoria e uditiva
 
- ## Materiale di insegnamento 
+## Materiale di insegnamento 
 Slide e articoli segnalati
 
- ## Esame finale 
+## Esame finale 
 Domande a risposta multipla;Domande a risposta aperta

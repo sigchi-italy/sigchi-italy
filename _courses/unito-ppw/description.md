@@ -1,4 +1,5 @@
 ---
+layout: course
 title: Progettazione e programmazione web -  Web Design and Web Programming
 institution: Torino
 department: Studi Umanistivi
@@ -20,10 +21,10 @@ teacher: Cristina Gena
 ---
 
 
- ## Syllabus 
+## Syllabus 
 L'insegnamento si propone di introdurre lo studente alla risoluzione dei problemi attraverso l'approccio algoritmico, affrontando le conoscenze di base della programmazione (attraverso i linguaggi Javascript, PHP, Ajax, Jquery, ecc.),  e della strutturazione e presentazione  delle informazioni secondo le linee guida e i concetti dell’usabilità e dell’accessibilità del web. Obiettivo fondamentale dell'insegnamento  è quello di fornire gli strumenti metodologici per  l'analisi ed il confronto degli algoritmi e delle strutture dati fondamentali,  per la gestione strutturata delle informazioni e per la loro presentazione in ambito Web. 
 
- ## Materiale di insegnamento 
+## Materiale di insegnamento 
 Le slides della docente. 
 
 Jessica Miller, Victoria Kirst, Marty Stepp
@@ -36,8 +37,8 @@ Step by Step Publishing
 
 
 
- ## Esame finale 
+## Esame finale 
 Progetto individuale;Progetto di gruppo;Esame orale
 
- ## Strumenti di sviluppo 
+## Strumenti di sviluppo 
 Linguaggi di scripting;html5, css3

@@ -1,4 +1,5 @@
 ---
+layout: course
 title: Interazione Uomo-Macchina con elementi di comunicazione multimodale
 institution: Università di Trento
 department: Facoltà Scienze Cognitive
@@ -20,10 +21,10 @@ teacher: Silvia Gabrielli
 ---
 
 
- ## Syllabus 
+## Syllabus 
 Il corso si compone di 42 ore di lezione frontale e di laboratorio durante le quali viene presentata agli studenti una panoramica sulle principali problematiche, concetti, modelli e metodi che caratterizzano il settore di studi sull'Interazione Uomo-Macchina. Attraverso questo corso introduttivo gli studenti hanno modo di comprendere inoltre come i contenuti appresi negli altri corsi del programma di studi possono essere applicati a problematiche specifiche di progettazione e valutazione di interfacce e Tecnologie della Comunicazione.
 
- ## Materiale di insegnamento 
+## Materiale di insegnamento 
 Testo obbligatorio 
 
 - Benyon (2012). Progettare l'Interazione. Pearson Editore.
@@ -33,8 +34,8 @@ Testo obbligatorio
 
 - Versione italiana: Preece J., Rogers Y., Sharp H. (2004) Interaction Design. Apogeo editore.
 
- ## Esame finale 
+## Esame finale 
 Domande a risposta aperta
 
- ## Strumenti di sviluppo 
+## Strumenti di sviluppo 
 Mockup tools

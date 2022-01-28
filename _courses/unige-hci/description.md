@@ -1,4 +1,5 @@
 ---
+layout: course
 title: Human Computer Interaction
 institution: Università degli Studi di Genova
 department: DIBRIS
@@ -20,7 +21,7 @@ teacher: Antonio Camurri
 ---
 
 
- ## Syllabus 
+## Syllabus 
 - Foundations of human perception and cognition:  
 Human processor model; Sensory channels; Memory; Symbolic, iconic, enactive knowledge; Embodiment; Affective and social computing; Multimodal interaction. 
 - Designing, developing, and evaluating graphical user interfaces (GUIs):
@@ -36,17 +37,17 @@ Examples of using T test and ANOVA applied to evaluation and comparison of usabi
 - Exercises using the EyesWeb platform; exercises on evaluation of usability of GUIs.
 
 
- ## Materiale di insegnamento 
+## Materiale di insegnamento 
 Dispense del corso disponibili sul software AulaWeb /www.unige.it)
 
 
- ## Esame finale 
+## Esame finale 
 Domande a risposta multipla;Domande a risposta aperta;Progetto individuale;Esame orale
 
- ## Strumenti di sviluppo 
+## Strumenti di sviluppo 
 Linguaggi di scripting;Linguaggi compilati (p. es. con IDEs);piattaforma software EyesWeb
 
- ## Altre informazioni 
+## Altre informazioni 
 Software EyesWeb utilizzato per progetti ed esercitazioni disponibile su
 http://www.infomus.org/eyesweb_ita.php
 

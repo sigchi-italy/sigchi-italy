@@ -21,7 +21,7 @@ teacher: Franca Garzotto
 ---
 
 
- ## Syllabus 
+## Syllabus 
 EDUCATIONAL GOAL
 This course aims at providing students with the methodological and technical knowledge and skills needed to develop high quality web based hypermedia in a systematic and efficient way.
 
@@ -37,7 +37,7 @@ The course includes ex-cathedra lectures and a number of sessions devoted to exe
 
 Industrial seminars will be organized with speakers invited from major national and international companies, discussing their approach and technical solutions in the development of large web portals.
 
- ## Materiale di insegnamento 
+## Materiale di insegnamento 
 Slides del corso
 
 D.Bolchini, L.Mainetti, P.Paolini, Progettare siti web e applicazioni mobili, Editore: McGraw Hill, Anno edizione: 2006
@@ -53,13 +53,13 @@ Eric A. Meyer, CSS: The Definitive Guide, Third Edition, Editore: O'Reilly & Ass
 
 
 
- ## Esame finale 
+## Esame finale 
 Progetto di gruppo
 
- ## Strumenti di sviluppo 
+## Strumenti di sviluppo 
 Mockup tools;Linguaggi di scripting
 
- ## Altre informazioni 
+## Altre informazioni 
 Il corso e' di Laurea Magistrale ma prendibile anche al primo livello, e di fatto frequentato al 60% dal studendi della laurea Triennale.
 
 Non e' indicato il sito web del corso in quanto viene usata ai fini del corso la piattaforma online del Politecnico BEEP (accessibile solo agli studenti registrati al corso)

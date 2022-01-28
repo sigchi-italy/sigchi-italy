@@ -1,4 +1,5 @@
 ---
+layout: course
 title: human computer interaction
 institution: universita di padova
 department: human inspired technology research centre
@@ -20,14 +21,14 @@ teacher: Gamberini Spagnolli
 ---
 
 
- ## Syllabus 
+## Syllabus 
 ?
 
- ## Materiale di insegnamento 
+## Materiale di insegnamento 
 Interazione persona-computer, Gamberini,Chittaro, Paterno'.
 
- ## Esame finale 
+## Esame finale 
 Progetto individuale;Progetto di gruppo;Esame orale
 
- ## Strumenti di sviluppo 
+## Strumenti di sviluppo 
 Mockup tools;Linguaggi di scripting;Linguaggi compilati (p. es. con IDEs)

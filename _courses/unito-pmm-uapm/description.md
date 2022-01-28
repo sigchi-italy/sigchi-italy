@@ -1,4 +1,5 @@
 ---
+layout: course
 title: Usabilità e accessibilità nella progettazione multimediale
 institution: Master in progettazione e management del multimedia per la comunicazione, Università di Torino
 department: 
@@ -20,7 +21,7 @@ teacher: Cristina Gena
 ---
 
 
- ## Syllabus 
+## Syllabus 
 Il corso affronterà’ le tematiche fondamentali per una progettazione multimediale usabile, accessibile e
 centrata sull’utente. Verranno affrontate le tematiche relative all’usabilità/accessibilità’ e alla loro
 valutazione: si partirà dal prendere in esame le linee guida e i principi generali e puntuali per lo sviluppo di
@@ -34,8 +35,8 @@ Linee guida di accessibilità’: le WCAG 1 e 2 e la legge Stanca.
 Il design centrato sull’utente e le metodologie di valutazione: la fase di valutazione preliminare, la fase di
 valutazione formativa e la fase finale; la valutazione dell’ accessibilità’ secondo la legge Stanca. 
 
- ## Materiale di insegnamento 
+## Materiale di insegnamento 
 http://www.di.unito.it/~cgena/master/
 
- ## Esame finale 
+## Esame finale 
 Progetto di gruppo

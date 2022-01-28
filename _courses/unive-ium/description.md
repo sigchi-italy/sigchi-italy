@@ -1,4 +1,5 @@
 ---
+layout: course
 title: Interazione Uomo Macchina
 institution: Università Ca' Foscari Venezia
 department: DAIS
@@ -20,7 +21,7 @@ teacher: Fabio Pittarello
 ---
 
 
- ## Syllabus 
+## Syllabus 
 Fondamenti della comunicazione uomo-computer
 
 - L'uomo
@@ -50,7 +51,7 @@ Laboratorio - Esercitazione del corso
 
 - L’esercitazione viene svolta in piccoli gruppi e ha come tema la progettazione concettuale e prototipale di un’interfaccia utente.
 
- ## Materiale di insegnamento 
+## Materiale di insegnamento 
 Il riferimento principale per il corso è il sito didattico di ateneo: http://moodle.unive.it
 a cui lo studente accedere per trovare i materiali del corso e partecipare all'esercitazione del corso, utilizzando strumenti collaborativi come workshop, wiki, forum, chat e la revisione tra pari.
 
@@ -61,12 +62,12 @@ Testi di riferimento
 - R. Polillo, Facile da usare - Una moderna introduzione all'ingegneria dell'usabilità, Apogeo, 2010
 - S. Greenberg, S. Carpendale, N. Marquardt, B. Buxton , Sketching User Experiences - The  Workbook,  Morgan Kaufmann 2011
 
- ## Esame finale 
+## Esame finale 
 Domande a risposta multipla;Progetto di gruppo
 
- ## Strumenti di sviluppo 
+## Strumenti di sviluppo 
 Mockup tools
 
- ## Altre informazioni 
+## Altre informazioni 
 Il corso è obbligatorio per il curriculum 'Tecnologie e Scienze dell'Informazione', seguito dalla maggioranza degli studenti del corso di Laurea. E' opzionale per il curriculum 'Data Science'.
 Altre informazioni sul corso sono disponibili a partire dalla home page del docente: http://www.dais.unive.it/~pitt/
