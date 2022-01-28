@@ -10,9 +10,35 @@
 
                 <article class="blog-post">
                     <h2 class="blog-post-title">{{page.group-name}}</h2>
+                    {% if page.picture and page.picture != "null" and page.picture != "" %}
                     <img class="lab-pic" src="{{ page.picture }}" alt="a picture of the {{ page.group-name }} group">
+                    {% endif %}
+
                     {{content}}
 
+                    {% if page.keywords %}
+                    <h3 class="blog-post-title">Research Keywords</h3>
+                    <ul>
+                    {% for item in page.keywords %}
+                        {% if item.keyword.size > 0  %}
+                            <li>{{item.keyword}}</li>
+                        {% endif %}
+                    {% endfor %}
+                    </ul>
+                    {% endif %}
+
+                    {% if page.papers %}
+                    <h3 class="blog-post-title">Research Paper Highlights</h3>
+                    <ul>
+                        {% for item in page.papers %}
+                        {% if item.doi.size > 0  %}
+                        <li><a href="{{item.doi}}" target="_blank">{{item.doi}}</a></li>
+                        {% endif %}
+                        {% endfor %}
+                    </ul>
+                    {% endif %}
+
+                    {% if page.members %}
                     <h3 class="blog-post-title">Members</h3>
                     {% for item in page.members %}
                     <li class="no-bullet">
@@ -21,9 +47,16 @@
                             {% else %}
                             <img class="member" src="{{site.baseurl}}/images/site/user.png" alt="picture of {{item.member.name}} {{item.member.surname}}">
                             {% endif %}
-                            <span class="member-detail"><a href="{{member.member.url}}">{{item.member.name}} {{item.member.surname}}</a></span>
+                            <span class="member-detail">
+                                {% if item.member.url and item.member.url != "null" and item.member.url != "" %}
+                                <a href="{{item.member.url}}">{{item.member.name}} {{item.member.surname}}</a>
+                                {% else %}
+                                    {{item.member.name}} {{item.member.surname}}
+                                {% endif %}
+                            </span>
                     </li>
                     {% endfor %}
+                    {% endif %}
                 </article>
 
             </div>
@@ -33,18 +66,29 @@
                     <div class="p-4 mb-3 bg-light rounded">
                         <h4 class="fst-italic">Lab Info</h4>
                         <dl>
+                            {% if page.institution %}
                             <dt>Institution</dt>
                             <dd>{{page.institution}}</dd>
+                            {% endif %}
+
+                            {% if page.department %}
                             <dt>Department</dt>
                             <dd>{{page.department}}</dd>
+                            {% endif %}
+
+                            {% if page.address %}
                             <dt>Address</dt>
                             <dd>
                                 {{page.address.street-name}}
                                 {{page.address.street-number}},
                                 {{page.address.zip}}, {{page.address.city}}, {{page.address.state}}
                             </dd>
+                            {% endif %}
+
+                            {% if page.website %}
                             <dt>Website</dt>
                             <dd><a href="{{page.website}}">{{page.website}}</a></dd>
+                            {% endif %}
                         </dl>
                     </div>
 
