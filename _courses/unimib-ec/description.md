@@ -2,7 +2,7 @@
 layout: course
 title: ergonomia cognitiva
 institution: Universita' di Milano-Bicocca
-department: Interdipartimentale: Dipartimenti di Informatica e Psicologia
+department: Interdipartimentale Dipartimenti di Informatica e Psicologia
 venue: 
 degree: Teoria e Tecnologia della Comunicazione
 level: Laurea Magistrale
