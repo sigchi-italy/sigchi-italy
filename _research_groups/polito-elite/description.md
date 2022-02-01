@@ -3,6 +3,13 @@ layout: research
 title: eLite
 group-name: eLite
 institution: Politecnico di Torino
+department: 
+address: 
+  street-name: 
+  street-number: 
+  city: 
+  state: 
+  zip: 
 website: https://elite.polito.it
 members: 
  - member: 

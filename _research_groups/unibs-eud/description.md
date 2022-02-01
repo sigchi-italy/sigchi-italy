@@ -3,6 +3,13 @@ layout: research
 title: EUD
 group-name: EUD
 institution: Università degli Studi di Brescia
+department: 
+address: 
+  street-name: 
+  street-number: 
+  city: 
+  state: 
+  zip: 
 website: 
 members: 
  - member: 

@@ -3,6 +3,13 @@ layout: research
 title: CG3HCI
 group-name: CG3HCI
 institution: University of Cagliari, Department of Mathematics and Computer Science
+department: 
+address: 
+  street-name: 
+  street-number: 
+  city: 
+  state: 
+  zip: 
 website: http://cg3hci.dmi.unica.it/lab/
 members: 
  - member: 

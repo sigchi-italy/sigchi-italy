@@ -3,6 +3,13 @@ layout: research
 title: IVU
 group-name: IVU
 institution: Dipartimento di Informatica, Università di Bari ALDO MORO
+department: 
+address: 
+  street-name: 
+  street-number: 
+  city: 
+  state: 
+  zip: 
 website: http://ivu.di.uniba.it/
 members: 
  - member: 

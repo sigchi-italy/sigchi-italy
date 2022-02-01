@@ -3,6 +3,13 @@ layout: research
 title: ITECS
 group-name: ITECS
 institution: Università di Trento - Dipartimento di Psicologia e Scienze Cognitive
+department: 
+address: 
+  street-name: 
+  street-number: 
+  city: 
+  state: 
+  zip: 
 website: http://itecs.dipsco.unitn.it
 members: 
  - member: 

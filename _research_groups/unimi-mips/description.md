@@ -3,6 +3,13 @@ layout: research
 title: MIPS
 group-name: MIPS
 institution: Università degli Studi Statale di Milano
+department: 
+address: 
+  street-name: 
+  street-number: 
+  city: 
+  state: 
+  zip: 
 website: http://mips.di.unimi.it/
 members: 
  - member: 

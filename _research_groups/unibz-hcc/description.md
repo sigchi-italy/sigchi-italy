@@ -3,6 +3,13 @@ layout: research
 title: HCC
 group-name: HCC
 institution: Free University of Bozen-Bolzano
+department: 
+address: 
+  street-name: 
+  street-number: 
+  city: 
+  state: 
+  zip: 
 website: https://www.inf.unibz.it/idse/hcc/
 members: 
  - member: 

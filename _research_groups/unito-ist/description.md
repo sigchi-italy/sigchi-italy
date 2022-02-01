@@ -3,6 +3,13 @@ layout: research
 title: IST
 group-name: IST
 institution: Universita' di Torino
+department: 
+address: 
+  street-name: 
+  street-number: 
+  city: 
+  state: 
+  zip: 
 website: http://beta.di.unito.it/index.php/italiano/ricerca/gruppi/intelligent-semantic-technologies/presentazione
 members: 
  - member: 

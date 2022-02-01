@@ -3,6 +3,13 @@ layout: research
 title: HF
 group-name: HF
 institution: Università della Repubblica di San Marino
+department: 
+address: 
+  street-name: 
+  street-number: 
+  city: 
+  state: 
+  zip: 
 website: http://disegnoindustriale.unirsm.sm/it/didattica/insegnamenti-docenti/human-factor_87_112.htm
 members: 
  - member: 

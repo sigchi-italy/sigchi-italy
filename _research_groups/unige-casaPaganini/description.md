@@ -3,6 +3,13 @@ layout: research
 title: Casa Paganini
 group-name: Casa Paganini
 institution: Casa Paganini - InfoMus, DIBRIS, Università degli Studi di Genova
+department: 
+address: 
+  street-name: 
+  street-number: 
+  city: 
+  state: 
+  zip: 
 website: http://www.casapaganini.org
 members: 
  - member: 

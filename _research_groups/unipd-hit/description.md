@@ -3,6 +3,13 @@ layout: research
 title: HIT
 group-name: HIT
 institution: Università degli Studi di Padova
+department: 
+address: 
+  street-name: 
+  street-number: 
+  city: 
+  state: 
+  zip: 
 website: http://hit.psy.unipd.it/
 members: 
  - member: 

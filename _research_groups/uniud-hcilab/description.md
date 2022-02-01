@@ -3,6 +3,13 @@ layout: research
 title: HCI Lab
 group-name: HCI Lab
 institution: University of Udine
+department: 
+address: 
+  street-name: 
+  street-number: 
+  city: 
+  state: 
+  zip: 
 website: http://hcilab.uniud.it
 members: 
  - member: 

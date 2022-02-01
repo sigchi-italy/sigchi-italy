@@ -3,6 +3,13 @@ layout: research
 title: MHCI
 group-name: MHCI
 institution: University of Trento
+department: 
+address: 
+  street-name: 
+  street-number: 
+  city: 
+  state: 
+  zip: 
 website: 
 members: 
  - member: 

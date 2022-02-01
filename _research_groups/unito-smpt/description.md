@@ -3,6 +3,13 @@ layout: research
 title: SMPT
 group-name: SMPT
 institution: University of Torino
+department: 
+address: 
+  street-name: 
+  street-number: 
+  city: 
+  state: 
+  zip: 
 website: http://icxt.di.unito.it/laboratori/smart-personal-technology/
 members: 
  - member: 

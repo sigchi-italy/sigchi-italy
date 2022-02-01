@@ -3,6 +3,13 @@ layout: research
 title: eHealt
 group-name: eHealt
 institution: Fondazione Bruno Kessler
+department: 
+address: 
+  street-name: 
+  street-number: 
+  city: 
+  state: 
+  zip: 
 website: https://ehealth.fbk.eu/people/profile/sgabrielli
 members: 
  - member: 

@@ -3,6 +3,13 @@ layout: research
 title: DISI
 group-name: DISI
 institution: Università degli Studi dell'Aquila
+department: 
+address: 
+  street-name: 
+  street-number: 
+  city: 
+  state: 
+  zip: 
 website: https://www.disim.univaq.it/main/groups.php?researchgroup_id=23
 members: 
  - member: 

@@ -3,6 +3,13 @@ layout: research
 title: SYSLAB
 group-name: SYSLAB
 institution: Università degli Studi di Milano-Bicocca
+department: 
+address: 
+  street-name: 
+  street-number: 
+  city: 
+  state: 
+  zip: 
 website: http://www.syslab.disco.unimib.it/
 members: 
  - member: 

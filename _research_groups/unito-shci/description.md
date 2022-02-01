@@ -3,6 +3,13 @@ layout: research
 title: SHCI
 group-name: SHCI
 institution: Dipartimento di Informatica - Università di Torino
+department: 
+address: 
+  street-name: 
+  street-number: 
+  city: 
+  state: 
+  zip: 
 website: http://icxt.di.unito.it/laboratori/smart-human-computer-interaction/
 members: 
  - member: 

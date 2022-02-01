@@ -3,6 +3,13 @@ layout: research
 title: DAIS
 group-name: DAIS
 institution: Università Ca' Foscari Venezia
+department: 
+address: 
+  street-name: 
+  street-number: 
+  city: 
+  state: 
+  zip: 
 website: http://www.dais.unive.it/~pitt
 members: 
  - member: 

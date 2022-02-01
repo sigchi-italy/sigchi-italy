@@ -3,6 +3,13 @@ layout: research
 title: i3
 group-name: i3
 institution: Fondazione Bruno Kessler (FBK)
+department: 
+address: 
+  street-name: 
+  street-number: 
+  city: 
+  state: 
+  zip: 
 website: https://ict.fbk.eu/units/i3/
 members: 
  - member: 

@@ -3,6 +3,13 @@ layout: research
 title: HCI-UP
 group-name: HCI-UP
 institution: University of Bologna
+department: 
+address: 
+  street-name: 
+  street-number: 
+  city: 
+  state: 
+  zip: 
 website: 
 members: 
  - member: 

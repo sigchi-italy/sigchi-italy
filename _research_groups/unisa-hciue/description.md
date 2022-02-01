@@ -3,6 +3,13 @@ layout: research
 title: HCI and UE
 group-name: HCI and UE
 institution: Human Computer Interaction and Usability Engineering Lab (HCI-UsE) - Dipartimento di Informatica - Università di Salerno
+department: 
+address: 
+  street-name: 
+  street-number: 
+  city: 
+  state: 
+  zip: 
 website: https://www.di.unisa.it/en/department/structures?id=143
 members: 
  - member: 
