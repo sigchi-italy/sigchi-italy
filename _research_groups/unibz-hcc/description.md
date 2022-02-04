@@ -12,23 +12,42 @@ address:
   zip: 
 website: https://www.inf.unibz.it/idse/hcc/
 members: 
- - member: 
+- member: 
+    name: Antonella
+    surname: de Angeli
+    picture: null
+    url: https://www.unibz.it/it/faculties/computer-science/academic-staff/person/30670-antonella-de-angeli
+    email: antonella.deangeli@unibz.it
+- member: 
+    name: Michael
+    surname: Haller
+    picture: null
+    url: https://www.unibz.it/it/faculties/computer-science/academic-staff/person/11217-michael-haller
+    email: michael.haller@unibz.it
+- member: 
     name: Rosella
     surname: Gennari
     picture: null
-    url: null
+    url: https://www.unibz.it/it/faculties/computer-science/academic-staff/person/8607-rosella-gennari
+    email: gennari@inf.unibz.it
+- member: 
+    name: Maria
+    surname: Menendez Blanco    
+    picture: null
+    url: https://www.unibz.it/it/faculties/computer-science/academic-staff/person/44152-maria-menendez-blanco
     email: gennari@inf.unibz.it
 keywords: 
+ - keyword: usability
+ - keyword: user experience
  - keyword: interaction design
+ - keyword: multimedia design
  - keyword: tangible design
  - keyword: physical computing
- - keyword: making
+ - keyword: physical prototyping
  - keyword: IoT
  - keyword: co-design
  - keyword: people with special needs
  - keyword: children
- - keyword: usability
- - keyword: user experience
 papers: 
  - doi: 10.1080/0144929X.2019.1614226
  - doi: 10.1007/s11042-018-7090-2
@@ -44,4 +63,4 @@ papers:
 
 
 ### Main Research Interests
-interaction design, tangible design, physical computing, making, fabrication, IoT, co-design, people with special needs, children, elderly 
+user experience, usability, interaction design, multimedia design, tangible design, physical computing, physical prototyping, fabrication, IoT, co-design, people with special needs, children
