@@ -1,33 +1,33 @@
 ---
 layout: research
-title: HCC
-group-name: HCC
+title: HCI
+group-name: HCI
 institution: Free University of Bozen-Bolzano
-department: 
+department: Faculty of Computer Science
 address: 
-  street-name: 
-  street-number: 
-  city: 
-  state: 
-  zip: 
+  street-name: Piazza Domenicani
+  street-number: 3
+  city: Bolzano
+  state: Italy
+  zip: 39100
 website: https://www.inf.unibz.it/idse/hcc/
 members: 
 - member: 
     name: Antonella
     surname: de Angeli
-    picture: null
+    picture: https://webservices.scientificnet.org/rest/uisdata/api/v1/people/30670/image?w=260&h=260
     url: https://www.unibz.it/it/faculties/computer-science/academic-staff/person/30670-antonella-de-angeli
     email: antonella.deangeli@unibz.it
 - member: 
     name: Michael
     surname: Haller
-    picture: null
+    picture: https://webservices.scientificnet.org/rest/uisdata/api/v1/people/11217/image?w=260&h=260
     url: https://www.unibz.it/it/faculties/computer-science/academic-staff/person/11217-michael-haller
     email: michael.haller@unibz.it
 - member: 
     name: Rosella
     surname: Gennari
-    picture: null
+    picture: https://webservices.scientificnet.org/rest/uisdata/api/v1/people/8607/image?w=260&h=260
     url: https://www.unibz.it/it/faculties/computer-science/academic-staff/person/8607-rosella-gennari
     email: gennari@inf.unibz.it
 - member: 
@@ -36,6 +36,12 @@ members:
     picture: null
     url: https://www.unibz.it/it/faculties/computer-science/academic-staff/person/44152-maria-menendez-blanco
     email: gennari@inf.unibz.it
+- member: 
+    name: Maria
+    surname: Menendez Blanco    
+    picture: https://webservices.scientificnet.org/rest/uisdata/api/v1/people/44152/image?w=260&h=260
+    url: https://www.unibz.it/it/faculties/computer-science/academic-staff/person/44152-maria-menendez-blanco
+    email: Maria.MenendezBlanco@unibz.it
 keywords: 
  - keyword: usability
  - keyword: user experience
@@ -46,8 +52,9 @@ keywords:
  - keyword: physical prototyping
  - keyword: IoT
  - keyword: co-design
+ - keyword: citizen
  - keyword: people with special needs
- - keyword: children
+ - keyword: child
 papers: 
  - doi: 10.1080/0144929X.2019.1614226
  - doi: 10.1007/s11042-018-7090-2
@@ -63,4 +70,4 @@ papers:
 
 
 ### Main Research Interests
-user experience, usability, interaction design, multimedia design, tangible design, physical computing, physical prototyping, fabrication, IoT, co-design, people with special needs, children
+user experience, usability, interaction design, multimedia design, tangible design, physical computing, physical prototyping, fabrication, IoT, co-design, citizens, people with special needs, children
