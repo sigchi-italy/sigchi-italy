@@ -33,6 +33,12 @@ members:
 - member: 
     name: Maria
     surname: Menendez Blanco    
+    picture: null
+    url: https://www.unibz.it/it/faculties/computer-science/academic-staff/person/44152-maria-menendez-blanco
+    email: gennari@inf.unibz.it
+- member: 
+    name: Maria
+    surname: Menendez Blanco    
     picture: https://webservices.scientificnet.org/rest/uisdata/api/v1/people/44152/image?w=260&h=260
     url: https://www.unibz.it/it/faculties/computer-science/academic-staff/person/44152-maria-menendez-blanco
     email: Maria.MenendezBlanco@unibz.it
@@ -49,7 +55,17 @@ keywords:
  - keyword: citizen
  - keyword: people with special needs
  - keyword: child
-papers: they are reported on the web pages of members. 
+papers: 
+ - doi: 10.1080/0144929X.2019.1614226
+ - doi: 10.1007/s11042-018-7090-2
+ - doi: 10.1145/3240323.3240364
+ - doi: 10.1145/3173225.3173248
+ - doi: 10.1145/3173225.3173270
+ - doi: 10.1016/j.ijhcs.2017.01.006
+ - doi: 10.1007/s11042-016-3543-7
+ - doi: 10.1007/s11042-016-3609-6
+ - doi: 10.1016/j.chb.2015.04.007
+ - doi: 10.1080/08839514.2016.1214360
 ---
 
 
