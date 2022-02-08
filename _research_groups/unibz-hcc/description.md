@@ -33,12 +33,6 @@ members:
 - member: 
     name: Maria
     surname: Menendez Blanco    
-    picture: null
-    url: https://www.unibz.it/it/faculties/computer-science/academic-staff/person/44152-maria-menendez-blanco
-    email: gennari@inf.unibz.it
-- member: 
-    name: Maria
-    surname: Menendez Blanco    
     picture: https://webservices.scientificnet.org/rest/uisdata/api/v1/people/44152/image?w=260&h=260
     url: https://www.unibz.it/it/faculties/computer-science/academic-staff/person/44152-maria-menendez-blanco
     email: Maria.MenendezBlanco@unibz.it
