@@ -1,6 +1,6 @@
 ---
 layout: research
-title: ITeCS
+title: Information Technology & Cognitive Science
 group-name: ITeCS
 institution: Università di Trento - 
 department: Dipartimento di Psicologia e Scienze Cognitive
