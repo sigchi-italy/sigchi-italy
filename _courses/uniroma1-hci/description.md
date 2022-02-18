@@ -17,7 +17,7 @@ cfu: 6
 hours: 48
 hours-lectures: 40
 hours-lab: 8
-teacher: Tiziana Catarci/Giuseppe Santucci
+teacher: Tiziana Catarci/Valeria Mirabella
 topics: 
   Accessibility: no 
   Activity_design: no 
