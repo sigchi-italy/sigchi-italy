@@ -77,4 +77,4 @@ Progetto individuale, esame orale
 Piattaforma EyesWeb XMI, Matlab
 
 ## Altre informazioni 
-Il corso comprende lezioni pratiche che gli studenti possono seguire con il proprio computer portatile e che consentono di apprendere l'utilizzo delle tecnologie e dei dispositivi fondamentali per lo sviluppo di sistemi multimodali interattivi. Gli algoritmi fondamentali vengono presentati ed implementati utilizzando la piattaforma EyesWeb XMI (http://eyesweb.infomus.org).
+Il corso comprende lezioni pratiche che gli studenti possono seguire con il proprio computer portatile e che consentono di apprendere l'utilizzo delle tecnologie e dei dispositivi fondamentali per lo sviluppo di sistemi multimodali interattivi. Gli algoritmi fondamentali vengono presentati ed implementati utilizzando la piattaforma EyesWeb XMI.
