@@ -1,23 +1,23 @@
 ---
 layout: course
-title: Interaction Design
-institution: Università di Torino
+title: Design of Interactive Systems
+institution: Università degli Studi di Torino
 department: Culture, Politica e Società
 venue: Campus Luigi Einaudi
-degree: Informatica
+degree: Comunicazione, ICT e Media
 level: Laurea Magistrale
-course-name: Interaction Design
+course-name: Design of Interactive Systems
 course-year: 4
 course-language: Italiano
 course-type: In presenza
-course-website: http://www.didattica-cps.unito.it/do/storicocorsi.pl/Show?_id=nu1m_1415
-course-participants: 20
+course-website: https://www.didattica-cps.unito.it/do/corsi.pl/Show?_id=bdxn
+course-participants: 40
 course-optional: T
 cfu: 6
 hours: 36
 hours-lectures: 36
 hours-lab: 0
-teacher: Rossana Simeoni
+teacher: Amon Rapp, Rossana Simeoni
 topics: 
   Accessibility: no 
   Activity_design: no 
@@ -27,13 +27,13 @@ topics:
   Evaluation_metrics: no 
   HCI_Design_Patterns: no 
   HCI_history: no 
-  Human-AI_Interaction: no 
+  Human-AI_Interaction: yes 
   Information_Design: no 
   Information_Visualization: no 
-  Interaction_Design: no 
+  Interaction_Design: yes 
   Interaction_models_and_frameworks: no 
-  Interaction_paradigms: no 
-  Interaction_styles: no 
+  Interaction_paradigms: yes 
+  Interaction_styles: yes 
   Interviews_and_Surveys: no 
   Knowledge_Visualization: no 
   Multimodal_Interfaces: no 
@@ -52,42 +52,24 @@ learning-verification:
   Homework: no 
   Group-project: no 
   Multiple-choice-questions: no 
-  Individual-project: no 
-  Oral-examination: no 
+  Individual-project: yes 
+  Oral-examination: yes 
   Open-ended-questions: no 
 ---
 
 
 ## Syllabus 
-Il corso ha l'obiettivo di fornire gli elementi fondamentali dell’Interaction-Design e dell’Interazione Uomo-Macchina secondo un approccio multidisciplinare. Il programma del corso comprende:
-1) il contributo dei fattori umani, della tecnologia e della creativita’;
-2) le metodologie e le tecniche di progettazione di sistemi e device interattivi innovativi;
-3) le fasi di progettazione dei sistemi interattivi e delle interfacce uomo-macchina con attenzione al contesto applicativo di riferimento.
-Alle lezioni frontali sono accostati: casi di studio, laboratori ed esercitazioni di progettazione.
+L'insegnamento approfondisce due ambiti tematici dell’interazione uomo-macchina riguardanti il design di sistemi basati su meccaniche di gioco finalizzati a produrre un elevato coinvolgimento dell’utente e di agenti intelligenti in grado di “conversare” con gli utenti tramite chat. L'insegnamento analizza anche le relazioni tra interazione uomo-macchina, game design e intelligenza artificiale.
 
 ## Materiale di insegnamento 
-Manuale di base:
+Natasha Dow Schüll. 2012. Addiction by Design: Machine Gambling in Las Vegas. Princeton University Press. Trad. it. Architetture dell'azzardo Progettare il gioco, costruire la dipendenza. Luca Sossella Editore. 
 
-Dan Saffer “Designing for Interaction: Creating Innovative Applications and Devices, second Edition, New Riders
+Jesse Schell. 2008. The art of game design. A book of lenses. Morgan Kaufmann Publisher. Le parti del libro in programma verranno indicate a lezione.
 
-Approfondimenti da:
+Moore, Robert J. and Raphael Arar. 2019. Conversational UX Design: A Practitioner's Guide to the Natural Conversation Framework. Association for Computing Machinery, New York. DOI: 10.1145/3304087.
 
-David Benyon, Desiqning Interactive Systems: A comprehensive guide to HCI and Interaction Design”, Pearson.
-
-Ben Shneiderman, “Designing the user interface – Strategies for effective Human-Computer Interaction”, Pearson;
-
-Roberto Polillo, “Facile da usare”, Apogeo;
-
-Letture integrative obbligatorie:
-Don Norman, “The Design of Everyday Things”, MIT Press;
-Don Norman, “The Design of Future Things”, Perseus Group;
-Bruno Munari, “Da cosa nasce cosa”, Laterza.
-
-
+Articoli scientifici o singoli capitoli di libro che verranno indicati a lezione.
 
 
 ## Esame finale 
-Progetto individuale;Progetto di gruppo;Esame orale
-
-## Strumenti di sviluppo 
-Mockup tools;Linguaggi compilati (p. es. con IDEs)
+Progetto individuale;Esame orale
