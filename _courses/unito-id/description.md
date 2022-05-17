@@ -1,5 +1,8 @@
 ---
 layout: course
+survey: 2022
+content-language: en
+map-pin: 45.0733629,7.6980048
 title: Design of Interactive Systems
 institution: Università degli Studi di Torino
 department: Culture, Politica e Società

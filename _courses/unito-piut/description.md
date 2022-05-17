@@ -1,5 +1,8 @@
 ---
 layout: course
+survey: 2022
+content-language: en
+map-pin: 45.0733572,7.6980021
 title: Laboratorio Design of Interactive systems
 institution: Università degli Studi di Torino
 department: Culture, Politica e Società

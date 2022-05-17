@@ -2,7 +2,7 @@
 layout: course
 survey: 2022
 content-language: en
-map-pin: 43.7204755,10.4071573
+map-pin: 44.4033892,8.9578272
 title: Interazione Uomo Macchina
 institution: Università degli Studi di Genova
 institution-website: https://corsi.unige.it/9913 

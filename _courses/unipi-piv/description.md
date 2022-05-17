@@ -2,7 +2,7 @@
 layout: course
 survey: 2017
 content-language: it
-map-pin: 45.4086223,11.8857627
+map-pin: 43.7204755,10.4071573
 title: Progettazione di Interfacce e Valutazione dell’Usabilità
 institution: Università di Pisa
 department: Interdipartimentale tra il Dipartimento di Filologia, Letteratura e Linguistica ed il Dipartimento di Informatica

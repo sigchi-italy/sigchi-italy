@@ -1,5 +1,8 @@
 ---
 layout: course
+survey: 2022
+content-language: en
+map-pin: 41.8912169,12.5025114
 title: Human-Computer Interaction
 institution: Sapienza
 department: Ingegneria Informatica, Automatica e Gestionale "A.Ruberti"

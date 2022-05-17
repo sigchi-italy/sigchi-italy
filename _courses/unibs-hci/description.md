@@ -2,7 +2,7 @@
 layout: course
 survey: 2022
 content-language: en
-map-pin: 45.1727345,10.486679
+map-pin: 45.5379384,10.2161892
 title: Human Computer Interaction
 institution: University of Brescia
 institution-website: https://corsi.unibs.it/it/ingegneriainformaticamagistrale 

@@ -11,7 +11,7 @@ permalink: /courses-summary/
         {% for course in site.courses %}
             {% if course.map-pin  and course.active != "no" %}
             {% assign count = count | plus:1 %}
-            [{{course.map-pin}}, "1"],{% endif%}
+            [{{course.map-pin}}, "{{course.institution | replace: '"', "" }}<br> <a href=\"{{site.baseurl}}{{ course.url }}\">{{ course.course-name }}</a>"],{% endif%}
         {% endfor %}
     ];
 </script>
