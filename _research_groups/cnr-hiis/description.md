@@ -1,22 +1,22 @@
 ---
 layout: research
 title: HIIS
-group-name: HIIS
+group-name: Human Interfaces in Information Systems
 institution: CNR-ISTI
 department: 
 address: 
-  street-name: 
-  street-number: 
-  city: 
-  state: 
-  zip: 
+  street-name: Via Moruzzi
+  street-number: 1
+  city: Pisa
+  state: Italy
+  zip: 56124
 website: https://giove.isti.cnr.it/lab/
 members: 
  - member: 
     name: Fabio
     surname: Paternò
-    picture: null
-    url: null
+    picture: http://hiis.isti.cnr.it/Users/Fabio/fabio12020.jpg
+    url: http://hiis.isti.cnr.it/Users/Fabio/index.html
     email: fabio.paterno@isti.cnr.it
 keywords: 
  - keyword: Assistive Technologies and Accessibility
@@ -44,4 +44,5 @@ papers:
 
 
 ### Main Research Interests
-Our research activity is in methods and tools to support user interface designers, software developers, and end users in obtaining systems that can be accessed from different contexts of use (devices, users, physical and social environments) in such a way to improve usability, accessibility, and user experience.
+Our research activity is in methods and tools to support user interface designers, software developers, and end-users in obtaining systems that can be accessed from different contexts of use in such a way to improve usability, accessibility, and user experience. 
+The main research areas concern: Context-Dependent Interactive Systems, End-User Development, Methods and Tools for Usability, Accessibility, and User Experience Evaluation, Human-Robot Interaction, Intelligent Interfaces, MultiModal User Interfaces, Accessibility, Emotion-based User Interfaces, Usability Engineering and Models for HCI. Such work has led to the development of several tools and applications, some of which are publicly available. 

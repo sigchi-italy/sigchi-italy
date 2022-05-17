@@ -17,7 +17,7 @@ members:
     surname: Rapp
     picture: null
     url: null
-    email: amon.rapp@gmail.com
+    email: amon.rapp@unito.it
 keywords: 
  - keyword: self-tracking
  - keyword: wearable technologies
