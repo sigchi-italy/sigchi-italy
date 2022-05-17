@@ -1,5 +1,6 @@
 ---
 layout: course
+active: no
 title: Usabilità e accessibilità nella progettazione multimediale
 institution: Master in progettazione e management del multimedia per la comunicazione, Università di Torino
 department: 

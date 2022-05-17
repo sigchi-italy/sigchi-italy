@@ -1,6 +1,9 @@
 ---
 layout: course
 title: Interazione Uomo-Macchina
+survey: 2017
+content-language: it
+map-pin: 45.4787318,9.2312836
 institution: Politecnico di Milano
 department: Elettronica, Informazione e Bioingegneria
 venue: Milano - Campus Leonardo

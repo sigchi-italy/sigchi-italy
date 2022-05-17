@@ -1,5 +1,6 @@
 ---
 layout: course
+active: no
 title: Progettazione di Sistemi Interattivi
 institution: Università degli Studi dell'Aquila
 department: Dipartimento di Ingegneria e Scienze dell'Informazione e Matematica

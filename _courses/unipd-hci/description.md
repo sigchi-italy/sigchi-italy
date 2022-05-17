@@ -1,5 +1,8 @@
 ---
 layout: course
+survey: 2017
+content-language: it
+map-pin: 45.4086223,11.8857627
 title: human computer interaction
 institution: universita di padova
 department: human inspired technology research centre

@@ -1,8 +1,11 @@
 ---
 layout: course
+survey: 2017
+content-language: it
+map-pin: 45.0677885,7.6898597
 title: Progettazione e programmazione web -  Web Design and Web Programming
 institution: Torino
-department: Studi Umanistivi
+department: Studi Umanistici
 venue: 
 degree: DAMS
 level: Laurea Triennale
@@ -17,7 +20,7 @@ cfu: 6
 hours: 36
 hours-lectures: 36
 hours-lab: 
-teacher: Cristina Gena
+teacher: Rossana Damiano
 topics: 
   Accessibility: no 
   Activity_design: no 

@@ -1,6 +1,9 @@
 ---
 layout: course
 title: Interaction Design Studio
+survey: 2017
+content-language: it
+map-pin: 45.4787318,9.2312836
 institution: Politecnico di Milano
 department: Dipartimento di Elettronica, Informazione e Bioingegneria e Dipartimento di Design
 venue: 
@@ -17,7 +20,7 @@ cfu: 12
 hours: 120
 hours-lectures: 80
 hours-lab: 40
-teacher: Maristella Matera
+teacher: Marco Quaggiotto, Franca Garzotto
 topics: 
   Accessibility: no 
   Activity_design: no 

@@ -1,6 +1,7 @@
 ---
 layout: course
 title: Web Design
+active: no
 institution: Università Ca' Foscari Venezia
 department: DAIS
 venue: 

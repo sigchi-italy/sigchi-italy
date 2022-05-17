@@ -1,85 +1,72 @@
 ---
 layout: course
-title: Human-Computer Interaction
-institution: Sapienza
-department: Ingegneria Informatica, Automatica e Gestionale "A.Ruberti"
-venue: Roma
-degree: Ingegneria Informatica
-level: Laurea Magistrale
-course-name: Human-Computer Interaction
-course-year: 5
-course-language: Inglese
-course-type: In presenza
-course-website: https://piazza.com/uniroma1.it/spring2015/1038134/resources
-course-participants: 
-course-optional: T
+survey: 2022
+content-language: en
+map-pin: 41.8912169,12.5025114
+title: Human Computer Interaction
+institution: Sapienza Università di Roma
+institution-website: https://corsidilaurea.uniroma1.it/it/corso/2021/30430/home 
+department: Dipartimento di Ingegneria Informatica, Automatica e Gestionale "A. Ruberti"
+venue: Rome, Italy
+degree: Engineering in Computer Science
+level: Master's Degree
+course-name: Human Computer Interaction
+course-year: 1
+course-language: English
+course-type: Frontal classes only
+course-website: https://piazza.com/uniroma1.it/spring2022/1038134/info
+course-participants: 80
+course-optional: Yes
 cfu: 6
-hours: 48
-hours-lectures: 40
-hours-lab: 8
-teacher: Tiziana Catarci/Giuseppe Santucci
+hours: 60
+hours-lectures: 60
+hours-lab: 0
+teacher: Tiziana Catarci
 topics: 
-  Accessibility: no 
-  Activity_design: no 
-  Cognitive_Aspects: no 
-  Cognitive_walkthrough: no 
-  Ergonomics: no 
-  Evaluation_metrics: no 
-  HCI_Design_Patterns: no 
-  HCI_history: no 
-  Human-AI_Interaction: no 
-  Information_Design: no 
-  Information_Visualization: no 
-  Interaction_Design: no 
-  Interaction_models_and_frameworks: no 
-  Interaction_paradigms: no 
-  Interaction_styles: no 
-  Interviews_and_Surveys: no 
-  Knowledge_Visualization: no 
-  Multimodal_Interfaces: no 
-  Personas: no 
-  Prototyping: no 
-  Requirement_Analysis: no 
-  Software_lifecycle: no 
-  Usability_Engineering: no 
-  Usability_Evaluation: no 
-  Usability_principles: no 
-  User-centered_design: no 
-  User_Interfaces_for_the_Internet_of_Things: no 
-  User_Testing: no 
-  Virtual_and_Augmented_Reality: no 
+  Accessibility: no
+  Activity_design: no
+  Cognitive_Aspects: no
+  Cognitive_walkthrough: no
+  Ergonomics: no
+  Evaluation_metrics: yes
+  HCI_Design_Patterns: yes
+  HCI_history: yes
+  Human-AI_Interaction: yes
+  Information_Design: no
+  Information_Visualization: no
+  Interaction_Design: yes
+  Interaction_models_and_frameworks: no
+  Interaction_paradigms: yes
+  Interaction_styles: yes
+  Interviews_and_Surveys: yes
+  Knowledge_Visualization: no
+  Multimodal_Interfaces: no
+  Personas: yes
+  Prototyping: yes
+  Requirement_Analysis: no
+  Software_lifecycle: no
+  Usability_Engineering: yes
+  Usability_Evaluation: yes
+  Usability_principles: yes
+  User-centered_design: yes
+  User_Interfaces_for_the_Internet_of_Things: no
+  User_Testing: no
+  Virtual_and_Augmented_Reality: no
 learning-verification: 
   Homework: no 
-  Group-project: no 
+  Group-project: yes 
   Multiple-choice-questions: no 
-  Individual-project: no 
-  Oral-examination: no 
+  Individual-project: yes 
+  Oral-examination: yes 
   Open-ended-questions: no 
 ---
 
 
 ## Syllabus 
+This course concentrates on the fundamentals of human-computer interaction and discusses in detail the concept of usability for interactive systems as well as the user-centered design (UCD) and the development of interactive systems. The various topics will be examined under different perspectives, dealing with theoretical, methodological, technological and application-oriented aspects, looking at them both in the current scenario and in view of future developments. Along the course, the student should acquire theoretical skills, methodologies, and techniques to be applied in a concrete project to be developed following the user-centered design. Recent technologies for interactive artefacts and immersive environments will also be presented.
 
-    Introductory Concepts
-        Human 
-        Computer 
-        Interaction
-    Usability 
-    User-centered Design 
-    User Models 
-    Task Analysis 
-    Dialogue Modelling
-    Usability Testing 
-    Information Visualization
-    Visual Analytics
+## Teaching Materials 
+Slides
 
-
-## Materiale di insegnamento 
-A. Dix. et al. Human-Computer Interaction. Pearson/Prentice Hall, 2003 (3rd edition). 
-Slides delle lezioni
-
-## Esame finale 
-Progetto di gruppo
-
-## Strumenti di sviluppo 
-Mockup tools;Linguaggi compilati (p. es. con IDEs);d3.js
+## Tools Addressed in the Course 
+Balsamiq

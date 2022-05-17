@@ -1,93 +1,98 @@
 ---
 layout: course
-title: Interaction Design
-institution: Università di Torino
-department: Culture, Politica e Società
-venue: Campus Luigi Einaudi
-degree: Informatica
-level: Laurea Magistrale
-course-name: Interaction Design
-course-year: 4
-course-language: Italiano
-course-type: In presenza
-course-website: http://www.didattica-cps.unito.it/do/storicocorsi.pl/Show?_id=nu1m_1415
-course-participants: 20
-course-optional: T
+survey: 2022
+content-language: en
+map-pin: 45.0733629,7.6980048
+title: Introduzione a Interaction Design
+institution: Università degli Studi di Torino
+institution-website: https://www.didattica-cps.unito.it/do/home.pl/View?doc=/corsi_di_studio/ICT_innovazione_sociale/presentazione.html 
+department: Dipartimento di Cultura, Politica e Società
+venue: Turin
+degree: Innovazione Sociale, Comunicazione, Nuove Tecnologie
+level: Bachelor's Degree
+course-name: Introduzione a Interaction Design
+course-year: 3
+course-language: Italian
+course-type: Frontal classes only
+course-website: 
+course-participants: 150
+course-optional: Yes
 cfu: 6
 hours: 36
 hours-lectures: 36
 hours-lab: 0
-teacher: Rossana Simeoni
+teacher: Fabiana Vernero
 topics: 
-  Accessibility: no 
-  Activity_design: no 
-  Cognitive_Aspects: no 
-  Cognitive_walkthrough: no 
-  Ergonomics: no 
-  Evaluation_metrics: no 
-  HCI_Design_Patterns: no 
-  HCI_history: no 
-  Human-AI_Interaction: no 
-  Information_Design: no 
-  Information_Visualization: no 
-  Interaction_Design: no 
-  Interaction_models_and_frameworks: no 
-  Interaction_paradigms: no 
-  Interaction_styles: no 
-  Interviews_and_Surveys: no 
-  Knowledge_Visualization: no 
-  Multimodal_Interfaces: no 
-  Personas: no 
-  Prototyping: no 
-  Requirement_Analysis: no 
-  Software_lifecycle: no 
-  Usability_Engineering: no 
-  Usability_Evaluation: no 
-  Usability_principles: no 
-  User-centered_design: no 
-  User_Interfaces_for_the_Internet_of_Things: no 
-  User_Testing: no 
-  Virtual_and_Augmented_Reality: no 
+  Accessibility: yes
+  Activity_design: no
+  Cognitive_Aspects: no
+  Cognitive_walkthrough: no
+  Ergonomics: no
+  Evaluation_metrics: yes
+  HCI_Design_Patterns: no
+  HCI_history: no
+  Human-AI_Interaction: no
+  Information_Design: no
+  Information_Visualization: no
+  Interaction_Design: yes
+  Interaction_models_and_frameworks: yes
+  Interaction_paradigms: no
+  Interaction_styles: yes
+  Interviews_and_Surveys: yes
+  Knowledge_Visualization: no
+  Multimodal_Interfaces: no
+  Personas: yes
+  Prototyping: yes
+  Requirement_Analysis: yes
+  Software_lifecycle: no
+  Usability_Engineering: no
+  Usability_Evaluation: yes
+  Usability_principles: yes
+  User-centered_design: yes
+  User_Interfaces_for_the_Internet_of_Things: no
+  User_Testing: no
+  Virtual_and_Augmented_Reality: no
 learning-verification: 
   Homework: no 
   Group-project: no 
-  Multiple-choice-questions: no 
-  Individual-project: no 
-  Oral-examination: no 
+  Multiple-choice-questions: yes 
+  Individual-project: yes 
+  Oral-examination: yes 
   Open-ended-questions: no 
 ---
 
 
 ## Syllabus 
-Il corso ha l'obiettivo di fornire gli elementi fondamentali dell’Interaction-Design e dell’Interazione Uomo-Macchina secondo un approccio multidisciplinare. Il programma del corso comprende:
-1) il contributo dei fattori umani, della tecnologia e della creativita’;
-2) le metodologie e le tecniche di progettazione di sistemi e device interattivi innovativi;
-3) le fasi di progettazione dei sistemi interattivi e delle interfacce uomo-macchina con attenzione al contesto applicativo di riferimento.
-Alle lezioni frontali sono accostati: casi di studio, laboratori ed esercitazioni di progettazione.
 
-## Materiale di insegnamento 
-Manuale di base:
+    Interaction Design (IxD), User Experience (UX), usability, User-centred Design
+    Conceptual models, interaction metaphors and interaction types
+    Cognitive aspects
+    Interface types
+    The Interaction Design process:
+        Requirement gathering and analysis:
+            requirement types
+            gathering requirements: interviews, surveys, focus groups, field studies, etc.
+            representing users: user profiles, personas, etc.
+            representing tasks: scenarios, use cases, hierarchical task analysis, etc.
+         Generation of alternatives
+            creativity (Alan Dix's "bad ideas" method, brainstorming, etc.)
+        Prototyping
+            Types of prototypes
+            Sketching
+            Prototyping tools (e.g., Axure, Balsamiq, ...)
+        Evaluation
+            with users:
+                usability tests
+                experiments
+            with experts
+                heuristics
+                cognitive walkthroughs
+                predictive models
 
-Dan Saffer “Designing for Interaction: Creating Innovative Applications and Devices, second Edition, New Riders
 
-Approfondimenti da:
+## Teaching Materials 
+1) Preece, Sharp, Rogers, Interaction Design: Beyond Human-Computer Interaction, 5° edizione, Wiley
+2) Baxter, Courage, Caine, Understanding Your Users, 2° edizione, Morgan Kaufmann
 
-David Benyon, Desiqning Interactive Systems: A comprehensive guide to HCI and Interaction Design”, Pearson.
-
-Ben Shneiderman, “Designing the user interface – Strategies for effective Human-Computer Interaction”, Pearson;
-
-Roberto Polillo, “Facile da usare”, Apogeo;
-
-Letture integrative obbligatorie:
-Don Norman, “The Design of Everyday Things”, MIT Press;
-Don Norman, “The Design of Future Things”, Perseus Group;
-Bruno Munari, “Da cosa nasce cosa”, Laterza.
-
-
-
-
-## Esame finale 
-Progetto individuale;Progetto di gruppo;Esame orale
-
-## Strumenti di sviluppo 
-Mockup tools;Linguaggi compilati (p. es. con IDEs)
+## Tools Addressed in the Course 
+Balsamiq, Axure RP

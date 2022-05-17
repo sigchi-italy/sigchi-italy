@@ -1,5 +1,6 @@
 ---
 layout: course
+active: no
 title: Seminars in Software and Services. Smart spaces
 institution: Sapienza Università di Roma
 department: Dipartimento di Ingegneria Informatica Automatica Gestionale

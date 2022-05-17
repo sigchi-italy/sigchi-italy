@@ -1,6 +1,10 @@
 ---
 layout: course
 title: Human Computer Interaction
+survey: 2017
+content-language: it
+map-pin: 45.0643209,7.6586337
+active: no
 institution: Politecnico di Torino
 department: Dipartimento di Automatica e Informatica
 venue: 
@@ -12,7 +16,7 @@ course-language: Inglese
 course-type: In presenza
 course-website: http://bit.ly/polito-hci
 course-participants: 75
-course-optional: T
+course-optional: Yes
 cfu: 6
 hours: 60
 hours-lectures: 40

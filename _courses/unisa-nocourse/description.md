@@ -1,5 +1,6 @@
 ---
 layout: course
+active: no
 title: No course
 institution: University of Salerno
 department: Informatica

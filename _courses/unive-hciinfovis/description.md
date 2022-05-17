@@ -1,5 +1,8 @@
 ---
 layout: course
+survey: 2017
+content-language: en
+map-pin: 45.4565926,12.2557321
 title: Human Computer Interaction and Information Visualization
 institution: Università Ca' Foscari Venezia
 department: DAIS

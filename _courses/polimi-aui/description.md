@@ -1,6 +1,9 @@
 ---
 layout: course
 title: Advanced User Interfaces
+survey: 2017
+content-language: it
+map-pin: 45.4787318,9.2312836
 institution: Politecnico di Milano
 department: Elettronica, Informazione e Bioingegneria
 venue: Milano - Campus Leonardo
@@ -12,7 +15,7 @@ course-language: Inglese
 course-type: In presenza
 course-website:  http://hoc13.elet.polimi.it/aui_2013/   
 course-participants: 45
-course-optional: T
+course-optional: Yes
 cfu: 5
 hours: 60
 hours-lectures: 25

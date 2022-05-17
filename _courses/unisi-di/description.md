@@ -1,5 +1,9 @@
 ---
 layout: course
+active: no
+survey: 2017
+content-language: it
+map-pin: 43.3192189,11.3317156
 title: Design dell'Interazione
 institution: Università di Siena
 department: Dipartimento di Scienze Sociali Politiche e Cognitive, DISPOC

@@ -1,5 +1,6 @@
 ---
 layout: course
+active: no
 title: Psicologia dell'Interazione Uomo-Tecnologia
 institution: Università degli Studi di Torino
 department: Psicologia

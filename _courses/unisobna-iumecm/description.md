@@ -1,5 +1,6 @@
 ---
 layout: course
+active: no
 title: Interazione Uomo Macchina ed Elementi di Comunicazione Multimediale
 institution: Università degli Studi Suor Orsola Benincasa di Napoli
 department: Dipartimento di Scienze formative, psicologiche e della comunicazione

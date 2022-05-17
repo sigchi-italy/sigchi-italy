@@ -1,5 +1,8 @@
 ---
 layout: course
+survey: 2017
+content-language: it
+map-pin: 40.7745725,14.7884922
 title: Interazione Uomo Macchina
 institution: Università di Salerno
 department: Dipartimento di Informatica

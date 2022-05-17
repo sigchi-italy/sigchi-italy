@@ -1,6 +1,9 @@
 ---
 layout: course
 title: ergonomia cognitiva
+survey: 2017
+content-language: it
+map-pin: 45.5174459,9.2127166
 institution: Universita' di Milano-Bicocca
 department:  Dipartimenti di Informatica e Psicologia
 venue: 

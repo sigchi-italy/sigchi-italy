@@ -1,5 +1,8 @@
 ---
 layout: course
+survey: 2017
+content-language: it
+map-pin: 41.9141253,12.4959546
 title: Interazione Uomo Macchina
 institution: Sapienza Università di Roma
 department: Dipartimento di Informatica

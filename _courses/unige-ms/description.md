@@ -1,6 +1,9 @@
 ---
 layout: course
 title: Multimodal Systems
+survey: 2017
+content-language: it
+map-pin: 44.4033892,8.9578272
 institution: Università degli Studi di Genova
 department: DIBRIS
 venue: 

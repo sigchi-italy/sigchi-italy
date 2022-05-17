@@ -1,6 +1,7 @@
 ---
 layout: course
 title: Advanced Human-Computer Interaction
+active: no
 institution: Università di Udine
 department: 
 venue: 

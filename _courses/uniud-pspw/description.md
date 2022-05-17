@@ -1,5 +1,6 @@
 ---
 layout: course
+active: no
 title: Progetto di siti e portali web
 institution: Università di Udine
 department: Dip. di Matematica e Informatica

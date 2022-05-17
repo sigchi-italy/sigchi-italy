@@ -1,5 +1,8 @@
 ---
 layout: course
+survey: 2017
+content-language: it
+map-pin: 44.1478063,12.2339543
 title: Usability & User Experience Design
 institution: Università di Bologna
 department: Dipartimento di Informatica

@@ -1,5 +1,8 @@
 ---
 layout: course
+survey: 2017
+content-language: it
+active: no
 title: Interazione Uomo-Macchina
 institution: Università degli Studi di Brescia
 department: Dipartimento di Ingegneria dell'Informazione

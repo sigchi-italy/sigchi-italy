@@ -1,5 +1,8 @@
 ---
 layout: course
+survey: 2022
+content-language: it
+map-pin: 39.2224156,9.1118547
 title: Interazione Uomo Macchina
 institution: Università di Cagliari
 department: Matematica e Informatica

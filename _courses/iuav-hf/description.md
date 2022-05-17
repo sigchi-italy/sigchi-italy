@@ -1,7 +1,10 @@
 ---
 layout: course
 title: Human Factors
-institution: uUn. San Marino-IUAv
+survey: 2017
+content-language: it
+map-pin: 43.937803,12.4439394
+institution: San Marino-IUAv
 department: DESDE
 venue: San Marino
 degree: design
@@ -10,14 +13,14 @@ course-name: Human Factors
 course-year: 1
 course-language: Italiano
 course-type: In presenza
-course-website: 
+course-website: https://design.unirsm.sm/courses/human-factors-2/
 course-participants: 20
-course-optional: 
+course-optional: No
 cfu: 3
 hours: 50
 hours-lectures: 30
 hours-lab: 20
-teacher: Bagnara Pozzi
+teacher: Alessandro Pollini, Simone Pozzi
 topics: 
   Accessibility: no 
   Activity_design: no 

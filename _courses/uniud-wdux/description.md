@@ -1,5 +1,6 @@
 ---
 layout: course
+active: no
 title: Web Design e User Experience
 institution: Università di Udine
 department: 

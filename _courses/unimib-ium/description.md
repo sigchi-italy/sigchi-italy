@@ -1,6 +1,9 @@
 ---
 layout: course
 title: Interazione Uomo Macchina
+survey: 2017
+content-language: it
+map-pin: 45.5174459,9.2127166
 institution: Università di Milano Bicocca
 department: Informatica, Sistemistica e Comunicazione (DISCO)
 venue: Milano
@@ -12,7 +15,7 @@ course-language: Italiano
 course-type: In presenza;On-demand
 course-website: http://www.rpolillo.it/corsi/interazione-uomo-macchina/
 course-participants: 85
-course-optional: T
+course-optional: Yes
 cfu: 8
 hours: 1
 hours-lectures: 32

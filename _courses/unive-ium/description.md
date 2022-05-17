@@ -1,5 +1,6 @@
 ---
 layout: course
+active: no
 title: Interazione Uomo Macchina
 institution: Università Ca' Foscari Venezia
 department: DAIS

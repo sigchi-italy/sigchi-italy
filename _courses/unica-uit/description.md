@@ -1,6 +1,9 @@
 ---
 layout: course
 title: UIT - UniCA
+survey: 2022
+content-language: it
+map-pin: 39.2224156,9.1118547
 institution: Università di Cagliari
 department: Matematica e Informatica
 degree: Informatica 

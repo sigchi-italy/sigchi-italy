@@ -1,6 +1,9 @@
 ---
 layout: course
 title: Interazione Uomo-Macchina
+survey: 2017
+content-language: it
+active: no
 institution: Università di Bari Aldo Moro
 department: Informatica
 venue: Brindisi

@@ -1,6 +1,9 @@
 ---
 layout: course
-title: Informatica per la Comunicazione (Web Design, Informamation Visualisation)
+survey: 2017
+content-language: it
+active: no
+title: Informatica per la Comunicazione (Web Design, Information Visualisation)
 institution: Università di Torino
 department: Dipartimento di Cultura, Politica e società
 venue: Torino

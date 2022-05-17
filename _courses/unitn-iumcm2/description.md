@@ -1,5 +1,6 @@
 ---
 layout: course
+active: no
 title: Interazione Uomo-Macchina con elementi di comunicazione multimodale
 institution: Università di Trento
 department: Facoltà Scienze Cognitive
