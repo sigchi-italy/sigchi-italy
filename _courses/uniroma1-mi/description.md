@@ -7,6 +7,7 @@ title: Multimodal Interaction
 institution: Sapienza University of Rome
 institution-website: https://www.studiareinformatica.uniroma1.it/master-course-computer-science 
 department: Computer Science
+department-type: scientific
 venue: Rome
 degree: Computer Science
 level: Master's Degree
