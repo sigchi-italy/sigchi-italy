@@ -6,6 +6,7 @@ content-language: it
 map-pin: 44.4033892,8.9578272
 institution: Università degli Studi di Genova
 department: DIBRIS
+department-type: scientific
 venue: Polo Opera Pia
 degree: Computer Engineering
 level: Laurea Magistrale
