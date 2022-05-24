@@ -7,6 +7,7 @@ title: Human Computer Interaction
 institution: Università degli Studi di Genova
 institution-website: https://courses.unige.it/11160 
 department: DIBRIS
+department-type: scientific
 venue: Genova
 degree: Computer Engineering
 level: Master's Degree
