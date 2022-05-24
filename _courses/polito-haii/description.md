@@ -7,6 +7,7 @@ title: Human-AI Interaction
 institution: Politecnico di Torino
 institution-website:  
 department: Department of Control and Computer Engineering
+department-type: scientific
 venue: Torino, Italy
 degree: Computer Engineering
 level: PhD
