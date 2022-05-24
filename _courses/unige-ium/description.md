@@ -7,6 +7,7 @@ title: Interazione Uomo Macchina
 institution: Università degli Studi di Genova
 institution-website: https://corsi.unige.it/9913 
 department: DIBRIS
+department-type: humanistic
 venue: Genova
 degree: Digital Humanities
 level: Master's Degree
