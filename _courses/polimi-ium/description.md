@@ -6,6 +6,7 @@ content-language: it
 map-pin: 45.4787318,9.2312836
 institution: Politecnico di Milano
 department: Elettronica, Informazione e Bioingegneria
+department-type: scientific
 venue: Milano - Campus Leonardo
 degree: Ingegneria Informatica
 level: Laurea Triennale
