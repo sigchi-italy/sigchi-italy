@@ -6,9 +6,10 @@ active: no
 title: Interazione Uomo-Macchina
 institution: Università degli Studi di Brescia
 department: Dipartimento di Ingegneria dell'Informazione
+department-type: scientific
 venue: 
 degree: Ingegneria Informatica
-level: Laurea Magistrale
+level: Master's Degree
 course-name: Interazione Uomo-Macchina
 course-year: 2
 course-language: Italiano
