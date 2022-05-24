@@ -7,6 +7,7 @@ title: Maker Lab
 institution: Free University of Bozen-Bolzano
 institution-website: https://www.unibz.it/en/faculties/computer-science/bachelor-computer-science/course-offering/ 
 department: Faculty of Computer Science
+department-type: scientific
 venue: Bolzano
 degree: Computer Science
 level: Bachelor's Degree
