@@ -7,6 +7,7 @@ title: Human Computer Interaction and Experience Design in the Internet of Thing
 institution: University of Salerno
 institution-website: https://corsi.unisa.it/informatica-magistrale/home 
 department: Computer Science
+department-type: scientific
 venue: Fisciano (SA)
 degree: Computer Science
 level: Master's Degree
