@@ -7,6 +7,7 @@ title: Interact with intelligent systems
 institution: Università degli Studi di Bari Aldo Moro
 institution-website: https://www.uniba.it/ricerca/dipartimenti/informatica/didattica/corsi-di-laurea/computer-science/computer-science 
 department: Dipartimento di Informatica
+department-type: scientific
 venue: Bari
 degree: Computer Science
 level: Laurea Magistrale
