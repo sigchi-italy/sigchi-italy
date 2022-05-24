@@ -16,7 +16,7 @@ course-language: Inglese
 course-type: In presenza
 course-website: https://piazza.com/uniroma1.it/spring2015/1038134/resources
 course-participants: 
-course-optional: T
+course-optional: Yes
 cfu: 6
 hours: 48
 hours-lectures: 40
