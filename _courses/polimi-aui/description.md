@@ -9,7 +9,7 @@ department: Elettronica, Informazione e Bioingegneria
 department-type: scientific
 venue: Milano - Campus Leonardo
 degree: Computer Science Engineering; Telecommunication Engineering
-level: Laurea Magistrale
+level: Master's Degree
 course-name: Advanced User Interfaces
 course-year: 4
 course-language: Inglese
