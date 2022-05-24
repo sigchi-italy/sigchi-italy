@@ -16,7 +16,7 @@ course-language: Italiano
 course-type: In presenza
 course-website: http://iumpanizzi.wordpress.com
 course-participants: 80
-course-optional: T
+course-optional: Yes
 cfu: 6
 hours: 48
 hours-lectures: 24
