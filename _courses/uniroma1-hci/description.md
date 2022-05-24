@@ -6,9 +6,10 @@ map-pin: 41.8912169,12.5025114
 title: Human-Computer Interaction
 institution: Sapienza
 department: Ingegneria Informatica, Automatica e Gestionale "A.Ruberti"
+department-type: scientific
 venue: Roma
 degree: Ingegneria Informatica
-level: Laurea Magistrale
+level: Master's Degree
 course-name: Human-Computer Interaction
 course-year: 5
 course-language: Inglese
