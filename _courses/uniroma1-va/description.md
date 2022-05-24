@@ -7,6 +7,7 @@ title: Visual Analytics
 institution: SAPIENZA University of Rome
 institution-website: https://corsidilaurea.uniroma1.it/en/corso/2021/30430/home 
 department: Department of Computer, Control and Management Engineering "Antonio Ruberti"
+department-type: scientific
 venue: Rome
 degree: Master of Science in Engineering in Computer Science
 level: Master's Degree
