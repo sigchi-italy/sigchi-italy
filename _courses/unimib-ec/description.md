@@ -6,9 +6,10 @@ content-language: it
 map-pin: 45.5174459,9.2127166
 institution: Universita' di Milano-Bicocca
 department:  Dipartimenti di Informatica e Psicologia
+department-type: scientific
 venue: 
 degree: Teoria e Tecnologia della Comunicazione
-level: Laurea Magistrale
+level: Master's Degree
 course-name: ergonomia cognitiva
 course-year: 1
 course-language: Italiano
