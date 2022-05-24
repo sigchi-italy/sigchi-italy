@@ -14,7 +14,7 @@ course-language: Inglese
 course-type: In presenza;Da remoto
 course-website: https://offertaformativa.unicatt.it/master-lista-master-user-experience-psychology
 course-participants: 25
-course-optional: T
+course-optional: Yes
 cfu: 60
 hours: 1500
 hours-lectures: 400
