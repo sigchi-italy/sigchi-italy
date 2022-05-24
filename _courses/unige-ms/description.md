@@ -9,7 +9,7 @@ department: DIBRIS
 department-type: scientific
 venue: Polo Opera Pia
 degree: Computer Engineering
-level: Laurea Magistrale
+level: Master's Degree
 course-name: Multimodal Systems
 course-year: 2
 course-language: Inglese
