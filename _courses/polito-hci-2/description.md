@@ -2,6 +2,7 @@
 layout: course
 title: Human Computer Interaction
 survey: 2017
+active: no
 content-language: it
 map-pin: 45.0643209,7.6586337
 institution: Politecnico di Torino
