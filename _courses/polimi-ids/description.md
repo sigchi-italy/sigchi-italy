@@ -9,7 +9,7 @@ department: Dipartimento di Elettronica, Informazione e Bioingegneria e Dipartim
 department-type: scientific
 venue: 
 degree: Design della Comunicazione
-level: Laurea Magistrale
+level: Master's Degree
 course-name: Interaction Design Studio
 course-year: 1
 course-language: Inglese
