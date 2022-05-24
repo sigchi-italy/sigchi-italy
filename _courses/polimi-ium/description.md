@@ -9,7 +9,7 @@ department: Elettronica, Informazione e Bioingegneria
 department-type: scientific
 venue: Milano - Campus Leonardo
 degree: Ingegneria Informatica
-level: Laurea Triennale
+level: Bachelor's Degree
 course-name: Interazione Uomo-Macchina
 course-year: 3
 course-language: Italiano
