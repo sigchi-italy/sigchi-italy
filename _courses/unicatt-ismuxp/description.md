@@ -4,6 +4,7 @@ active: no
 title: International Specializing Master in User Experience Psychology
 institution: Università Cattolica del Sacro Cuore e POLIDesign - Politecnico di Milano
 department: Faculty of Psychology and Faculty of Design
+department-type: humanistic
 venue: 
 degree: Specializing Master
 level: Post Laurea
