@@ -1,7 +1,6 @@
 ---
 layout: course
 title: Human Computer Interaction
-active: no
 survey: 2017
 content-language: it
 map-pin: 45.0643209,7.6586337
