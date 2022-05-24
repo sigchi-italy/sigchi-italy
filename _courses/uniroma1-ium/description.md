@@ -6,9 +6,10 @@ map-pin: 41.9141253,12.4959546
 title: Interazione Uomo Macchina
 institution: Sapienza Università di Roma
 department: Dipartimento di Informatica
+department-type: scientific
 venue: 
 degree: Informatica
-level: Laurea Triennale
+level: Bachelor's Degree
 course-name: Interazione Uomo Macchina
 course-year: 3
 course-language: Italiano
