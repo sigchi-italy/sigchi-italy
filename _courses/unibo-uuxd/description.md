@@ -6,9 +6,10 @@ map-pin: 44.1478063,12.2339543
 title: Usability & User Experience Design
 institution: Università di Bologna
 department: Dipartimento di Informatica
+department-type: scientific
 venue: 
 degree: Informatica Magistrale + Digital Humanities and Digital Knowledge (magistrale) + Artificial Intelligence (magistrale)
-level: Laurea Magistrale
+level: Master's Degree
 course-name: Usability & User Experience Design
 course-year: 1
 course-language: Inglese
