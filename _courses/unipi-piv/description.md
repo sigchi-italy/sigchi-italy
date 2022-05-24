@@ -6,9 +6,10 @@ map-pin: 43.7204755,10.4071573
 title: Progettazione di Interfacce e Valutazione dell’Usabilità
 institution: Università di Pisa
 department: Interdipartimentale tra il Dipartimento di Filologia, Letteratura e Linguistica ed il Dipartimento di Informatica
+department-type: humanistic
 venue: Pisa
 degree: Informatica Umanistica / Informatica
-level: Laurea Magistrale
+level: Master's Degree
 course-name: Progettazione di Interfacce e Valutazione dell’Usabilità
 course-year: 5
 course-language: Inglese
