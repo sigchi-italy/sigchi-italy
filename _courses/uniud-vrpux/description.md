@@ -7,6 +7,7 @@ title: Virtual Reality and Persuasive User Experience
 institution: University of Udine
 institution-website: https://www.uniud.it/it/didattica/corsi-studenti-iscritti/area-scientifica/scienze-matematiche-informatiche-multimediali-fisiche/laurea-magistrale 
 department: Mathematics, Computer Science, and Physics
+department-type: scientific
 venue: Italy
 degree: Computer Science
 level: Master's Degree
