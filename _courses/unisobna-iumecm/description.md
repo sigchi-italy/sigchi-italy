@@ -4,9 +4,10 @@ active: no
 title: Interazione Uomo Macchina ed Elementi di Comunicazione Multimediale
 institution: Università degli Studi Suor Orsola Benincasa di Napoli
 department: Dipartimento di Scienze formative, psicologiche e della comunicazione
+department-type: humanistic
 venue: 
 degree: Scienze e Tecniche di Psicologia Cognitiva / Curriculum Ergonomia Cognitiva
-level: Laurea Triennale
+level: Bachelor's Degree
 course-name: Interazione Uomo Macchina ed Elementi di Comunicazione Multimediale
 course-year: 2
 course-language: Italiano
