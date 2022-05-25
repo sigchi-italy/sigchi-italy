@@ -7,6 +7,7 @@ title: Interazione Uomo-Macchina (Human-Computer Interaction)
 institution: University of Udine
 institution-website: https://www.uniud.it/it/didattica/corsi-studenti-iscritti/area-scientifica/scienze-matematiche-informatiche-multimediali-fisiche/laurea/informatica/corso 
 department: Department of Mathematics, Computer Science and Physics
+department-type: scientific
 venue: Udine
 degree: Computer Science
 level: Bachelor's Degree
