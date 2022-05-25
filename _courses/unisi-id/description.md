@@ -7,6 +7,7 @@ title: Interaction Design
 institution: University of Siena
 institution-website: https://scienze-comunicazione.unisi.it/en 
 department: Dept. of Social, Political and Cognitive Science
+department-type: humanistic
 venue: Via Roma, 56, Siena
 degree: Communication Science
 level: Bachelor's Degree
