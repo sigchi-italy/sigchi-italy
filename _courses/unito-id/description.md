@@ -8,7 +8,8 @@ institution: Università degli Studi di Torino
 department: Culture, Politica e Società
 venue: Campus Luigi Einaudi
 degree: Comunicazione, ICT e Media
-level: Laurea Magistrale
+department-type: scientific
+level: Master's Degree
 course-name: Design of Interactive Systems
 course-year: 4
 course-language: Italiano
