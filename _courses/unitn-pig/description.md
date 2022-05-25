@@ -7,9 +7,10 @@ title: Progettazione Interfacce Grafiche
 institution: Università di Trento
 institution-website:  
 department: Dipartimento di Psicologia e Science Cognitive
+department-type: humanistic
 venue: Rovereto
 degree: Interfacce e Tecnologie della Comunicazione
-level: Laurea Triennale
+level: Bachelor's Degree
 course-name: Progettazione Interfacce Grafiche
 course-year: 2
 course-language: Italiano
