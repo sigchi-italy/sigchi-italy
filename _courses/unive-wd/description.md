@@ -4,9 +4,10 @@ title: Web Design
 active: no
 institution: Università Ca' Foscari Venezia
 department: DAIS
+department-type: scientific
 venue: 
 degree: Informatica
-level: Laurea Triennale
+level: Bachelor's Degree
 course-name: Web Design
 course-year: 3
 course-language: Italiano
