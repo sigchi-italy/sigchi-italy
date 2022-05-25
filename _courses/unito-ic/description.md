@@ -6,9 +6,10 @@ active: no
 title: Informatica per la Comunicazione (Web Design, Information Visualisation)
 institution: Università di Torino
 department: Dipartimento di Cultura, Politica e società
+department-type: humanistic
 venue: Torino
 degree: Corso di laurea magistrale in Comunicazione pubblica e politica
-level: Laurea Magistrale
+level: Master's Degree
 course-name: Informatica per la Comunicazione (Web Design, Informamation Visualisation)
 course-year: 2
 course-language: Italiano
