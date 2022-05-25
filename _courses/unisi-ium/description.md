@@ -6,9 +6,10 @@ map-pin: 43.3192189,11.3317156
 title: Interazione Uomo-Macchina
 institution: Università di Siena
 department: Dipartimento di Scienze Sociali, Politiche e Cognitive
+department-type: humanistic
 venue: Siena
 degree: Scienze della Comunicazione
-level: Laurea Triennale
+level: Bachelor's Degree
 course-name: Interazione Uomo-Macchina
 course-year: 3
 course-language: Italiano
