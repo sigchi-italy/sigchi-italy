@@ -7,6 +7,7 @@ title: Teorie dell'interazione uomo-macchina
 institution: Università degli Studi di Torino
 institution-website:  
 department: Culture, Politica e Società
+department-type: humanistic
 venue: Campus Luigi Einaudi
 degree: Comunicazione, ICT e Media
 level: Master's Degree
