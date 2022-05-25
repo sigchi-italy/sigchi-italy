@@ -7,6 +7,7 @@ title: Web and User Experience Design
 institution: Università Ca' Foscari Venezia
 institution-website: https://www.unive.it/data/course/353583 
 department: DSU
+department-type: humanistic
 venue: Venezia
 degree: Digital and Public Humanities
 level: Master's Degree
