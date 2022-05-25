@@ -7,6 +7,7 @@ title: Human Computer Interaction and Multimedia Communication
 institution: University Suor Orsola Benincasa
 institution-website: https://www.unisob.na.it/universita/facolta/formazione/psicologia/index.htm?vr=1 
 department: Department of Education, Psychology and Communication
+department-type: humanistic
 venue: Naples
 degree: Cognitive Psychology
 level: Bachelor's Degree
