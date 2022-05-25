@@ -7,6 +7,7 @@ title: Interazione persona-macchina con elementi di comunicazione multimodale
 institution: University of Trento
 institution-website: https://offertaformativa.unitn.it/it/l/interfacce-e-tecnologie-della-comunicazione 
 department: Department of Psychology and Cognitive Science
+department-type: humanistic
 venue: Trento
 degree: Interfacce e Tecnologie della comunicazione
 level: Bachelor's Degree
