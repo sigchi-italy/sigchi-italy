@@ -6,9 +6,9 @@ map-pin: 45.0733629,7.6980048
 title: Design of Interactive Systems
 institution: Università degli Studi di Torino
 department: Culture, Politica e Società
+department-type: humanistic
 venue: Campus Luigi Einaudi
 degree: Comunicazione, ICT e Media
-department-type: scientific
 level: Master's Degree
 course-name: Design of Interactive Systems
 course-year: 4
