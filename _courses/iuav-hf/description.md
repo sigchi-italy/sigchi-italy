@@ -6,9 +6,10 @@ content-language: it
 map-pin: 43.937803,12.4439394
 institution: San Marino-IUAv
 department: DESDE
+department-type: humanistic
 venue: San Marino
 degree: design
-level: Laurea Magistrale
+level: Master's Degree
 course-name: Human Factors
 course-year: 1
 course-language: Italiano
