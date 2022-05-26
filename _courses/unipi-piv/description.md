@@ -16,7 +16,7 @@ course-language: Inglese
 course-type: In presenza
 course-website: http://hiis.isti.cnr.it/~fabio/corso-hci.html
 course-participants: 25
-course-optional: T
+course-optional: Yes
 cfu: 6
 hours: 42
 hours-lectures: 28
