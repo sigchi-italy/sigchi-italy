@@ -5,8 +5,8 @@ survey: 2017
 content-language: it
 map-pin: 45.4787318,9.2312836
 institution: Politecnico di Milano
-department: Dipartimento di Elettronica, Informazione e Bioingegneria e Dipartimento di Design
-department-type: scientific
+department: Dipartimento di Design
+department-type: humanistic
 venue: 
 degree: Design della Comunicazione
 level: Master's Degree
