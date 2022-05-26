@@ -16,7 +16,7 @@ course-language: Inglese
 course-type: In presenza
 course-website: 
 course-participants: 10
-course-optional: F
+course-optional: 
 cfu: 6
 hours: 48
 hours-lectures: 48
