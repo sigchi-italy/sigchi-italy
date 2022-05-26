@@ -16,7 +16,7 @@ course-language: Italiano
 course-type: In presenza
 course-website: https://www.didattica-cps.unito.it/do/corsi.pl/Show?_id=bdxn
 course-participants: 40
-course-optional: T
+course-optional: Yes
 cfu: 6
 hours: 36
 hours-lectures: 36
