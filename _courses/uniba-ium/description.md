@@ -7,9 +7,10 @@ title: Interazione Uomo-Macchina
 institution: Università degli Studi di Bari Aldo Moro
 institution-website: https://www.uniba.it/ricerca/dipartimenti/informatica/didattica/corsi-di-laurea/informatica-270/laurea-triennale-in-informatica-d.m.-270-1 
 department: Dipartimento di Informatica
+department-type: scientific
 venue: Bari
 degree: Informatica
-level: Laurea Triennale
+level: Bachelor's Degree
 course-name: Interazione Uomo-Macchina
 course-year: 3
 course-language: Italiano
