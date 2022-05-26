@@ -16,7 +16,7 @@ course-language: Italiano
 course-type: Da remoto
 course-website: 
 course-participants: 35
-course-optional: T
+course-optional: Yes
 cfu: 5
 hours: 60
 hours-lectures: 35
