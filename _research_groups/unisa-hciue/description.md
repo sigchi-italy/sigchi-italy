@@ -5,11 +5,12 @@ group-name: HCI and UE
 institution: Human Computer Interaction and Usability Engineering Lab (HCI-UsE) - Dipartimento di Informatica - Università di Salerno
 department: 
 address: 
-  street-name: 
-  street-number: 
-  city: 
-  state: 
-  zip: 
+  street-name: Via Papa Giovanni Paolo II
+  street-number: 132
+  city: Fiscisno
+  state: Italy
+  zip: 84084
+  pin: 40.775219246559146, 14.78960245124224
 website: https://www.di.unisa.it/en/department/structures?id=143
 members: 
  - member: 

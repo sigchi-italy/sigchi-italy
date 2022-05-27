@@ -1,5 +1,6 @@
 ---
 layout: research
+active: no
 title: CG3HCI
 group-name: CG3HCI
 institution: University of Cagliari, Department of Mathematics and Computer Science

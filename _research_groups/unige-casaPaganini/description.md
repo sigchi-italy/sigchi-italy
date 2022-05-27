@@ -10,6 +10,7 @@ address:
   city: Genova
   state: 
   zip: 16123
+  pin: 44.40530589281376, 8.929921441016095
 website: http://www.casapaganini.org
 members: 
  - member: 

@@ -1,6 +1,7 @@
 ---
 layout: research
 title: UX
+active: no
 group-name: UX
 institution: Università di Milano-Bicocca
 department: 

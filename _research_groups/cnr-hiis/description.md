@@ -10,6 +10,7 @@ address:
   city: Pisa
   state: Italy
   zip: 56124
+  pin: 43.719457623081695, 10.423924314021182
 website: https://giove.isti.cnr.it/lab/
 members: 
  - member: 

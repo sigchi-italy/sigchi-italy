@@ -2,6 +2,7 @@
 layout: research
 title: SYSLAB
 group-name: SYSLAB
+active: no
 institution: Università degli Studi di Milano-Bicocca
 department: 
 address: 

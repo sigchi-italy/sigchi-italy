@@ -2,6 +2,7 @@
 layout: research
 title: HF
 group-name: HF
+active: no
 institution: Università della Repubblica di San Marino
 department: 
 address: 

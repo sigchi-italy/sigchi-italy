@@ -1,6 +1,7 @@
 ---
 layout: research
 title: SCFabLab
+active: no
 group-name: SCFabLab
 institution: University of Siena
 department: 

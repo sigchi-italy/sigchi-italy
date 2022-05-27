@@ -5,11 +5,12 @@ group-name: HIT
 institution: Università degli Studi di Padova
 department: 
 address: 
-  street-name: 
-  street-number: 
-  city: 
-  state: 
-  zip: 
+  street-name: Via Luzzatti
+  street-number: 4
+  city: Padova
+  state: Italy
+  zip: 35121
+  pin: 45.40871081454679, 11.886910685215438
 website: http://hit.psy.unipd.it/
 members: 
  - member: 

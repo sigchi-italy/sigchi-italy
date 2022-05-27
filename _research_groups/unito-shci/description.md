@@ -2,6 +2,7 @@
 layout: research
 title: SHCI
 group-name: SHCI
+active: no
 institution: Dipartimento di Informatica - Università di Torino
 department: 
 address: 

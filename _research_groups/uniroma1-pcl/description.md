@@ -3,6 +3,7 @@ layout: research
 title: PCL
 group-name: PCL
 institution: Sapienza
+active: no
 department: 
 address: 
   street-name: 

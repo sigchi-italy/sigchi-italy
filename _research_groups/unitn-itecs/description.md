@@ -2,6 +2,7 @@
 layout: research
 title: ITECS
 group-name: ITECS
+active: no
 institution: Università di Trento - Dipartimento di Psicologia e Scienze Cognitive
 department: 
 address: 

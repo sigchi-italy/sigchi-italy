@@ -1,6 +1,7 @@
 ---
 layout: research
 title: IST
+active: no
 group-name: IST
 institution: Universita' di Torino
 department: 

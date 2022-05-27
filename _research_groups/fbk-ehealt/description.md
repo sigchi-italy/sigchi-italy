@@ -1,6 +1,7 @@
 ---
 layout: research
 title: eHealt
+active: no
 group-name: eHealt
 institution: Fondazione Bruno Kessler
 department: 

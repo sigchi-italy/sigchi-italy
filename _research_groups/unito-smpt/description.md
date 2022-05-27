@@ -1,6 +1,7 @@
 ---
 layout: research
 title: SMPT
+active: no
 group-name: SMPT
 institution: University of Torino
 department: 

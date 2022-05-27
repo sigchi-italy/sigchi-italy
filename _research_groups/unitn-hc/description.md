@@ -1,6 +1,7 @@
 ---
 layout: research
 title: HC
+active: no
 group-name: HC
 institution: University of Trento
 department: 

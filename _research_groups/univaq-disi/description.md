@@ -2,6 +2,7 @@
 layout: research
 title: DISI
 group-name: DISI
+active: no
 institution: Università degli Studi dell'Aquila
 department: 
 address: 

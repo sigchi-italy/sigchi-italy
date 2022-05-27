@@ -2,6 +2,7 @@
 layout: research
 title: USI
 group-name: USI
+active: no
 institution: Università degli Studi di Palermo
 department: 
 address: 

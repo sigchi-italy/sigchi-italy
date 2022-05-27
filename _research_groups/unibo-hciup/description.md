@@ -1,6 +1,7 @@
 ---
 layout: research
 title: HCI-UP
+active: no
 group-name: HCI-UP
 institution: University of Bologna
 department: 

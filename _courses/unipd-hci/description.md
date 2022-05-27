@@ -8,7 +8,7 @@ institution: universita di padova
 department: human inspired technology research centre
 venue: unipd
 degree: Brain, mond and computer science
-level: Post Laurea
+level: PhD
 course-name: human computer interaction
 course-year: 2
 course-language: Inglese

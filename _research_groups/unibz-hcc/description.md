@@ -2,6 +2,7 @@
 layout: research
 title: HCI
 group-name: HCI
+survey: 2022
 institution: Free University of Bozen-Bolzano
 department: Faculty of Computer Science
 address: 
@@ -10,6 +11,7 @@ address:
   city: Bolzano
   state: Italy
   zip: 39100
+  pin: 46.49759594657131, 11.352488585235747
 website: https://www.inf.unibz.it/idse/hcc/
 members: 
 - member: 

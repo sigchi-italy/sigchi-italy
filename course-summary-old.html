@@ -1,0 +1,158 @@
+---
+layout: scrollytelling
+title: Courses
+permalink: /courses-summary-old/
+---
+<main class="flex-shrink-0" style="margin-top: 10vh">
+<script>
+
+    var addressPoints = [
+        {% assign count=0 %}
+        {% for course in site.courses %}
+            {% if course.map-pin  and course.active != "no" %}
+            {% assign count = count | plus:1 %}
+            [{{course.map-pin}}, "{{course.institution | replace: '"', "" }}<br> <a href=\"{{site.baseurl}}{{ course.url }}\">{{ course.course-name }}</a>"],{% endif%}
+        {% endfor %}
+    ];
+</script>
+<section id="intro">
+    <!--<h2 class="intro__hed">Human-Computer Interaction Courses in Italy</h2>-->
+    <p class="intro__dek">
+
+    </p>
+</section>
+
+<section id="scrolly">
+    <article>
+        <div class="step" data-step="1">
+            <h2>Where to study HCI in Italy?</h2>
+            <p>
+                SIGCHI-Italy maintains a list of existing HCI-related courses in Italy as a reference
+                for people interested in the topic.
+            </p>
+            <p>The map shows where it is possible to find courses in HCI and, for each of them,
+            a link to the course details.</p>
+        </div>
+        <div class="step" data-step="2">
+            <h2>How many courses are available in Italy?</h2>
+            <p>
+                Our list includes the description of <strong>{{count}}</strong>
+                courses all over Italy.
+            </p>
+        </div>
+        <div class="step" data-step="3">
+            <p>STEP 3</p>
+        </div>
+        <div class="step" data-step="4">
+            <p>STEP 4</p>
+        </div>
+    </article>
+
+    <figure>
+        <h2 id="figHead">Human-Computer Interaction Courses in Italy</h2>
+        <div id="map" style="height:70vh"></div>
+        <script type="text/javascript">
+
+            var tiles = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                    maxZoom: 18,
+                    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Points &copy 2012 LINZ'
+                }),
+                latlng = L.latLng(41.734545, 10.3646947);
+
+            var map = L.map('map', {
+                center: latlng, zoom: 5,
+                layers: [tiles]});
+
+            var markers = L.markerClusterGroup();
+
+            for (var i = 0; i < addressPoints.length; i++) {
+                var a = addressPoints[i];
+                var title = a[2];
+                var marker = L.marker(new L.LatLng(a[0], a[1]), {title: title});
+                marker.bindPopup(title);
+                markers.addLayer(marker);
+            }
+
+            map.addLayer(markers);
+
+        </script>
+    </figure>
+</section>
+
+<section id="outro">
+    &nbsp;
+</section>
+
+</main>
+<script src="https://unpkg.com/d3@5.9.1/dist/d3.min.js"></script>
+<script src="{{site.baseurl}}/js/scrollama.js"></script>
+<script>
+    // using d3 for convenience
+    var main = d3.select("main");
+    var scrolly = main.select("#scrolly");
+    var figure = scrolly.select("figure");
+    var article = scrolly.select("article");
+    var step = article.selectAll(".step");
+
+    // initialize the scrollama
+    var scroller = scrollama();
+
+    // generic window resize listener event
+    function handleResize() {
+        // 1. update height of step elements
+        var relH = 0.80
+        var stepH = Math.floor(window.innerHeight* relH );
+        step.style("height", stepH + "px");
+
+        var figureHeight = window.innerHeight * relH;
+        var figureMarginTop = (window.innerHeight - figureHeight) / 2;
+
+        figure
+            .style("height", figureHeight + "px")
+            .style("top", figureMarginTop + "px");
+
+        // 3. tell scrollama to update new element dimensions
+        scroller.resize();
+    }
+
+    // scrollama event handlers
+    function handleStepEnter(response) {
+        console.log(response);
+        // response = { element, direction, index }
+
+        // add color to current step only
+        step.classed("is-active", function (d, i) {
+            return i === response.index;
+        });
+
+        // update graphic based on step
+        //document.getElementById("figHead").style.visibility = response.index == 1 ? 'hidden': 'visible';
+    }
+
+    function setupStickyfill() {
+        d3.selectAll(".sticky").each(function () {
+            Stickyfill.add(this);
+        });
+    }
+
+    function init() {
+        setupStickyfill();
+
+        // 1. force a resize on load to ensure proper dimensions are sent to scrollama
+        handleResize();
+
+        // 2. setup the scroller passing options
+        // 		this will also initialize trigger observations
+        // 3. bind scrollama event handlers (this can be chained like below)
+        scroller
+            .setup({
+                step: "#scrolly article .step",
+                offset: 0.33,
+                debug: false
+            })
+            .onStepEnter(handleStepEnter);
+    }
+
+    // kick things off
+    init();
+</script>

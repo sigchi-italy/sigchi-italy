@@ -1,6 +1,7 @@
 ---
 layout: research
 title: EUD
+active: no
 group-name: EUD
 institution: Università degli Studi di Brescia
 department: 

@@ -5,11 +5,12 @@ group-name: DEIB
 institution: Politecnico di Milano
 department: 
 address: 
-  street-name: 
-  street-number: 
-  city: 
-  state: 
-  zip: 
+  street-name: Via Ponzio
+  street-number: 34/5
+  city: Milano
+  state: Italy
+  zip: 20133
+  pin: 45.47880742080256, 9.232327029272046
 website: https://www.deib.polimi.it/ita/laboratori-deib/dettagli/93
 members: 
  - member: 

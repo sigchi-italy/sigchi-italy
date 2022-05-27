@@ -2,6 +2,7 @@
 layout: research
 title: DAIS
 group-name: DAIS
+active: no
 institution: Università Ca' Foscari Venezia
 department: 
 address: 

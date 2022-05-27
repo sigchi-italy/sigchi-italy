@@ -10,6 +10,7 @@ address:
   city: Trento
   state: Italy
   zip: 38123
+  pin: 46.064821438648934, 11.150467685227603
 website: https://www.cimil.disi.unitn.it/
 members: 
  - member: 

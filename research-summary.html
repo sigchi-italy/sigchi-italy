@@ -1,15 +1,15 @@
 ---
 layout: fullpage
-title: HCI courses in Italy
-permalink: /courses-summary/
+title: HCI research groups in Italy
+permalink: /research-summary/
 ---
 <script>
 
     var addressPoints = [
 
-    {% for course in site.courses %}
-        {% if course.map-pin  and course.active != "no" %}
-            [{{course.map-pin}}, "{{course.institution | replace: '"', "" }}<br> <a href=\"{{site.baseurl}}{{ course.url }}\">{{ course.course-name }}</a>"],{% endif%}
+    {% for group in site.research_groups %}
+        {% if group.address.pin  and group.active != "no" %}
+            [{{group.address.pin}}, "{{group.institution | replace: '"', "" }}<br> <a href=\"{{site.baseurl}}{{ group.website }}\">{{ group.group-name }}</a>"],{% endif%}
     {% endfor %}
     ];
 
@@ -50,8 +50,8 @@ permalink: /courses-summary/
     {% assign master=0 %}
     {% assign phd = 0 %}
 
-    {% for course in site.courses %}
-        {% if course.map-pin  and course.active != "no" %}
+    {% for group in site.research_groups %}
+        {% if group.address.pin  and group.active != "no" %}
             console.log("{{count}} {{course.institution | replace: '"', "" }} {{course.title}} {{course.level}}");
             {% assign count = count | plus:1 %}
             {% if  course.level == "Laurea Triennale"  or course.level == "Bachelor's Degree"%}
@@ -78,18 +78,18 @@ permalink: /courses-summary/
 <div id="fullpage">
     <div class="section slide-orange">
         <div class="slide-text ">
-            <h2>Where to study HCI in Italy?</h2>
+            <h2>How many HCI research labs are there in Italy?</h2>
             <p>
-                SIGCHI-Italy maintains a list of existing HCI-related courses in Italy as a reference
-                for people interested in the topic.
+                SIGCHI-Italy maintains a list of existing HCI-related research labs in Italy as a reference
+                for people interested collaborations.
             </p>
             <p>The next slides summarise the collected data</p>
         </div>
     </div>
     <div class="section">
         <div class="slide-media">
-            <h2>HCI courses in Italy</h2>
-            <p>The courses are distributed throughout the Country. Click on clusters or pins to get a link to the course details.</p>
+            <h2>HCI Research Labs in Italy</h2>
+            <p>We have a total of {{count}} HCI research labs. Below you can see where they are located.</p>
             <div id="map" style="height:70vh"></div>
             <script type="text/javascript">
 
