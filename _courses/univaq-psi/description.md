@@ -4,9 +4,10 @@ active: no
 title: Progettazione di Sistemi Interattivi
 institution: Università degli Studi dell'Aquila
 department: Dipartimento di Ingegneria e Scienze dell'Informazione e Matematica
+department-type: scientific
 venue: 
 degree: Ingegneria Informatica ed Automatica
-level: Laurea Magistrale
+level: Master's Degree
 course-name: Progettazione di Sistemi Interattivi
 course-year: 1
 course-language: Italiano
