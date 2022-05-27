@@ -6,9 +6,10 @@ content-language: it
 map-pin: 45.4787318,9.2312836
 institution: Politecnico di Milano
 department: Elettronica, Informazione e Bioingegneria
+department-type: scientific
 venue: Milano - Campus Leonardo
 degree: Computer Science Engineering; Telecommunication Engineering
-level: Laurea Magistrale
+level: Master's Degree
 course-name: Hypermedia Applications (Web and Multimedia)
 course-year: 3
 course-language: Inglese

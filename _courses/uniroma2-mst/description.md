@@ -7,6 +7,7 @@ title: Interfaces and multimodal systems
 institution: University of Rome Tor Vergata
 institution-website:  
 department: Dept. of Mathematics
+department-type: scientific
 venue: Rome
 degree: Media Science and Technologies (Scienze e tenologie dei media)
 level: Bachelor's Degree

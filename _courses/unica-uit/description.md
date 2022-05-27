@@ -6,6 +6,7 @@ content-language: it
 map-pin: 39.2224156,9.1118547
 institution: Università di Cagliari
 department: Matematica e Informatica
+department-type: scientific
 degree: Informatica 
 level: Master's Degree
 course-name: User Interface Technologies

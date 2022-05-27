@@ -6,16 +6,17 @@ map-pin: 45.0733629,7.6980048
 title: Design of Interactive Systems
 institution: Università degli Studi di Torino
 department: Culture, Politica e Società
+department-type: humanistic
 venue: Campus Luigi Einaudi
 degree: Comunicazione, ICT e Media
-level: Laurea Magistrale
+level: Master's Degree
 course-name: Design of Interactive Systems
 course-year: 4
 course-language: Italiano
 course-type: In presenza
 course-website: https://www.didattica-cps.unito.it/do/corsi.pl/Show?_id=bdxn
 course-participants: 40
-course-optional: T
+course-optional: Yes
 cfu: 6
 hours: 36
 hours-lectures: 36

@@ -7,9 +7,10 @@ title: Interazione Uomo-Macchina
 institution: Università degli Studi di Bari Aldo Moro
 institution-website: https://www.uniba.it/ricerca/dipartimenti/informatica/didattica/corsi-di-laurea/informatica-icd-taranto-270/laurea-triennale-in-informatica-e-comunicazione-digitale-sede-di-taranto-d.m.-270 
 department: Dipartimento di Informatica
+department-type: scientific
 venue: Taranto
 degree: Informatica e Comunicazione Digitale
-level: Laurea Triennale
+level: Bachelor's Degree
 course-name: Interazione Uomo-Macchina
 course-year: 3
 course-language: Italiano

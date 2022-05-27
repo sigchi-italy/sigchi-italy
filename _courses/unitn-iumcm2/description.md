@@ -4,9 +4,10 @@ active: no
 title: Interazione Uomo-Macchina con elementi di comunicazione multimodale
 institution: Università di Trento
 department: Facoltà Scienze Cognitive
+department-type: humanistic
 venue: Rovereto
 degree: Interfacce e Tecnologie della Comunicazione
-level: Laurea Triennale
+level: Bachelor's Degree
 course-name: Interazione Uomo-Macchina con elementi di comunicazione multimodale
 course-year: 1
 course-language: Italiano

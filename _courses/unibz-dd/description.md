@@ -7,6 +7,7 @@ title: Digital Design. Interaction and transmedia design
 institution: Free University of Bozen-Bolzano
 institution-website: https://www.unibz.it/en/faculties/design-art/bachelor-design/course-offering/ 
 department: Faculty of Design and Art
+department-type: scientific
 venue: Bolzano
 degree: Design and Art
 level: Bachelor's Degree

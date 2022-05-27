@@ -7,6 +7,7 @@ title: Computer Programming
 institution: Free University of Bozen-Bolzano
 institution-website: https://www.unibz.it/en/faculties/education/master-applied-linguistics/ 
 department: Faculty of Education
+department-type: humanistic
 venue: Bressanone
 degree: Applied Linguistics
 level: Master's Degree

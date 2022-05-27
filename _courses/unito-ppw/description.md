@@ -6,16 +6,17 @@ map-pin: 45.0677885,7.6898597
 title: Progettazione e programmazione web -  Web Design and Web Programming
 institution: Torino
 department: Studi Umanistici
+department-type: humanistic
 venue: 
 degree: DAMS
-level: Laurea Triennale
+level: Bachelor's Degree
 course-name: Progettazione e programmazione web -  Web Design and Web Programming
 course-year: 3
 course-language: Italiano
 course-type: In presenza
 course-website: http://cdsdams.campusnet.unito.it/do/corsi.pl/Show?_id=gtqo
 course-participants: 40
-course-optional: T
+course-optional: Yes
 cfu: 6
 hours: 36
 hours-lectures: 36

@@ -7,6 +7,7 @@ title: Human Computer Interaction
 institution: University of Brescia
 institution-website: https://corsi.unibs.it/it/ingegneriainformaticamagistrale 
 department: Department of Information Engineering
+department-type: scientific
 venue: Brescia
 degree: Computer Science and Engineering
 level: Master's Degree

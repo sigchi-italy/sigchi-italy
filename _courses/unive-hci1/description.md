@@ -7,6 +7,7 @@ title: Human Computer Interaction
 institution: Università Ca' Foscari Venezia
 institution-website: unive.it/degree/ct3 
 department: DAIS
+department-type: scientific
 venue: Venezia
 degree: Computer Science
 level: Bachelor's Degree

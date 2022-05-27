@@ -6,16 +6,17 @@ content-language: it
 map-pin: 45.4787318,9.2312836
 institution: Politecnico di Milano
 department: Elettronica, Informazione e Bioingegneria
+department-type: scientific
 venue: Milano - Campus Leonardo
 degree: Ingegneria Informatica
-level: Laurea Triennale
+level: Bachelor's Degree
 course-name: Interazione Uomo-Macchina
 course-year: 3
 course-language: Italiano
 course-type: Da remoto
 course-website: 
 course-participants: 35
-course-optional: T
+course-optional: Yes
 cfu: 5
 hours: 60
 hours-lectures: 35

@@ -4,9 +4,10 @@ active: no
 title: Progetto di siti e portali web
 institution: Università di Udine
 department: Dip. di Matematica e Informatica
+department-type: scientific
 venue: 
 degree: Informatica, Tecnologie Web e Multimediali
-level: Laurea Triennale
+level: Bachelor's Degree
 course-name: Progetto di siti e portali web
 course-year: 3
 course-language: Italiano

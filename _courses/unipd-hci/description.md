@@ -6,6 +6,7 @@ map-pin: 45.4086223,11.8857627
 title: human computer interaction
 institution: universita di padova
 department: human inspired technology research centre
+department-type: scientific
 venue: unipd
 degree: Brain, mond and computer science
 level: PhD

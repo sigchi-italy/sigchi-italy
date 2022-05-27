@@ -4,80 +4,120 @@ survey: 2017
 content-language: it
 map-pin: 40.7745725,14.7884922
 title: Interazione Uomo Macchina e Usabilità del Software
-institution: Università di Salerno
-department: Dipartimento di Informatica
-venue: 
-degree: Informatica
-level: Laurea Magistrale
+institution: University of Salerno
+department: Computer Science
+department-type: scientific
+venue: Fisciano (SA)
+degree: Computer Science
+level: Master's Degree
 course-name: Interazione Uomo Macchina e Usabilità del Software
 course-year: 1
 course-language: Italiano
 course-type: In presenza
-course-website: http://www.unisa.it/pages/index/task/attivita-didattiche/id/47535/aa_off/2015/idStructure/8028/part/N0
-course-participants: 20
-course-optional: T
-cfu: 9
-hours: 72
+course-website: https://corsi.unisa.it/informatica-magistrale/didattica/insegnamenti?anno=2022&id=507524
+course-participants: 
+course-optional: Yes
+cfu: 6
+hours: 48
 hours-lectures: 
 hours-lab: 
 teacher: Giuliana Vitiello
 topics: 
-  Accessibility: no 
-  Activity_design: no 
-  Cognitive_Aspects: no 
-  Cognitive_walkthrough: no 
+  Accessibility: yes
+  Activity_design: yes 
+  Cognitive_Aspects: yes
+  Cognitive_walkthrough: yes
   Ergonomics: no 
-  Evaluation_metrics: no 
+  Evaluation_metrics: yes 
   HCI_Design_Patterns: no 
   HCI_history: no 
   Human-AI_Interaction: no 
-  Information_Design: no 
+  Information_Design: yes 
   Information_Visualization: no 
-  Interaction_Design: no 
-  Interaction_models_and_frameworks: no 
-  Interaction_paradigms: no 
+  Interaction_Design: yes
+  Interaction_models_and_frameworks: yes 
+  Interaction_paradigms: yes
   Interaction_styles: no 
-  Interviews_and_Surveys: no 
+  Interviews_and_Surveys: yes 
   Knowledge_Visualization: no 
-  Multimodal_Interfaces: no 
-  Personas: no 
-  Prototyping: no 
-  Requirement_Analysis: no 
-  Software_lifecycle: no 
-  Usability_Engineering: no 
-  Usability_Evaluation: no 
-  Usability_principles: no 
-  User-centered_design: no 
+  Multimodal_Interfaces: yes 
+  Personas: yes
+  Prototyping: yes 
+  Requirement_Analysis: yes 
+  Software_lifecycle: yes 
+  Usability_Engineering: yes 
+  Usability_Evaluation: yes
+  Usability_principles: yes
+  User-centered_design: yes
   User_Interfaces_for_the_Internet_of_Things: no 
-  User_Testing: no 
+  User_Testing: yes 
   Virtual_and_Augmented_Reality: no 
 learning-verification: 
-  Homework: no 
-  Group-project: no 
+  Homework: yes
+  Group-project: yes 
   Multiple-choice-questions: no 
-  Individual-project: no 
-  Oral-examination: no 
+  Individual-project: yes
+  Oral-examination: yes 
   Open-ended-questions: no 
 ---
 
 
 ## Syllabus 
-Descrizione
-IL CORSO PRESENTA CONCETTI E TECNICHE BEN ASSESTATE DI INTERAZIONE UOMO-MACCHINA, ILLUSTRANDONE L’UTILIZZO NELLE VARIE FASI DI SVILUPPO USER CENTERED. ESSO PREVEDE UNA PRIMA PARTE FOCALIZZATA SULLE ATTIVITÀ DI ANALISI E RACCOLTA DEI REQUISITI UTENTE, UNA SECONDA PARTE DEDICATA ALLE METODOLOGIE DI DESIGN DI SISTEMI INTERATTIVI E UNA TERZA DEDICATA ALLA VALUTAZIONE DELL’USABILITÀ. •	VANTAGGI DI UNO SVILUPPO ‘USER-CENTERED’ DI UN SISTEMA SOFTWARE E FONDAMENTI DI USABILITY ENGINEERING. •	GLI STUDI ETNOGRAFICI E LE INDAGINI CONTESTUALI COME STRUMENTI PER LA COMPRENSIONE DEL CONTESTO D’USO E PER LA RACCOLTA DEI REQUISITI UTENTE. •	L’APPROCCIO SCENARIO-BASED AL DESIGN ITERATIVO DI SISTEMI USER CENTERED. •	LE TECNOLOGIE USER CENTERED DI SUPPORTO AL PRINCIPIO DEL DESIGN UNIVERSALE. •	SVILUPPO USER-CENTERED DI SISTEMI MULTIMODALI E MULTI-UTENTE NEI DOMINI DELL’UBIQUITOUS COMPUTING E DELLA COLLABORAZIONE TRAMITE ARTEFATTI. PROBLEMATICHE DI USABILITY ENGINEERING SPECIFICHE DI QUEI SISTEMI. • METODI EMPIRICI DI VALUTAZIONE DELL’USABILITÀ. •	L’INGEGNERIA DELL’USABILITÀ NELLA PRATICA: IL RUOLO DEGLI SPECIALISTI DELL’USABILITÀ NEI TEAM DI SVILUPPO; GLI STANDARD DELLE INTERFACCE UTENTE; QUESTIONI ETICHE CHE INFLUISCONO SULL’USABILITÀ. •	IL DESIGN UNIVERSALE E L'ACCESSIBILITÀ
-Obiettivi formativi
-OBIETTIVO DEL CORSO È FAR ACQUISIRE AGLI STUDENTI CONCETTI AVANZATI CHE INTERESSANO LE DIVERSE FASI DEL PROCESSO INGEGNERIA DELL’USABILITÀ, DALLA SPECIFICA DEI REQUISITI UTENTE, ALLA PROGETTAZIONE, ALLO SVILUPPO E AL TESTING.
-Prerequisiti
-CONOSCENZA E CAPACITÀ DI COMPRENSIONE: DURANTE IL CORSO SARÀ DATA ENFASI ALLO SVILUPPO ‘USER CENTERED’, ALLA PROGETTAZIONE FINALIZZATA ALL’USABILITÀ E ALL’INTERACTION DESIGN. GLI STUDENTI APPRENDERANNO L’USO DI METODOLOGIE E TECNICHE DI INDAGINE ETNOGRAFICA VOLTE ALL’INDIVIDUAZIONE DEI REQUISITI UTENTE, CONOSCERANNO I VANTAGGI DI UN APPROCCIO ITERATIVO AL DESIGN INCENTRATO SULL’UTENTE E IMPARERANNO TECNICHE DI INGEGNERIA DELL’USABILITÀ, UTILI SIA IN FASE DI DESIGN CHE IN FASE DI VALUTAZIONE E DI TESTING. CAPACITÀ DI APPLICARE CONOSCENZA E COMPRENSIONE: DA UN PUNTO DI VISTA PRATICO, ALLA FINE DEL CORSO, GLI STUDENTI SARANNO IN GRADO DI SVILUPPARE SISTEMI SOFTWARE USER CENTERED, ANCHE ALL’INTERNO DI AMBIENTI COLLABORATIVI E DI SCEGLIERE TRA LE METODOLOGIE E I PARADIGMI DI INTERAZIONE APPRESI, QUELLI PIÙ ADATTI AL CONTESTO D’USO CUI UN DETERMINATO SISTEMA INFORMATIVO È DESTINATO, SIA QUESTO DI TIPO SINGOLO- O MULTI-UTENTE. SARANNO INOLTRE IN GRADO DI APPLICARE TECNICHE DI EMPIRICAL USABILITY ENGINEERING PER LA VALUTAZIONE SPERIMENTALE DEI PROTOTIPI SVILUPPATI. AUTONOMIA DI GIUDIZIO: GLI STUDENTI SARANNO GUIDATI AD APPRENDERE IN MANIERA CRITICA E RESPONSABILE TUTTO CIÒ CHE VIENE SPIEGATO LORO IN CLASSE E AD ARRICCHIRE LE PROPRIE CAPACITÀ DI GIUDIZIO ATTRAVERSO LO STUDIO DEL MATERIALE DIDATTICO INDICATO DAL DOCENTE. L’AUTONOMIA DI GIUDIZIO SI CONCRETIZZERÀ INOLTRE ATTRAVERSO IL LAVORO DI GRUPPO E IL CONFRONTO CON GLI ALTRI MEMBRI DEL TEAM DI PROGETTO. ABILITÀ COMUNICATIVE: LA SPERIMENTAZIONE IN TEAM DEL PROCESSO DI PROGETTAZIONE USER CENTERED SU UN CASO DI STUDIO CONCRETO, MIGLIORERÀ LE CAPACITÀ COLLABORATIVE DI DESIGN E PROBLEM SOLVING DEL SINGOLO STUDENTE. LE ABILITÀ COMUNICATIVE SI CONCRETIZZERANNO INFATTI ATTRAVERSO L’ACQUISIZIONE E LA PADRONANZA DI MECCANISMI CHE CARATTERIZZANO LA COMUNICAZIONE NELL’AMBITO DI PROGETTI DI GRUPPO, COME LA CONDIVISIONE DI MODELLI E DOCUMENTI SOFTWARE CON GLI ALTRI MEMBRI DEL TEAM DI PROGETTO, LE ATTIVITÀ DI BRAINSTORMING CONDOTTE PER DELINEARE LE IDEE DI PROGETTO, LA CONDUZIONE DI MEETING PERIODICI PER REVISIONI DI PROGETTO E L’ORGANIZZAZIONE DI STRATEGIE IBRIDE DI TESTING E DI VALUTAZIONE DELL’USABILITÀ, CHE PREVEDONO UN’OPPORTUNA RIPARTIZIONE DEI RUOLI E L’UTILIZZO DI ADEGUATI STRUMENTI DI COMUNICAZIONE SINCRONA E ASINCRONA. IL CARATTERE USER CENTERED DEL PROCESSO DI SVILUPPO FAVORIRÀ INOLTRE L’ACQUISIZIONE DI ABILITÀ COMUNICATIVE ANCHE NEI CONFRONTI DI TUTTI GLI STAKEHOLDER INDIVIDUATI DURANTE L’INDAGINE ETNOGRAFICA E IN PARTICOLARE DEGLI UTENTI FINALI DEL SISTEMA, IL CUI FEEDBACK SARÀ INDISPENSABILE DURANTE LE DIVERSE FASI DI DESIGN, SVILUPPO E TESTING, SEGUENDO I PRINCIPI DEL ‘PARTICIPATORY DESIGN’. CAPACITÀ DI APPRENDIMENTO: IL CARATTERE ITERATIVO DELLE METODOLOGIE DI ANALISI, DESIGN E VALUTAZIONE CHE GLI STUDENTI SPERIMENTERANNO DURANTE IL CORSO, BEN SI PRESTA AD ACCRESCERE LE LORO CAPACITÀ DI APPRENDIMENTO, SOPRATTUTTO SULLA BASE DELLE REVISIONI, DELLE MODIFICHE O DEGLI AFFINAMENTI, CHE SI RENDERANNO NECESSARI DURANTE IL PROCESSO DI PROTOTIPAZIONE EVOLUTIVA.
-Partizionamento
-Nessun partizionamento
-Metodi didattici
-LE LEZIONI SI SVOLGERANNO CON L’AUSILIO DI PRESENTAZIONI MULTIMEDIALI. TUTTI GLI ARGOMENTI VERRANNO ACCOMPAGNATI DA ESERCITAZIONI PRATICHE SU CASI DI STUDIO SIGNIFICATIVI. AGLI STUDENTI VERRÀ ASSEGNATO UN PROGETTO DI SVILUPPO DI UN SISTEMA INTERATTIVO DI GRUPPO (2-4 PERSONE) TRAMITE IL QUALE LO STUDENTE POTRÀ APPROFONDIRE GLI ASPETTI PRATICI E SIMULARE DINAMICHE DI GRUPPO CHE AVVENGONO NEL MONDO DEL LAVORO.
+*Objectives:*
 
-## Materiale di insegnamento 
-Presentazioni Powerpoint, esercitazioni e documentazione di interesse verranno fornite tramite piattaforma di e-learning.
+Students will acquire advanced concepts related to the phases of usability engineering process, from user requirements specification to design, development and testing.
 
-## Esame finale 
-Progetto di gruppo;Esame orale
+*Knowledge and Understanding:*
 
-## Strumenti di sviluppo 
-Mockup tools;Linguaggi di scripting
+The students will learn advanced concepts of the process of design and development of user-centered software systems. In particular, learning the use of methods and techniques of ethnographic survey aiming at the identification of user requirements, they will understand the advantages of an iterative approach to user-centered design and usability engineering and will learn techniques, useful both in the design phase that in the process of evaluation and testing.
+
+*Ability to apply knowledge and understanding:*
+
+From a practical point of view, at the end of the course, students will be able to develop user centered software systems, even within the most advanced interaction scenarios, such as those related to Human-Robot Interaction and social robotics. Students will be able to choose among the methodologies and interaction paradigms learned, those most suited to the context of use for which a particular system is intended. They will also be able to apply empirical usability engineering techniques for the experimental evaluation of the developed prototypes.
+
+*Prerequisites:*
+
+No special technical skills are required. Knowledge about web sites development and multimedia applications can be useful.
+
+*Contents:*
+
+This course introduces the concepts and techniques of well-bedded Human-Machine Interaction, illustrating their adoption in the various phases of user-centered development. The first part of the course is focused on the analysis and requirements gathering, the second part is devoted to design methods of interactive systems, and the third is dedicated to usability evaluation.
+- Benefits of 'user-centered' development of a software system and the fundamentals of usability engineering
+- Ethnographic studies and contextual inquiries as tools for understanding the context of use and the collection of user requirements
+- Scenario-based approach to the design of iterative user-centered systems
+- User-centered technologies to support the principle of universal design
+- Development of user-centered multimodal and multi-user systems in the domains of ubiquitous computing and collaboration through artifacts. Issues of usability engineering specifications for those systems
+- Empirical methods of usability evaluation
+- Usability engineering in practice: the role of usability specialists in the development team; standards of user interfaces; ethical issues that affect usability
+- Guidelines for user interface design for iot devices
+- The challenges on the design of human-robot interaction applications - notes
+
+*Teaching Methods:*
+
+Lessons will take place with the help of multimedia presentations. All subjects will be accompanied by practical exercises and significant case studies.
+Students will carry on a group project (each team composed of 2-4 students) aimed at usability engineering an interactive system.
+This will allow each student to exoerience simulated group dynamjcs characterizing a real work environment.
+
+Students are encouraged to attend classes regularly, although this is not strictly required to take the final exam.
+
+
+## Teaching Materials 
+- Slides
+- MARY BETH ROSSON & JOHN M. CARROLL. “USABILITY ENGINEERING- SCENARIO-BASED DEVELOPMENT OF HUMAN-COMPUTER INTERACTION”, MORGAN KAUFMANN PUBLISHERS
+- DEBORAH J. MAYHEW, THE USABILITY ENGINEERING LIFECYCLE: A PRACTITIONER'S HANDBOOK FOR USER INTERFACE DESIGN, MORGAN KAUFMANN PUBLISHERS 
+
+## Verification of learning
+1) Periodic homework assignments intended to monitor the learning progress
+2) Individual report writing: study of a case study of usability engineering to assess student's critical thinking and communication skills
+3) Group project presentation and documentation to assess the practical skills acquired
+4) Report on the usability evaluation activities of an interactive system prototype realized by others (group work).
+
+The individual test will weigh 40% of the final vote and the work carried out in groups (points 3 and 4) will weigh 60%.
+
+For those who take the exam test without following the course will have to
+
+1) Deliver an individual written report on: analysis of a usability engineering case study proposed by the teacher to verify the acquired capacities of critical reasoning and communication
+2) Create and discuss an individual project to assure the acquired practical capabilities. The evaluation criteria will also concern the completeness and correctness of the project documentation
+3) Take an oral test on all the topics covered
+
+The three parts will have equal weight in the final vote.

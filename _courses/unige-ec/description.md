@@ -7,6 +7,7 @@ title: Ergonomia cognitiva
 institution: University of Genoa
 institution-website: https://corsi.unige.it/9913 
 department: Department of education science
+department-type: humanistic
 venue: Savona
 degree: Digital Humanities
 level: Master's Degree

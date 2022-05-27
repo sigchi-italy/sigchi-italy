@@ -7,9 +7,10 @@ title: Human-Computer Interaction for Cybersecurity
 institution: Università degli Studi di Bari Aldo Moro
 institution-website: https://www.uniba.it/ricerca/dipartimenti/informatica/didattica/corsi-di-laurea/computer-science/computer-science 
 department: Dipartimento di Informatica
+department-type: scientific
 venue: Bari
 degree: Computer Science
-level: Dottorato di ricerca
+level: PhD
 course-name: Human-Computer Interaction for Cybersecurity
 course-year: 1
 course-language: Inglese

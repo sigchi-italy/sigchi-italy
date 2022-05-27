@@ -6,9 +6,10 @@ map-pin: 43.3192189,11.3317156
 title: Experience Design
 institution: Università di Siena
 department: Dipartimento di Scienze Sociali, Politiche e Cognitive
+department-type: humanistic
 venue: Siena
 degree: Strategie e tecniche della comunicazione
-level: Laurea Magistrale
+level: Master's Degree
 course-name: Experience Design
 course-year: 2
 course-language: Italiano

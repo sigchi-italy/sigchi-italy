@@ -6,9 +6,10 @@ map-pin: 45.0733572,7.6980021
 title: Laboratorio Design of Interactive systems
 institution: Università degli Studi di Torino
 department: Culture, Politica e Società
+department-type: humanistic
 venue: Campus Luigi Einaudi
 degree: Comunicazione, ICT e Media
-level: Laurea Magistrale
+level: Master's Degree
 course-name: Laboratorio Design of Interactive systems
 course-year: 1
 course-language: Italiano

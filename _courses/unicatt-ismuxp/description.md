@@ -4,6 +4,7 @@ active: no
 title: International Specializing Master in User Experience Psychology
 institution: Università Cattolica del Sacro Cuore e POLIDesign - Politecnico di Milano
 department: Faculty of Psychology and Faculty of Design
+department-type: humanistic
 venue: 
 degree: Specializing Master
 level: Post Laurea
@@ -13,7 +14,7 @@ course-language: Inglese
 course-type: In presenza;Da remoto
 course-website: https://offertaformativa.unicatt.it/master-lista-master-user-experience-psychology
 course-participants: 25
-course-optional: T
+course-optional: Yes
 cfu: 60
 hours: 1500
 hours-lectures: 400

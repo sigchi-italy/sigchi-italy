@@ -7,9 +7,10 @@ title: Interazione ed usabilità dei sistemi digitali
 institution: Università della Tuscia
 institution-website: https://www.unitus.it/it/dipartimento/lm91 
 department: Department of Humanities, Communication and Tourism (DISUCOM)
+department-type: humanistic
 venue: Viterbo
 degree: LM91-Informazione digitale
-level: Laurea Magistrale
+level: Master's Degree
 course-name: Interazione ed usabilità dei sistemi digitali
 course-year: 1
 course-language: Italiano

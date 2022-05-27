@@ -6,9 +6,10 @@ content-language: it
 map-pin: 45.5174459,9.2127166
 institution: Università di Milano Bicocca
 department: Informatica, Sistemistica e Comunicazione (DISCO)
+department-type: scientific
 venue: Milano
 degree: Informatica
-level: Laurea Triennale
+level: Bachelor's Degree
 course-name: Interazione Uomo Macchina
 course-year: 3
 course-language: Italiano

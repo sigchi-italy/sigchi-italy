@@ -4,9 +4,10 @@ active: no
 title: Interazione Uomo Macchina
 institution: Università Ca' Foscari Venezia
 department: DAIS
+department-type: scientific
 venue: 
 degree: Informatica
-level: Laurea Triennale
+level: Bachelor's Degree
 course-name: Interazione Uomo Macchina
 course-year: 2
 course-language: Italiano

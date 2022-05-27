@@ -6,9 +6,10 @@ map-pin: 39.2224156,9.1118547
 title: Interazione Uomo Macchina
 institution: Università di Cagliari
 department: Matematica e Informatica
+department-type: scientific
 venue: 
 degree: Informatica
-level: Laurea Triennale
+level: Bachelor's Degree
 course-name: Interazione Uomo Macchina
 course-year: 3
 course-language: Italiano

@@ -7,9 +7,10 @@ title: Visualizzazione dei dati, Visual Analytics e Reporting
 institution: Universita degli Studi di Bari Aldo Moro
 institution-website:  
 department: Informatica
+department-type: scientific
 venue: Bari
 degree: Data Science
-level: Laurea Magistrale
+level: Master's Degree
 course-name: Visualizzazione dei dati, Visual Analytics e Reporting
 course-year: 2
 course-language: Italiano

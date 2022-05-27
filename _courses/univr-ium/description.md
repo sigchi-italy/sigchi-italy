@@ -2,13 +2,15 @@
 layout: course
 survey: 2017
 content-language: it
+active: no
 map-pin: 45.4038616,10.9979763
 title: Interazione Uomo Macchina
 institution: Verona
 department: Informatica
+department-type: scientific
 venue: Verona
 degree: Ingegneria e Scienze Informatiche
-level: Laurea Magistrale
+level: Master's Degree
 course-name: Interazione Uomo Macchina
 course-year: 2
 course-language: Italiano

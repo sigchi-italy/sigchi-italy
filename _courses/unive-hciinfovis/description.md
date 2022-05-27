@@ -6,16 +6,17 @@ map-pin: 45.4565926,12.2557321
 title: Human Computer Interaction and Information Visualization
 institution: Università Ca' Foscari Venezia
 department: DAIS
+department-type: scientific
 venue: 
 degree: Computer Science
-level: Laurea Magistrale
+level: Master's Degree
 course-name: Human Computer Interaction and Information Visualization
 course-year: 2
 course-language: Inglese
 course-type: In presenza
 course-website: http://www.dais.unive.it/~pitt/
 course-participants: 20
-course-optional: T
+course-optional: Yes
 cfu: 6
 hours: 48
 hours-lectures: 24

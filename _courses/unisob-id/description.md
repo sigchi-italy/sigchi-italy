@@ -7,6 +7,7 @@ title: Interaction Design
 institution: University of Suor Orsola Benincasa
 institution-website: https://www.unisob.na.it/universita/facolta/formazione/comunicazione/manifesto.htm?vr=1 
 department: Scienze formative, psicologiche e della comunicazione
+department-type: humanistic
 venue: Naples
 degree: Business and Public Communication
 level: Master's Degree

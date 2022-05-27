@@ -6,16 +6,17 @@ map-pin: 41.9141253,12.4959546
 title: Interazione Uomo Macchina
 institution: Sapienza Università di Roma
 department: Dipartimento di Informatica
+department-type: scientific
 venue: 
 degree: Informatica
-level: Laurea Triennale
+level: Bachelor's Degree
 course-name: Interazione Uomo Macchina
 course-year: 3
 course-language: Italiano
 course-type: In presenza
 course-website: http://iumpanizzi.wordpress.com
 course-participants: 80
-course-optional: T
+course-optional: Yes
 cfu: 6
 hours: 48
 hours-lectures: 24

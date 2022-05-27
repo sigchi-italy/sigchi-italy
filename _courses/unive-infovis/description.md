@@ -7,6 +7,7 @@ title: INFORMATION VISUALIZATION, DATA SCIENCE AND SOCIAL MEDIA ANALYTICS
 institution: Ca' Foscari University of Venice
 institution-website: https://www.unive.it/data/insegnamento/338874 
 department: Department of Humanities
+department-type: humanistic
 venue: Venice
 degree: Digital and Public Humanities
 level: Master's Degree

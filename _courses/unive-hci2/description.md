@@ -7,6 +7,7 @@ title: Human Computer Interaction and Information Visualization
 institution: Università Ca' Foscari Venezia
 institution-website: unive.it/degree/cm9 
 department: DAIS
+department-type: scientific
 venue: Venezia
 degree: Computer Science
 level: Master's Degree

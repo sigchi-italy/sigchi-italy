@@ -1,15 +1,16 @@
 ---
 layout: course
 title: Human Computer Interaction
-active: no
 survey: 2017
+active: no
 content-language: it
 map-pin: 45.0643209,7.6586337
 institution: Politecnico di Torino
 department: Dipartimento di Automatica e Informatica
+department-type: scientific
 venue: 
 degree: Ingegneria Informatica
-level: Laurea Magistrale
+level: Master's Degree
 course-name: Human Computer Interaction
 course-year: 2
 course-language: Inglese

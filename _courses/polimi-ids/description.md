@@ -5,10 +5,11 @@ survey: 2017
 content-language: it
 map-pin: 45.4787318,9.2312836
 institution: Politecnico di Milano
-department: Dipartimento di Elettronica, Informazione e Bioingegneria e Dipartimento di Design
+department: Dipartimento di Design
+department-type: humanistic
 venue: 
 degree: Design della Comunicazione
-level: Laurea Magistrale
+level: Master's Degree
 course-name: Interaction Design Studio
 course-year: 1
 course-language: Inglese

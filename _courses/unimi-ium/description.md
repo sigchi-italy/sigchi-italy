@@ -7,9 +7,10 @@ title: Interazione Uomo-Macchina
 institution: Università degli Studi di Milano
 institution-website: https://www.unimi.it/it/corsi/insegnamenti-dei-corsi-di-laurea/2022/interazione-uomo-macchina 
 department: Dipartimento di Informatica "Giovanni Degli Antoni"
+department-type: scientific
 venue: via Celoria 18, Milano
 degree: Informatica per la comunicazione digitale
-level: Laurea Triennale
+level: Bachelor's Degree
 course-name: Interazione Uomo-Macchina
 course-year: 1
 course-language: Italiano

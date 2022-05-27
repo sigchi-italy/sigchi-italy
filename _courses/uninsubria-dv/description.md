@@ -7,9 +7,10 @@ title: Data Visualization
 institution: Università degli Studi dell'Insubria
 institution-website:  
 department: Dipartimento di Scienze Teoriche e Applicate
+department-type: scientific
 venue: Varese
 degree: Informatica
-level: Laurea Magistrale
+level: Master's Degree
 course-name: Data Visualization
 course-year: 1
 course-language: Italiano

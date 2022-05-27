@@ -7,6 +7,7 @@ title: Human-Machine Interaction
 institution: Polytechnic University of Bari
 institution-website: https://poliba.esse3.cineca.it/Guide/PaginaCorso.do;jsessionid=A4BB6F0EB490EB8ECC7321BE15F08EF9.esse3-poliba-prod-02?cod_lingua=eng&corso_id=10021 
 department: Department of Electrical and Information Engineering
+department-type: scientific
 venue: Bari
 degree: Computer Science Engineering
 level: Master's Degree

@@ -7,6 +7,7 @@ title: Design Epistemology and Ethics
 institution: University of Trento
 institution-website: https://offertaformativa.unitn.it/en/lm/human-computer-interaction 
 department: Department of Psychology and Cognitive Science
+department-type: humanistic
 venue: Rovereto
 degree: Human-Computer Interaction
 level: Master's Degree
