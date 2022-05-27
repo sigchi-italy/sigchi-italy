@@ -7,7 +7,7 @@ title: Interazione Persona Macchina con elementi di comunicazione multimodale
 institution: Istituto Pavoniano Artigianelli per le Arti Grafiche
 institution-website: https://www.tag.tn.it/ 
 department: TAG - Artigianelli
-department-type: humanistic
+department-type: scientific
 venue: Trento
 degree: Trentino Alta Formazione Grafica
 level: Bachelor's Degree
