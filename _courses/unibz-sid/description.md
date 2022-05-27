@@ -6,7 +6,7 @@ title: Social interaction Design
 institution: Free university of Bozen-Bolzano
 institution-website: https://www.unibz.it/en/faculties/design-art/master-eco-social-design/ 
 department: Faculty of Design and Art
-department-type: humanistic
+department-type: scientific
 venue: Bolzano
 degree: Master in Ec o-Social Design
 level: Master's Degree
