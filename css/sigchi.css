@@ -47,7 +47,7 @@ main {
 }
 
 .slide-text h2 {
-    font-size: 2em;
+    font-size: 1.8em;
 }
 .slide-text{
     text-align: center;
@@ -58,7 +58,7 @@ main {
     top: 50%;
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
-    font-size: 1.5em;
+    font-size: 1.3em;
 }
 
 .slide-media{
@@ -70,11 +70,11 @@ main {
     top: 50%;
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
-    font-size: 1.5em;
+    font-size: 1.3em;
 }
 
 .slide-media h2 {
-    font-size: 2em;
+    font-size: 1.8em;
 }
 
 .squared{
@@ -84,7 +84,7 @@ main {
 }
 
 .topics{
-    max-width: 600px;
+    max-width: 550px;
     max-height: 550px;
     margin: 0 auto;
 }

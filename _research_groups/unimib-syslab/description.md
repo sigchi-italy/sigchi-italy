@@ -2,7 +2,6 @@
 layout: research
 title: SYSLAB
 group-name: SYSLAB
-active: no
 institution: Università degli Studi di Milano-Bicocca
 department: 
 address: 
@@ -11,7 +10,9 @@ address:
   city: 
   state: 
   zip: 
+  pin: 45.51818806505517, 9.213740828914714
 website: http://www.syslab.disco.unimib.it/
+field: CS
 members: 
  - member: 
     name: Federico

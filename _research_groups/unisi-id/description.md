@@ -13,6 +13,7 @@ address:
   zip: 53100
   pin: 43.31487562917533, 11.339493798669249
 website: https://www.dispoc.unisi.it/it/ricerca/coworking-lab/laboratorio-di-interaction-design-mindlab
+field: Psy
 members: 
  - member:
     name: Antonio

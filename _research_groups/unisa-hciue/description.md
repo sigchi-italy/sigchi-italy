@@ -12,6 +12,7 @@ address:
   zip: 84084
   pin: 40.775219246559146, 14.78960245124224
 website: https://www.di.unisa.it/en/department/structures?id=143
+field: CS
 members: 
  - member: 
     name: Giuliana

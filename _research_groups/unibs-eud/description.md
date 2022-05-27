@@ -1,7 +1,6 @@
 ---
 layout: research
 title: EUD
-active: no
 group-name: EUD
 institution: Università degli Studi di Brescia
 department: 
@@ -10,8 +9,10 @@ address:
   street-number: 
   city: 
   state: 
-  zip: 
-website: 
+  zip:
+  pin: 45.53801733596075, 10.217307727416403
+website:
+field: CS
 members: 
  - member: 
     name: Daniela

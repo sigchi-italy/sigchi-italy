@@ -24,42 +24,42 @@ hours-lectures: 48
 hours-lab: 
 teacher: Stefano Valtolina
 topics: 
-  Accessibility: no
+  Accessibility: yes
   Activity_design: no
-  Cognitive_Aspects: no
-  Cognitive_walkthrough: no
+  Cognitive_Aspects: yes
+  Cognitive_walkthrough: yes
   Ergonomics: no
-  Evaluation_metrics: no
-  HCI_Design_Patterns: no
-  HCI_history: no
+  Evaluation_metrics: yes
+  HCI_Design_Patterns: yes
+  HCI_history: yes
   Human-AI_Interaction: no
   Information_Design: yes
   Information_Visualization: no
   Interaction_Design: yes
   Interaction_models_and_frameworks: no
-  Interaction_paradigms: no
-  Interaction_styles: no
-  Interviews_and_Surveys: no
+  Interaction_paradigms: yes
+  Interaction_styles: yes
+  Interviews_and_Surveys: yes
   Knowledge_Visualization: no
   Multimodal_Interfaces: no
   Personas: yes
   Prototyping: no
-  Requirement_Analysis: no
-  Software_lifecycle: no
+  Requirement_Analysis: yes
+  Software_lifecycle: yes
   Usability_Engineering: yes
-  Usability_Evaluation: no
+  Usability_Evaluation: yes
   Usability_principles: no
   User-centered_design: yes
   User_Interfaces_for_the_Internet_of_Things: no
-  User_Testing: no
+  User_Testing: yes
   Virtual_and_Augmented_Reality: no
 learning-verification: 
   Homework: no 
-  Group-project: no 
-  Multiple-choice-questions: no 
+  Group-project: yes 
+  Multiple-choice-questions: yes 
   Individual-project: no 
-  Oral-examination: no 
-  Open-ended-questions: no 
+  Oral-examination: yes 
+  Open-ended-questions: yes 
 ---
 
 

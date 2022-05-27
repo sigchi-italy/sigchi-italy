@@ -13,6 +13,7 @@ address:
   zip: 38068
   pin: 45.89388339105607, 11.043499769879563
 website: http://itecs.dipsco.unitn.it/
+field: Psy
 members: 
  - member: 
     name: Remo
@@ -39,9 +40,9 @@ members:
     url: null
     email: 
 keywords: 
- - keyword: human-centred AI
+ - keyword: human-centered AI
  - keyword: ethical aspects of design
- - keyword: end-user programming
+ - keyword: end-user development
  - keyword: 
  - keyword: 
  - keyword: 

@@ -1,7 +1,6 @@
 ---
 layout: research
 title: IST
-active: no
 group-name: IST
 institution: Universita' di Torino
 department: 
@@ -11,7 +10,9 @@ address:
   city: 
   state: 
   zip: 
+  pin: 45.090729109760744, 7.659178453937818
 website: http://beta.di.unito.it/index.php/italiano/ricerca/gruppi/intelligent-semantic-technologies/presentazione
+field: CS
 members: 
  - member: 
     name: Liliana

@@ -13,6 +13,7 @@ address:
   zip: 38123
   pin: 46.06821760914231, 11.15147985639146
 website: https://www.fbk.eu/en/digital-healthwellbeing/
+field: CS
 members: 
  - member: 
     name: Silvia

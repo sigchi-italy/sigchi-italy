@@ -13,6 +13,7 @@ address:
   zip: 20133
   pin: 45.47614644445038, 9.231974920867152
 website: https://mips.di.unimi.it/
+field: CS
 members: 
  - member: 
     name: Alessandro
@@ -33,7 +34,7 @@ members:
     url: null
     email: 
 keywords: 
- - keyword: Human-Computer Interaction (HCI)
+ - keyword: Human-Computer Interaction
  - keyword: End-User Development
  - keyword: Creative Design
  - keyword: 

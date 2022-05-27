@@ -1,7 +1,6 @@
 ---
 layout: research
 title: HCI-UP
-active: no
 group-name: HCI-UP
 institution: University of Bologna
 department: 
@@ -10,8 +9,10 @@ address:
   street-number: 
   city: 
   state: 
-  zip: 
-website: 
+  zip:
+  pin: 44.4964384053568, 11.354135540888835
+website:
+field: CS
 members: 
  - member: 
     name: Catia

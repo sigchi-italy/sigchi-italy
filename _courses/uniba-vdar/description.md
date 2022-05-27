@@ -53,12 +53,13 @@ topics:
   User_Interfaces_for_the_Internet_of_Things: no
   User_Testing: no
   Virtual_and_Augmented_Reality: no
+  Other: Perception
 learning-verification: 
   Homework: yes 
   Group-project: no 
   Multiple-choice-questions: no 
-  Individual-project: no 
-  Oral-examination: no 
+  Individual-project: yes 
+  Oral-examination: yes 
   Open-ended-questions: no 
 ---
 

@@ -8,42 +8,14 @@ permalink: /research-summary/
     var addressPoints = [
 
     {% for group in site.research_groups %}
-        {% if group.address.pin  and group.active != "no" %}
-            [{{group.address.pin}}, "{{group.institution | replace: '"', "" }}<br> <a href=\"{{site.baseurl}}{{ group.website }}\">{{ group.group-name }}</a>"],{% endif%}
+        {% if group.address.pin  and group.active != "false" %}
+            [{{group.address.pin}}, "{{group.institution | replace: '"', "" }}<br> <a href=\"{{site.baseurl}}{{ group.url }}\" target=\"_blank\">{{ group.group-name }}</a>"],{% endif%}
     {% endfor %}
     ];
 
-    var topics = {
-        "Accessibility" : 0,
-        "Activity_design": 0,
-        "Cognitive_Aspects": 0,
-        "Cognitive_walkthrough": 0,
-        "Ergonomics": 0,
-        "Evaluation_metrics": 0,
-        "HCI_Design_Patterns": 0,
-        "HCI_history": 0,
-        "Human-AI_Interaction": 0,
-        "Information_Design": 0,
-        "Information_Visualization": 0,
-        "Interaction_Design": 0,
-        "Interaction_models_and_frameworks": 0,
-        "Interaction_paradigms": 0,
-        "Interaction_styles": 0,
-        "Interviews_and_Surveys": 0,
-        "Knowledge_Visualization": 0,
-        "Multimodal_Interfaces": 0,
-        "Personas": 0,
-        "Prototyping": 0,
-        "Requirement_Analysis": 0,
-        "Software_lifecycle": 0,
-        "Usability_Engineering": 0,
-        "Usability_Evaluation": 0,
-        "Usability_principles": 0,
-        "User-centered_design": 0,
-        "User_Interfaces_for_the_Internet_of_Things": 0,
-        "User_Testing": 0,
-        "Virtual_and_Augmented_Reality": 0
-    }
+    var keywords = [];
+    var members = [0,0,0,0,0,0,0,0,0,0,0]
+    var depts = [0, 0];
 
     {% assign count=0 %}
     {% assign bachelor=0 %}
@@ -51,28 +23,25 @@ permalink: /research-summary/
     {% assign phd = 0 %}
 
     {% for group in site.research_groups %}
-        {% if group.address.pin  and group.active != "no" %}
-            console.log("{{count}} {{course.institution | replace: '"', "" }} {{course.title}} {{course.level}}");
+        console.log("{{count}} {{group.group-name }} {{group.active}}");
+        {% if group.address.pin  and group.active != "false" %}
             {% assign count = count | plus:1 %}
-            {% if  course.level == "Laurea Triennale"  or course.level == "Bachelor's Degree"%}
-                {% assign bachelor = bachelor | plus:1 %}
-            {% endif%}
-            {% if  course.level == "Laurea Magistrale"  or course.level == "Master's Degree"%}
-                {% assign master = master | plus:1 %}
-            {% endif%}
-            {% if  course.level == "Dottorato di ricerca"  or course.level == "PhD"%}
-                {% assign phd = phd | plus:1 %}
-            {% endif%}
-            {%for topic in course.topics%}
-                if ("{{topic}}".endsWith("true")) ++topics["{{topic}}".replace("true", "")]
+            {% for k in group.keywords %}
+                {% assign word = k | map: "keyword"  | first | downcase %}
+                keywords["{{word}}"] = keywords["{{word}}"] ? keywords["{{word}}"] + 1 : 1;
             {% endfor %}
+            {% assign m = group.members | size %}
+             members[{{m}}] = members[{{m}}] + 1;
+            {% if group.field == "CS" %}
+                depts[0] = depts[0] + 1;
+            {% endif%}
+            {% if group.field == "Psy" %}
+                depts[1] = depts[1] + 1;
+            {% endif%}
         {% endif%}
     {% endfor %}
 
     console.log("count {{count}}");
-    console.log("Bachelor {{bachelor}}");
-    console.log("Master {{master}}");
-    console.log("PhD {{phd}}");
 </script>
 
 <div id="fullpage">
@@ -89,8 +58,8 @@ permalink: /research-summary/
     <div class="section">
         <div class="slide-media">
             <h2>HCI Research Labs in Italy</h2>
-            <p>We have a total of {{count}} HCI research labs. Below you can see where they are located.</p>
-            <div id="map" style="height:70vh"></div>
+            <p>We received a total of {{count}} HCI research labs descriptions. Below you can see where they are located.</p>
+            <div id="map" style="height:65vh"></div>
             <script type="text/javascript">
 
                 var tiles = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -123,34 +92,34 @@ permalink: /research-summary/
     <div class="section">
 
         <div class="slide-text">
-            <h2>Course Level Distribution</h2>
-            <p> {{bachelor | times: 1.0 | divided_by: count |times: 100 | round: 2}}% of the courses are at the Bachelor's Degree level,
-                {{master | times: 1.0 | divided_by: count |times: 100 | round: 2}}% at Master's Degree
-                {{phd | times: 1.0 | divided_by: count |times: 100 | round: 2}}% at PhD.</p>
-       <div class="squared">
-            <canvas id="pieChart" width="200" height="200"></canvas>
-            <script>
-                const ctx = document.getElementById('pieChart').getContext('2d');
-                const myChart = new Chart(ctx, {
-                    type: 'pie',
+            <h2>Hosting Departments</h2>
+            <p><script>document.write("" + (depts[0]/(depts[0] + depts[1]) * 100).toFixed(0))</script>%
+            of the labs are hosted in  Computer Science or Engineering Departments.
+            <br><script>document.write("" + (depts[1]/(depts[0] + depts[1]) * 100).toFixed(0))</script>%
+                are instead hosted in Psychology or Cognitive Science Departments.</p>
+            <div class="squared">
+                <canvas id="pieChart" width="200" height="200"></canvas>
+                <script>
+                    const ctx = document.getElementById('pieChart').getContext('2d');
+                    const myChart = new Chart(ctx, {
+                        type: 'pie',
 
-                    data: {
-                        labels: ["Bachelor", "Master", "PhD"],
-                        datasets: [{
-                            data: [{{bachelor}}, {{master}}, {{phd}}],
-                            backgroundColor: [
-                                'rgba(255, 99, 132, 0.8)',
-                                'rgba(54, 162, 235, 0.8)',
-                                'rgba(255, 206, 86, 0.8)',
-                            ],
-                            borderWidth: 2
-                        }]
+                        data: {
+                            labels: ["Computer Science", "Cognitive Sciences"],
+                            datasets: [{
+                                data: [...depts],
+                    backgroundColor: [
+                        'rgba(54, 162, 235, 0.8)',
+                        'rgba(255, 99, 132, 0.8)',
+                    ],
+                        borderWidth: 2
+                    }]
                     },
                     options: {
-                            plugins: {
+                        plugins: {
                             legend: {
                                 position: 'bottom',
-                                labels: {
+                                    labels: {
                                     // This more specific font property overrides the global property
                                     font: {
                                         size: 16
@@ -159,6 +128,71 @@ permalink: /research-summary/
                             }
                         }
                     }
+                    });
+                </script>
+            </div>
+        </div>
+    </div>
+    <div class="section">
+
+        <div class="slide-text">
+            <h2>Research Topics</h2>
+            <p>The word cloud represents the research keywords in our HCI labs.
+                <br>We included only keywords appearing in at least two lab descriptions.</p>
+        <div style="width: 100%; height: 55vh; border: 1px solid black">
+            <canvas id="wordCloud" ></canvas>
+            <script>
+                var words = [];
+                for(let k in keywords){
+                    if( k != '' && keywords[k] > 1)
+                        words.push({key: k, value: keywords[k]})
+                }
+
+                words.sort((a, b) => {return b.value - a.value})
+
+                const data = {
+                    labels: words.map((d) => d.key),
+                    datasets: [
+                        {
+                            label: '',
+                            data: words.map((d) => d.value * 8),
+                        },
+                    ],
+                };
+                const wordCtx = document.getElementById('wordCloud').getContext('2d');
+                new Chart(wordCtx, {
+                    type: 'wordCloud',
+                    data: data,
+                    responsive: true,
+                    options: {
+                        minRotation: 0,
+                        title: {
+                            display: false,
+                            text: 'Chart.js Word Cloud',
+                        },
+                        plugins: {
+                            legend: {
+                                display: false,
+                            },
+
+                            tooltip: {
+                                callbacks: {
+                                    label: function(context) {
+                                        let label = context.dataset.label || '';
+
+                                        if (label) {
+                                            label += ': ';
+                                        }
+                                        if (context.parsed.y !== null) {
+                                            label += context.parsed.y / 8;
+                                        }
+                                        return label;
+                                    }
+                                }
+                            }
+
+                        },
+                    },
                 });
             </script>
         </div>
@@ -166,47 +200,67 @@ permalink: /research-summary/
     </div>
     <div class="section">
         <div class="slide-text">
-            <h2>Course Topics</h2>
-            <div class="topics">
-                <canvas id="barChart" width="200" height="200"></canvas>
+            <h2>Number of Members</h2>
+            <p>The chart shows how many labs have a given number of members. </p>
+            <div class="squared">
+                <canvas id="histogram" width="200" height="200"></canvas>
                 <script>
-                    const barctx = document.getElementById('barChart').getContext('2d');
-                    var horizontalBarChartData = {
-                        labels: Object.keys(topics),
-                        datasets: [{
-                            label: 'Topics',
-                            backgroundColor: 'rgba(54, 162, 235, 0.5)',
-                            borderColor: 'rgba(54, 162, 235, 1)',
-                            borderWidth: 1,
-                            data: Object.values(topics)
-                        },]
-
-                    };
-                    const barChart = new Chart(barctx, {
+                    const hisctx = document.getElementById('histogram').getContext('2d');
+                    const hisChart = new Chart(hisctx, {
                         type: 'bar',
-                        data: horizontalBarChartData,
-
+                        data: {
+                            labels: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+                            datasets: [{
+                                label: '',
+                                data: [...members],
+                                backgroundColor: 'rgba(54, 162, 235, 0.8)',
+                            }]
+                        },
                         options: {
-                            // Elements options apply to all of the options unless overridden in a dataset
-                            // In this case, we are setting the border of each horizontal bar to be 2px wide
-                            indexAxis: 'y',
-                            elements: {
-                                rectangle: {
-                                    borderWidth: 2,
+                            responsive: true,
+                            scales: {
+                                y : {
+                                    title: {
+                                        display: true,
+                                        text: 'Number of Labs',
+                                    },
+                                    position: 'left',
+                                    ticks: {
+                                        display: true,
+                                        maxTicksLimit : Math.max.apply(Math, members) + 1
+                                    }
+                                },
+                                x: {
+                                    position: 'bottom',
+                                    title: {
+                                        display: true,
+                                        text: 'Number of Members',
+                                    },
                                 }
                             },
-                            responsive: true,
                             plugins: {
-                                legend :{
+                                legend: {
                                     display: false,
-                                }
-                            }
+                                },
 
-                        },
+                                tooltip: {
+                                    callbacks: {
+                                        label: function(context) {
+                                            let label = context.dataset.label || '';
+
+                                            if (context.parsed.y !== null && context.parsed.x !== null) {
+                                                label += context.parsed.y + " labs have " + context.parsed.x + " members"
+                                            }
+                                            return label;
+                                        }
+                                    }
+                                }
+
+                            },
+                        }
                     });
                 </script>
             </div>
         </div>
     </div>
-    <div class="section">Some section</div>
 </div>

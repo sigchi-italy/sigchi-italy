@@ -1,7 +1,6 @@
 ---
 layout: research
 title: SCFabLab
-active: no
 group-name: SCFabLab
 institution: University of Siena
 department: 
@@ -11,7 +10,9 @@ address:
   city: 
   state: 
   zip: 
+  pin: 43.31930215257797, 11.332801767896314
 website: http://scfablab.unisi.it
+field: Psy
 members: 
  - member: 
     name: Patrizia

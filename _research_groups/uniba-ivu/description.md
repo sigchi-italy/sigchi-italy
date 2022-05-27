@@ -13,6 +13,7 @@ address:
   zip: 70125
   pin: 41.10951723682328, 16.878975499900868
 website: http://ivu.di.uniba.it/
+field: CS
 members: 
  - member:
     name: Maria F.

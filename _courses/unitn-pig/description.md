@@ -43,7 +43,7 @@ topics:
   Knowledge_Visualization: no
   Multimodal_Interfaces: no
   Personas: yes
-  Prototyping: no
+  Prototyping: yes
   Requirement_Analysis: no
   Software_lifecycle: no
   Usability_Engineering: no
@@ -55,10 +55,10 @@ topics:
   Virtual_and_Augmented_Reality: no
 learning-verification: 
   Homework: no 
-  Group-project: no 
+  Group-project: yes 
   Multiple-choice-questions: no 
   Individual-project: no 
-  Oral-examination: no 
+  Oral-examination: yes 
   Open-ended-questions: no 
 ---
 

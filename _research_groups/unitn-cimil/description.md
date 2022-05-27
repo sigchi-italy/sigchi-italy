@@ -12,6 +12,7 @@ address:
   zip: 38123
   pin: 46.064821438648934, 11.150467685227603
 website: https://www.cimil.disi.unitn.it/
+field: CS
 members: 
  - member: 
     name: Luca

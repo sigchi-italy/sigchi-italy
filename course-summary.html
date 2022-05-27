@@ -45,6 +45,8 @@ permalink: /courses-summary/
         "Virtual_and_Augmented_Reality": 0
     }
 
+    var lessons = [0, 0, 0]
+
     {% assign count=0 %}
     {% assign bachelor=0 %}
     {% assign master=0 %}
@@ -66,6 +68,15 @@ permalink: /courses-summary/
             {%for topic in course.topics%}
                 if ("{{topic}}".endsWith("true")) ++topics["{{topic}}".replace("true", "")]
             {% endfor %}
+            {%if course.hours == course.hours-lectures and course.hours-lab == 0 %}
+                lessons[0] = lessons[0] + 1
+            {% endif %}
+            {%if course.hours == course.hours-lab and course.hours-lesson == 0  %}
+                lessons[1] = lessons[1] + 1
+            {% endif %}
+            {%if course.hours-lab != 0 and course.hours-lessons != 0 %}
+                lessons[2] = lessons[2] + 1
+            {% endif %}
         {% endif%}
     {% endfor %}
 
@@ -89,8 +100,8 @@ permalink: /courses-summary/
     <div class="section">
         <div class="slide-media">
             <h2>HCI courses in Italy</h2>
-            <p>The courses are distributed throughout the Country. Click on clusters or pins to get a link to the course details.</p>
-            <div id="map" style="height:70vh"></div>
+            <p>We have {{count}} courses distributed throughout the Country. Click on clusters or pins to get a link to the course details.</p>
+            <div id="map" style="height:65vh"></div>
             <script type="text/javascript">
 
                 var tiles = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -162,6 +173,53 @@ permalink: /courses-summary/
                 });
             </script>
         </div>
+        </div>
+    </div>
+    <div class="section">
+
+        <div class="slide-text">
+            <h2>Course Organization</h2>
+            <p><script>document.write("" + (lessons[0]/(lessons[0] + lessons[1] + lessons[2]) * 100).toFixed(0))</script>%
+                of the courses contain only lectures,
+                <script>document.write("" + (lessons[1]/(lessons[0] + lessons[1] + lessons[2]) * 100).toFixed(0))</script>%
+                contain only lab lessons, while
+                <script>document.write("" + (lessons[2]/(lessons[0] + lessons[1] + lessons[2])* 100).toFixed(0))</script>%
+                contain both of them.</p>
+            <div class="squared">
+                <canvas id="pieChart2" width="200" height="200"></canvas>
+                <script>
+                    const lessctx = document.getElementById('pieChart2').getContext('2d');
+                    const lessonChart = new Chart(lessctx, {
+                        type: 'pie',
+
+                        data: {
+                            labels: ["Lessons", "Lab", "Both"],
+                            datasets: [{
+                                data: [...lessons],
+                                backgroundColor: [
+                                    'rgba(54, 162, 235, 0.8)',
+                                    'rgba(255, 99, 132, 0.8)',
+                                    'rgba(255, 206, 86, 0.8)',
+                                ],
+                                borderWidth: 2
+                            }]
+                        },
+                        options: {
+                            plugins: {
+                                legend: {
+                                    position: 'bottom',
+                                    labels: {
+                                        // This more specific font property overrides the global property
+                                        font: {
+                                            size: 16
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    });
+                </script>
+            </div>
         </div>
     </div>
     <div class="section">

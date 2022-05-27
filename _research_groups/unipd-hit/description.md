@@ -12,6 +12,7 @@ address:
   zip: 35121
   pin: 45.40871081454679, 11.886910685215438
 website: http://hit.psy.unipd.it/
+field: Psy
 members: 
  - member: 
     name: Luciano

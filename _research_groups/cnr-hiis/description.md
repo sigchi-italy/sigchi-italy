@@ -12,6 +12,7 @@ address:
   zip: 56124
   pin: 43.719457623081695, 10.423924314021182
 website: https://giove.isti.cnr.it/lab/
+field: CS
 members: 
  - member: 
     name: Fabio
@@ -20,7 +21,8 @@ members:
     url: http://hiis.isti.cnr.it/Users/Fabio/index.html
     email: fabio.paterno@isti.cnr.it
 keywords: 
- - keyword: Assistive Technologies and Accessibility
+ - keyword: Assistive Technologies
+ - keyword: Accessibility
  - keyword: Context-dependent IoT Applications
  - keyword: Emotion-based User Interfaces
  - keyword: End-User Development

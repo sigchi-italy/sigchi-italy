@@ -1,7 +1,6 @@
 ---
 layout: research
-survey: 2022 
-active: no
+survey: 2022
 title: Intelligent Interfaces and Interaction (i3) research unit
 group-name: Intelligent Interfaces and Interaction (i3) research unit
 institution: Fondazione Bruno Kessler (FBK)
@@ -14,6 +13,7 @@ address:
   zip: 38123
   pin: 46.06821760914231, 11.15147985639146
 website: https://i3.fbk.eu/
+field: Psy
 members: 
  - member:
     name: Gianluca

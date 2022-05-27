@@ -13,6 +13,7 @@ address:
   zip: 33100
   pin: 46.080838012823016, 13.211407239193338
 website: http://hcilab.uniud.it
+field: CS
 members: 
  - member: 
     name: Luca

@@ -2,7 +2,6 @@
 layout: research
 title: SHCI
 group-name: SHCI
-active: no
 institution: Dipartimento di Informatica - Università di Torino
 department: 
 address: 
@@ -11,7 +10,9 @@ address:
   city: 
   state: 
   zip: 
+  pin: 45.090729109760744, 7.659178453937818
 website: http://icxt.di.unito.it/laboratori/smart-human-computer-interaction/
+field: CS
 members: 
  - member: 
     name: Cristina

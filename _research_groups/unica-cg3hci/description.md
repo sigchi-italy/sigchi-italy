@@ -13,6 +13,7 @@ address:
   pin: 39.221720784267035, 9.112372317328223
 picture: assets/logocg3hci.png
 website: http://cg3hci.dmi.unica.it
+field: CS
 members:
  - member:
      name: Lucio Davide
@@ -48,7 +49,7 @@ members:
 keywords:
      - keyword: Virtual Reality
      - keyword: Intelligent User Interfaces
-     - keyword: End User Development
+     - keyword: End-User Development
      - keyword: Augmented Reality
      - keyword: Gestures
      - keyword: Videogames

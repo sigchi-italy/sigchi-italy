@@ -13,6 +13,7 @@ address:
   zip: 90123
   pin: 38.11108171181793, 13.373044727419941
 website: http://math.unipa.it/~salvatore.andolina/
+field: CS
 members: 
  - member:
     name: Salvatore

@@ -12,6 +12,7 @@ address:
   zip: 20133
   pin: 45.47880742080256, 9.232327029272046
 website: https://www.deib.polimi.it/ita/laboratori-deib/dettagli/93
+field: CS
 members: 
  - member: 
     name: Maristella

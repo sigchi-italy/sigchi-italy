@@ -3,7 +3,6 @@ layout: research
 title: PCL
 group-name: PCL
 institution: Sapienza
-active: no
 department: 
 address: 
   street-name: 
@@ -11,7 +10,9 @@ address:
   city: 
   state: 
   zip: 
+  pin: 41.90395539376532, 12.514405817420693
 website: https://dtclazio.it/laboratori/pcl-pictorial-computing-laboratory
+field: CS
 members: 
  - member: 
     name: Paolo

@@ -16,15 +16,11 @@
     <script src="https://unpkg.com/leaflet@1.0.3/dist/leaflet-src.js" integrity="sha512-WXoSHqw/t26DszhdMhOXOkI7qCiv5QWXhH9R7CgvgZMHz1ImlkVQ3uNsiQKu5wwbbxtPzFXd1hK4tzno2VqhpA==" crossorigin=""></script>
     <script src="{{site.baseurl}}/js/leaflet.markercluster.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.8.0/chart.min.js" ></script>
+    <script src="{{site.baseurl}}/js/wordcloud.js"></script>
 </head>
 <body>
 {% include header.html %}
 {{content}}
-<div class="fp-watermark" style="right: 0;">
-    <a href="https://alvarotrigo.com/fullPage/" rel="nofollow noopener" target="_blank" style="text-decoration:none;">
-        Made with fullPage.js
-    </a>
-</div>
 {% include footer.html %}
 <script>
     fullpage.initialize('#fullpage', {

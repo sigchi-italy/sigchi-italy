@@ -24,38 +24,38 @@ hours-lectures: 48
 hours-lab: 
 teacher: Paola Vocca
 topics: 
-  Accessibility: no
-  Activity_design: no
-  Cognitive_Aspects: no
-  Cognitive_walkthrough: no
-  Ergonomics: no
-  Evaluation_metrics: no
-  HCI_Design_Patterns: no
-  HCI_history: no
+  Accessibility: yes
+  Activity_design: yes
+  Cognitive_Aspects: yes
+  Cognitive_walkthrough: yes
+  Ergonomics: yes
+  Evaluation_metrics: yes
+  HCI_Design_Patterns: yes
+  HCI_history: yes
   Human-AI_Interaction: yes
   Information_Design: yes
   Information_Visualization: yes
   Interaction_Design: yes
-  Interaction_models_and_frameworks: no
-  Interaction_paradigms: no
-  Interaction_styles: no
-  Interviews_and_Surveys: no
+  Interaction_models_and_frameworks: yes
+  Interaction_paradigms: yes
+  Interaction_styles: yes
+  Interviews_and_Surveys: yes
   Knowledge_Visualization: no
   Multimodal_Interfaces: no
   Personas: yes
-  Prototyping: no
-  Requirement_Analysis: no
-  Software_lifecycle: no
+  Prototyping: yes
+  Requirement_Analysis: yes
+  Software_lifecycle: yes
   Usability_Engineering: no
-  Usability_Evaluation: no
-  Usability_principles: no
+  Usability_Evaluation: yes
+  Usability_principles: yes
   User-centered_design: yes
   User_Interfaces_for_the_Internet_of_Things: no
-  User_Testing: no
+  User_Testing: yes
   Virtual_and_Augmented_Reality: no
 learning-verification: 
   Homework: no 
-  Group-project: no 
+  Group-project: yes 
   Multiple-choice-questions: no 
   Individual-project: no 
   Oral-examination: no 

@@ -3,6 +3,7 @@ layout: research
 title: Intelligent Interfaces and Interaction (i3)
 group-name: Intelligent Interfaces and Interaction (i3)
 survey: 2022
+active: no
 institution: Fondazione Bruno Kessler
 department: Centro per la società digitale (Digis Centre)
 address: 

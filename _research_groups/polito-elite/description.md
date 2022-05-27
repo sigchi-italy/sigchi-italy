@@ -13,6 +13,7 @@ address:
   zip: 10129
   pin: 45.06270259800639, 7.662358812191823
 website: https://elite.polito.it
+field: CS
 members: 
  - member:
     name: Luigi 

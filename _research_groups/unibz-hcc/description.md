@@ -12,7 +12,8 @@ address:
   state: Italy
   zip: 39100
   pin: 46.49759594657131, 11.352488585235747
-website: https://www.inf.unibz.it/idse/hcc/
+website: https://www.inf.unibz.it/idse/hcc
+field: CS
 members: 
 - member: 
     name: Antonella

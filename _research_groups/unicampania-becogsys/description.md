@@ -13,6 +13,7 @@ address:
   zip: 81100
   pin: 41.07071361408261, 14.324442840958543
 website: https://www.psicologia.unicampania.it/home-becogsy
+field: Psy
 members: 
  - member:
     name: Anna
@@ -83,6 +84,7 @@ keywords:
  - keyword: android and humanoid robots
  - keyword: cognitive economy
  - keyword: users' acceptance and requirements
+ - keyword: assistive technologies
  - keyword: assistive technologies for typical vulnerable people
  - keyword: rehabilitation tools
 papers: 

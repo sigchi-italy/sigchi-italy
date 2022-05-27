@@ -13,6 +13,7 @@ address:
   zip: 30172
   pin: 45.47887553950039, 12.255299627544321
 website: dais.unive.it
+field: CS
 members: 
  - member: 
     name: Fabio
@@ -29,7 +30,8 @@ members:
 keywords: 
  - keyword: interaction design
  - keyword: information visualization
- - keyword: Virtual and Augmented Reality
+ - keyword: Virtual Reality 
+ - keyword: Augmented Reality
  - keyword: Sustainable HCI
  - keyword: Tangible Interaction and Design
  - keyword: Child computer interaction

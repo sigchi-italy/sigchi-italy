@@ -21,11 +21,12 @@ members:
     email: pitt@unive.it
 keywords: 
  - keyword: Interaction design
- - keyword: Virtual and Augmented Reality
+ - keyword: Virtual Reality 
+ - keyword: Augmented Reality
  - keyword: Sustainable HCI
  - keyword: Tangible Interaction
  - keyword: Information Visualization
- - keyword: Education Technology
+ - keyword: Educational Technologies
  - keyword: Interaction Design for Seniors
  - keyword: Digital Humanities
  - keyword: HCI for Visual and Performing Arts

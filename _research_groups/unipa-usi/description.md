@@ -2,7 +2,6 @@
 layout: research
 title: USI
 group-name: USI
-active: no
 institution: Università degli Studi di Palermo
 department: 
 address: 
@@ -10,8 +9,10 @@ address:
   street-number: 
   city: 
   state: 
-  zip: 
+  zip:
+  pin: 38.11232512286089, 13.34931671555928
 website: https://usi.unipa.it/
+field: CS
 members: 
  - member: 
     name: Salvatore

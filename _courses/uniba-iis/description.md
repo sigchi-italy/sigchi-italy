@@ -29,7 +29,7 @@ topics:
   Cognitive_Aspects: no
   Cognitive_walkthrough: no
   Ergonomics: no
-  Evaluation_metrics: no
+  Evaluation_metrics: yes
   HCI_Design_Patterns: no
   HCI_history: no
   Human-AI_Interaction: yes
@@ -47,15 +47,15 @@ topics:
   Requirement_Analysis: no
   Software_lifecycle: no
   Usability_Engineering: no
-  Usability_Evaluation: no
+  Usability_Evaluation: yes
   Usability_principles: no
   User-centered_design: no
   User_Interfaces_for_the_Internet_of_Things: no
-  User_Testing: no
+  User_Testing: yes
   Virtual_and_Augmented_Reality: no
 learning-verification: 
   Homework: no 
-  Group-project: no 
+  Group-project: yes 
   Multiple-choice-questions: no 
   Individual-project: no 
   Oral-examination: no 

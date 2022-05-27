@@ -47,19 +47,19 @@ topics:
   Requirement_Analysis: no
   Software_lifecycle: no
   Usability_Engineering: no
-  Usability_Evaluation: no
+  Usability_Evaluation: yes
   Usability_principles: no
   User-centered_design: yes
   User_Interfaces_for_the_Internet_of_Things: no
-  User_Testing: no
+  User_Testing: yes
   Virtual_and_Augmented_Reality: no
 learning-verification: 
   Homework: no 
-  Group-project: no 
-  Multiple-choice-questions: no 
+  Group-project: yes 
+  Multiple-choice-questions: yes 
   Individual-project: no 
   Oral-examination: no 
-  Open-ended-questions: no 
+  Open-ended-questions: yes 
 ---
 
 
