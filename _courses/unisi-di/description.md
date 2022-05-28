@@ -8,7 +8,7 @@ title: Design dell'Interazione
 institution: Università di Siena
 department: Dipartimento di Scienze Sociali Politiche e Cognitive, DISPOC
 department-type: humanistic
-venue: 
+venue: Siena
 degree: Scienze della Comunicazione
 level: Bachelor's Degree
 course-name: Design dell'Interazione

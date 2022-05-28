@@ -7,7 +7,7 @@ map-pin: 45.0643209,7.6586337
 active: no
 institution: Politecnico di Torino
 department: Dipartimento di Automatica e Informatica
-venue: 
+venue: Torino
 degree: Ingegneria Informatica
 level: Laurea Magistrale
 course-name: Human Computer Interaction

@@ -7,7 +7,7 @@ map-pin: 44.4033892,8.9578272
 institution: Università degli Studi di Genova
 department: DIBRIS
 department-type: scientific
-venue: Polo Opera Pia
+venue: Genova
 degree: Computer Engineering
 level: Master's Degree
 course-name: Multimodal Systems

@@ -7,7 +7,7 @@ title: Design of Interactive Systems
 institution: Università degli Studi di Torino
 department: Culture, Politica e Società
 department-type: humanistic
-venue: Campus Luigi Einaudi
+venue: Torino
 degree: Comunicazione, ICT e Media
 level: Master's Degree
 course-name: Design of Interactive Systems

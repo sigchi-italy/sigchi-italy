@@ -1,0 +1,76 @@
+---
+layout: page
+title: Research
+permalink: /research_groups/
+---
+<script>
+
+    function onSearchChange(val){
+        let ul = $("#course-list");
+        ul.empty();
+        let lastVenue = null;
+        let sublist = null;
+        let filter = courses.map(i => searchHit(i, val))
+        for( let i in filter){
+            if(filter[i]){
+                if(courses[i].venue.toLowerCase() != lastVenue){
+                    lastVenue = courses[i].venue.toLowerCase();
+                    sublist = $(`<div class="list-group"></div>`)
+                    ul.append($(`<h3>${courses[i].venue}</h3>`)).append(sublist)
+                }
+                let entry = $(`<a href="${courses[i].url}" class="list-group-item list-group-item-action" aria-current="true">
+                            <div class="d-flex w-100 justify-content-between">
+                                <h5 class="mb-1">${courses[i].name}</h5>
+                            </div>
+                            <p class="mb-1">${courses[i].institution}</p>
+                         </a>`)
+                sublist.append(entry);
+            }
+        }
+    }
+
+    function searchHit(el, val){
+        if (val === "") return true;
+        let lowerVal = val.toLowerCase();
+        return el.name.toLowerCase().includes(lowerVal) ||
+            el.institution.toLowerCase().includes(lowerVal) ||
+            el.venue.toLowerCase().includes(lowerVal)
+    }
+
+    var courses = [
+        {% for course in site.research_groups %}
+    {% if course.address.pin  and course.active != "no" %}
+    {
+        name: "{{course.group-name | replace: '"', "" }}",
+        institution: "{{course.institution | replace: '"', "" }}",
+        venue: "{{course.address.city | replace: '"', "" }}",
+        url: "{{site.baseurl}}{{ course.url }}",
+    },
+    {% endif %}
+    {% endfor %}
+    ];
+
+    courses.sort((a, b) => {return a.venue.localeCompare(b.venue)} );
+
+    $(document).ready(() => {
+        onSearchChange("")
+        $("#search").keyup( () => onSearchChange($("#search").val()))
+    })
+
+
+</script>
+<h2>HCI Research Labs in Italy</h2>
+<form class="form-inline">
+    <div class="input-group mb-2 mr-sm-2">
+        <div class="input-group-prepend">
+            <div class="input-group-text"><i class="bi bi-search"></i></div>
+        </div>
+        <input id="search" type="text" class="form-control" id="inlineFormInputGroupUsername2" placeholder="Search...">
+    </div>
+</form>
+<div id="course-list">
+
+</div>
+
+
+

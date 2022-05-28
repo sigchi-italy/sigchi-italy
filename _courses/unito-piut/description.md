@@ -7,7 +7,7 @@ title: Laboratorio Design of Interactive systems
 institution: Università degli Studi di Torino
 department: Culture, Politica e Società
 department-type: humanistic
-venue: Campus Luigi Einaudi
+venue: Torino
 degree: Comunicazione, ICT e Media
 level: Master's Degree
 course-name: Laboratorio Design of Interactive systems

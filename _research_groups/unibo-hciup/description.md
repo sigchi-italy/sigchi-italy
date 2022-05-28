@@ -7,7 +7,7 @@ department:
 address: 
   street-name: 
   street-number: 
-  city: 
+  city: Bologna
   state: 
   zip:
   pin: 44.4964384053568, 11.354135540888835

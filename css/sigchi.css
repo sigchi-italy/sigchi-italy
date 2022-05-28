@@ -93,3 +93,28 @@ main {
     background-color: #d93;
 }
 
+h3 {
+    padding-top: 1em;
+}
+
+a.list-group-item:hover{
+    color: #d93;
+}
+
+.card-max {
+    max-width: 200px;
+    margin-left:  auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+
+.card-btn {
+    display: inline-block;
+    width: 100px;
+}
+
+@media (max-width: 979px) {
+    body {
+        padding-top: 65px;
+    }
+}

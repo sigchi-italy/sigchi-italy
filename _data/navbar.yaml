@@ -3,6 +3,13 @@ nav:
   - title: Home
     url: /
 
+  - title: Overview
+    subfolderitems:
+     - page: Courses Summary
+       url: /courses-summary/
+     - page: Research Summary
+       url: /research-summary/
+
   - title: Courses
     url: /courses/
 

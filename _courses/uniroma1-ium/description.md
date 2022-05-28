@@ -7,7 +7,7 @@ title: Interazione Uomo Macchina
 institution: Sapienza Università di Roma
 department: Dipartimento di Informatica
 department-type: scientific
-venue: 
+venue: Roma
 degree: Informatica
 level: Bachelor's Degree
 course-name: Interazione Uomo Macchina

@@ -8,7 +8,7 @@ institution: Università della Campania "Luigi Vanvitelli"
 institution-website: https://www.psicologia.unicampania.it/didattica/corsi-di-studio/magistrale-in-psicologia-dei-processi-cognitivi 
 department: Department of Psychology
 department-type: humanistic
-venue: Viale Ellittico 34, 81100, Caserta, Itali
+venue: Caserta
 degree: Cognitive Psychology and Psychophysiology
 level: Master's Degree
 course-name: Laboratory of Economic and Cognitive Models for Information Processing

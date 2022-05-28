@@ -7,7 +7,7 @@ title: human computer interaction
 institution: universita di padova
 department: human inspired technology research centre
 department-type: scientific
-venue: unipd
+venue: Padova
 degree: Brain, mond and computer science
 level: PhD
 course-name: human computer interaction

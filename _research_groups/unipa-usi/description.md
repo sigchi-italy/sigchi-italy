@@ -7,7 +7,7 @@ department:
 address: 
   street-name: 
   street-number: 
-  city: 
+  city: Palermo
   state: 
   zip:
   pin: 38.11232512286089, 13.34931671555928

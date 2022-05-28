@@ -9,6 +9,7 @@ department: Matematica e Informatica
 department-type: scientific
 degree: Informatica 
 level: Master's Degree
+venue: Cagliari
 course-name: User Interface Technologies
 cfu: 6
 hours: 60

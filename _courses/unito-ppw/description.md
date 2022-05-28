@@ -7,7 +7,7 @@ title: Progettazione e programmazione web -  Web Design and Web Programming
 institution: Torino
 department: Studi Umanistici
 department-type: humanistic
-venue: 
+venue: Torino
 degree: DAMS
 level: Bachelor's Degree
 course-name: Progettazione e programmazione web -  Web Design and Web Programming

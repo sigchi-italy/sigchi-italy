@@ -7,7 +7,7 @@ department:
 address: 
   street-name: 
   street-number: 
-  city: 
+  city: Brescia
   state: 
   zip:
   pin: 45.53801733596075, 10.217307727416403

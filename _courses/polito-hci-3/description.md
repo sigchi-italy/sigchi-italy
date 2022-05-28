@@ -8,7 +8,7 @@ institution: Politecnico di Torino
 institution-website:  
 department: 
 department-type: scientific
-venue: Torino, Italy
+venue: Torino
 degree: Computer Engineering
 level: Master's Degree
 course-name: Human Computer Interaction

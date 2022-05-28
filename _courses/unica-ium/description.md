@@ -7,7 +7,7 @@ title: Interazione Uomo Macchina
 institution: Università di Cagliari
 department: Matematica e Informatica
 department-type: scientific
-venue: 
+venue: Cagliari
 degree: Informatica
 level: Bachelor's Degree
 course-name: Interazione Uomo Macchina

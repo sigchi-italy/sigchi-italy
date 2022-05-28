@@ -7,7 +7,7 @@ title: Usability & User Experience Design
 institution: Università di Bologna
 department: Dipartimento di Informatica
 department-type: scientific
-venue: 
+venue: Bologna
 degree: Informatica Magistrale + Digital Humanities and Digital Knowledge (magistrale) + Artificial Intelligence (magistrale)
 level: Master's Degree
 course-name: Usability & User Experience Design

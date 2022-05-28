@@ -9,12 +9,31 @@
                 <ul class="nav col-12 col-lg-auto my-2 justify-content-center my-md-0 text-small">
                     {% for item in site.data.navbar.nav %}
                     <li >
+                        {% if item.url %}
                         <a href="{{site.baseurl}}{{item.url}}" class="nav-link {% if (page.url == item.url) or ((page.url contains item.url) and (item.url != '/')) %}text-blue{% else %}text-white{% endif %}">
                             {{item.title}}
                         </a>
+                        {% endif %}
+                        {% if item.subfolderitems %}
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            {{item.title}}
+                        </a>
+                        <div class="dropdown-menu dropdown-menu-dark" aria-labelledby="navbarDropdownMenuLink">
+                            {% for subitem in item.subfolderitems %}
+                            <a class="dropdown-item " href="{{site.baseurl}}{{subitem.url}}">{{subitem.page}}</a>
+                            {% endfor %}
+                        </div>
+                    </li>
+                    {% endif %}
                     </li>
                     {% endfor %}
                 </ul>
+                <script>
+                    $(document).ready(function(){
+                        $('.dropdown-toggle').dropdown()
+                    });
+                </script>
             </div>
         </div>
     </div>

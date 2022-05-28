@@ -7,7 +7,7 @@ department:
 address: 
   street-name: 
   street-number: 
-  city: 
+  city: Torino
   state: 
   zip: 
   pin: 45.090729109760744, 7.659178453937818

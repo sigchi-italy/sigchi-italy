@@ -7,7 +7,7 @@ map-pin: 45.4787318,9.2312836
 institution: Politecnico di Milano
 department: Dipartimento di Design
 department-type: humanistic
-venue: 
+venue: Milano
 degree: Design della Comunicazione
 level: Master's Degree
 course-name: Interaction Design Studio

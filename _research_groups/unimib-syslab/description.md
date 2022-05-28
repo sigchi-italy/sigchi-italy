@@ -7,7 +7,7 @@ department:
 address: 
   street-name: 
   street-number: 
-  city: 
+  city: Milano
   state: 
   zip: 
   pin: 45.51818806505517, 9.213740828914714
