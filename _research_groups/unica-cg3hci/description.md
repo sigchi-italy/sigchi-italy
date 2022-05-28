@@ -56,7 +56,7 @@ keywords:
      - keyword: User Interface Engineering
      - keyword: Learning
      - keyword: AI Explainability
-       papers:
+ papers:
      - doi: 10.1145/3446977
      - doi: 10.1145/3397870
      - doi: 10.1093/iwcomp/iwab007
