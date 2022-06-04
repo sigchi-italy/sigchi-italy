@@ -13,61 +13,127 @@ venue: Cagliari
 course-name: User Interface Technologies
 cfu: 6
 hours: 60
+
+layout: course
+survey: 2022
+content-language: en
+map-pin: 39.2224156,9.1118547
+title: Interazione Uomo Macchina
+institution: Università di Cagliari
+department: Mathematics and Computer Science
+department-type: scientific
+venue: Cagliari
+degree: Computer Science
+level: Master's Degree
+course-name: User Interface Technologies
+course-year: 1
+course-language: English
+course-type: Lectures and Lab
+course-website: http://people.unica.it/davidespano/teaching/uit/
+course-participants: 10
+course-optional: yes
+cfu: 6
+hours: 60
+hours-lectures: 24
+hours-lab: 36
+teacher: Lucio Davide Spano
+topics: 
+  Accessibility: no 
+  Activity_design: no 
+  Cognitive_Aspects: no 
+  Cognitive_walkthrough: no 
+  Ergonomics: no 
+  Evaluation_metrics: no 
+  HCI_Design_Patterns: yes 
+  HCI_history: yes 
+  Human-AI_Interaction: yes 
+  Information_Design: no 
+  Information_Visualization: no 
+  Interaction_Design: yes 
+  Interaction_models_and_frameworks: yes 
+  Interaction_paradigms: no 
+  Interaction_styles: no 
+  Interviews_and_Surveys: no 
+  Knowledge_Visualization: no 
+  Multimodal_Interfaces: no 
+  Personas: yes
+  Prototyping: no 
+  Requirement_Analysis: no 
+  Software_lifecycle: no 
+  Usability_Engineering: tyes 
+  Usability_Evaluation: no 
+  Usability_principles: yes 
+  User-centered_design: no
+  User_Interfaces_for_the_Internet_of_Things: no 
+  User_Testing: no 
+  Virtual_and_Augmented_Reality: yes 
+learning-verification: 
+  Homework: yes 
+  Group-project: yes 
+  Multiple-choice-questions: yes 
+  Individual-project: yes 
+  Oral-examination: yes 
+  Open-ended-questions: yes 
+tools: 
+  Adobe_Illustrator: no 
+  Adobe_Photoshop: no 
+  Adobe_XD: no 
+  Balsamiq: no 
+  Canva: no 
+  Figma: no 
+  Sketch: no 
+  Javascript: yes
+  Unity: yes
+  No_tools: no 
 ---
 <!---  Nella parte di intestazione mettiamo le informazioni su cui vogliamo poi calcolare qualche statistica --->
 <!---  Nella parte di contenuto mettiamo invece le informazioni descrittive  --->
-## Obiettivi formativi
+## Objectives
+### Knowledge and understanding
+The course provides the knowledge for understanding and exploiting different technologies for developing user interfaces, starting from the simplest ones (form-based on a single device) to the more complex ones (multi-device, augmented and virtual reality etc.), with examples of different interaction styles and modalities. The student will learn how to prototype them in an effective way, in order to include different techniques into the application at hand. Finally, the course will discuss the software architectures for developing user interfaces their evolution through the user interface history and examples of modern development toolkits.
 
-### Conoscenza e capacità di comprensione.
+### Applying knowledge and understanding
 
-Il corso fornisce le conoscenze di base per la comprensione e l’utilizzo delle diverse tecnologie per lo sviluppo di interfacce utente, a partire dalle loro forme più semplici (form-based su singolo dispositivo) che nelle loro forme più complesse (multidispositivo, realtà virtuale, aumentata ecc.) con applicazione di diversi stili e modalità di interazione. Lo studente apprenderà come creare nuove esperienze per l’utente e come prototiparle in modo efficace ed efficiente in modo da includerle rapidamente nelle applicazioni. Infine, il corso tratterà le architetture software che supportano lo sviluppo di interfacce utente, il loro sviluppo dal punto di vista storico ed esempi di toolkit moderni per lo sviluppo.
+The student will be able to engineer and develop advanced user interfaces, integrating different development technologies, managing their complexity and guaranteeing the overall usability. Moreover, s/he will be able to analyse the technical requirements and the development cost for the different interaction styles and modalities. These skills will be consolidated with the final project, consisting in the ideation of an innovative interactive project. Finally, the student will learn how to use his/her knowledge for taking a decision in a project.
 
-### Capacità di applicare conoscenza e comprensione.
+### Making judgments
+The student will be able to judge autonomously advantages and disadvantages of applying different interaction styles and modalities according to the application at hand. According to this judgment, s/he will be able to take decisions autonomously in both design and implementation.
 
-Lo studente acquisirà la capacità di progettare e sviluppare interfacce utente avanzate, integrando diverse tecnologie di sviluppo, dominando la complessità e garantendo l’usabilità generale. Inoltre, sarà in grado di analizzare i requisiti tecnici ed i costi di sviluppo di diversi stili e modalità di interazione.  Queste capacità saranno stimolate dalla preparazione della prova finale, che consiste nell’ideazione di un prototipo interattivo innovativo. Infine, lo studente sarà capace di utilizzare le proprie conoscenze per prendere decisioni di progetto in forma autonoma.
+### Communication
 
-### Autonomia di giudizio.
+The student will develop an advanced knowledge of the technical language used for describing the development of the user interfaces in human computer interaction, on oral and written, with a particular focus on writing technical documentation in English. The student will be able to explain and discuss interaction problems related to different modalities, confronting with both professionals and not expert people e.g., the different stakeholders involved in involved in the development process.
 
-Lo studente sarà in grado di giudicare  in modo autonomo i vantaggi e gli svantaggi dal punto di vista interattivo dell’applicazione dei diversi stili e modalità di interazione. In base a questo giudizio, sarà in grado di effettuare scelte in modo autonomo, sia dal punto di vista del design che implementativo.
+### Lifelong learning skills
 
-### Abilità comunicative.
+The teaching material consists mostly of scientific literature and technical toolkit documentation. This will help the student in approaching state of the art sources for the discipline in the future.
 
-Lo studente acquisirà una conoscenza avanzata del linguaggio tecnico legato allo sviluppo delle interfacce utente dell’interazione uomo macchina, sia in forma orale che scritta, con particolare riferimento alla documentazione tecnica da produrre in lingua inglese. Inoltre, lo studente sarà in grado di spiegare e comunicare le problematiche di interazione legate alle diverse modalità, confrontandosi sia con altri professionisti del settore che con persone meno esperte, come ad esempio i diversi stakeholders coinvolti nello sviluppo di applicazioni.
+## Prerequisites
 
-### Capacità di apprendimento.
+The course requires a basic human computer interaction knowledge (Human Computer Interaction course from the Bachelor Degree) and a good knowledge of programming techniques (Computer Science Bachelor Degree or equivalent).
 
-Il materiale didattico del corso è fondamentalmente basato su articoli scientifici e documentazione tecnica dei diversi toolkit di sviluppo. Ciò svilupperà la capacità dello studente di apprendere e di aggiornarsi da fonti allo stato dell’arte nella disciplina.
+## Syllabus
 
-## Prerequisiti
 
-Per il corso sono necessarie delle conoscenze di base nel campo dell’interazione uomo macchina (esame di Interazione Uomo Macchina della Laurea Triennale) ed un buon livello di conoscenza della programmazione (laureato triennale in Informatica o equivalente).
+1. Introduction: the past, present and future of user interfaces 
+2. User Interface Architecture and Toolkits 
+3. Information Visualization 
+4. Gestural Interaction 
+5. Virtual, Augmented, Mixed and Extended Reality 
+6. HCI for AI  
 
-## Contenuti del corso
-* Introduzione: le interfacce utente, presente passato e futuro (2h)
-* Toolkit per lo sviluppo di interfacce form-based (2h lezione, 3h lab)
-* Architettura dell’Informazione e Layout (2h lezione, 3h lab)
-* Grafica e Animazioni (4h lezione, 6h lab)
-* Touch & Gestures (4h lezione, 6h lab)
-* Realtà Virtuale (2h lezione, 3h lab)
-* Realtà Aumentata (2h lezione, 3h lab)
-* Interazione multi dispositivo (4h lezione, 6h lab)
+## Teaching Methods
 
-## Metodi didattici
-Il corso è suddiviso in 24 ore di lezioni frontali e 36 ore di laboratorio. Durante le lezioni frontali verranno presentati i contenuti del corso. Lo studente li metterà poi in pratica per la realizzazione di un piccolo progetto di gruppo, che consiste nell’ideazione, progettazione, realizzazione e valutazione di una interfaccia utente avanzata, tra quelle analizzate durante il corso. Verrà richiesto al gruppo di studenti di creare un articolo descrittivo della soluzione ed una presentazione orale dell’elaborato.
+The course consists of lectures (24h) and lab sessions (36h). Lectures will discuss the course topics. Students will apply them through a group project, consisting of the ideation, design, implementation, and evaluation of an advanced user interface, using one or more techniques discussed in the course. Students will write a paper describing the interface and they will present it at the end of the course.
+High-quality final projects will be submitted as posters or demos in HCI related conferences.
 
-## Valutazione
-Per il superamento dell’esame è richiesto di svolgere 4 prove:
-* Una prova scritta in aula sugli argomenti del corso (individuale, 20% del voto finale)
-* Un progetto a fine corso, su un caso di studio a scelta degli studenti  (di gruppo, 40% del voto finale)
-* Una relazione scritta sul progetto, da redigere in lingua inglese (di gruppo, 20% del voto finale)
-* Una presentazione del progetto (di gruppo, 20% del voto finale)
+## Verification of learning
 
-Le valutazioni delle prove di gruppo è comunque individuale.
+For passing the exam the student is required to perform 4 tests:
+1. A test on the course topics  (singularly, 20% of the final grade)
+2. Develop a project in a small group  (group, 40% of the final grade)
+3. A paper on the project in English (group, 20% of the final grade)
+4. The project presentation (group, 20% of the final grade)
+The grades are individual even for group assignments.
 
-## Testi di riferimento
-Il materiale didattico sarà basato su una lista di riferimenti di letteratura scientifica sui vari argomenti, che saranno messi a disposizione dal docente sulla piattaforma didattica Moodle.
-
-## Altre informazioni
-
-I progetti e le relazioni di particolare qualità saranno proposti come poster o demo per conferenze scientifiche su temi specifici di HCI.
-
+## Teaching Material
+The teaching material consists mainly of scientific literature on the different topics, that will be provided to the student through the Moodle platform.

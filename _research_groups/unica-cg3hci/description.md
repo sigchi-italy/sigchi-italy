@@ -70,6 +70,7 @@ papers:
 - doi: 10.1007/s11042-019-7604-6
 - doi: 10.1016/j.ijhcs.2015.10.008
 - doi: 10.1145/2912124
+- doi: 
 ---
 
 ### Main Research Interests
@@ -84,4 +85,4 @@ Post-Docs and research fellows, together with students at different levels (PhD 
 Master and Bachelor students).
 
 The group participated in different European, Italian and Sardinian research projects. 
-A summary is available in the Projects page.
+A summary is available in the [group's website](https://cg3hci.dmi.unica.it/).

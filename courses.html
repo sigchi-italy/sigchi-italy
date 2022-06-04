@@ -40,7 +40,7 @@ permalink: /courses/
 
     var courses = [
         {% for course in site.courses %}
-            {% if course.map-pin  and course.active != "no" %}
+            {% if course.map-pin  and course.active != false %}
             {
                 name: "{{course.course-name | replace: '"', "" }}",
                 institution: "{{course.institution | replace: '"', "" }}",
@@ -54,19 +54,19 @@ permalink: /courses/
     courses.sort((a, b) => {return a.venue.localeCompare(b.venue)} );
 
     $(document).ready(() => {
-        onSearchChange("")
+        onSearchChange($("#search").val())
         $("#search").keyup( () => onSearchChange($("#search").val()))
     })
 
 
 </script>
 <h2>List of HCI courses in Italy</h2>
-<form class="form-inline">
+<form class="form-inline" onsubmit="return false;">
     <div class="input-group mb-2 mr-sm-2">
         <div class="input-group-prepend">
             <div class="input-group-text"><i class="bi bi-search"></i></div>
         </div>
-        <input id="search" type="text" class="form-control" id="inlineFormInputGroupUsername2" placeholder="Search...">
+        <input id="search" type="search" class="form-control" id="inlineFormInputGroupUsername2" placeholder="Search...">
     </div>
 </form>
 <div id="course-list">

@@ -26,7 +26,7 @@ teacher: Antonio Camurri
 topics: 
   Accessibility: no
   Activity_design: no
-  Cognitive_Aspects: no
+  Cognitive_Aspects: yes
   Cognitive_walkthrough: no
   Ergonomics: yes
   Evaluation_metrics: no
@@ -60,6 +60,16 @@ learning-verification:
   Individual-project: no 
   Oral-examination: yes 
   Open-ended-questions: no 
+tools: 
+  Adobe_Illustrator: no 
+  Adobe_Photoshop: no 
+  Adobe_XD: no 
+  Balsamiq: no 
+  Canva: no 
+  Figma: no 
+  Sketch: no 
+  No_tools: no 
+
 ---
 
 

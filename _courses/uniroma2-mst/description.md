@@ -51,7 +51,7 @@ topics:
   Usability_principles: yes
   User-centered_design: yes
   User_Interfaces_for_the_Internet_of_Things: yes
-  User_Testing: no
+  User_Testing: yes
   Virtual_and_Augmented_Reality: no
 learning-verification: 
   Homework: no 

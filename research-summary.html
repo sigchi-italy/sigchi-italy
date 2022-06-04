@@ -16,6 +16,7 @@ permalink: /research-summary/
     var keywords = [];
     var members = [0,0,0,0,0,0,0,0,0,0,0]
     var depts = [0, 0];
+    var gender = [0,0];
 
     {% assign count=0 %}
     {% assign bachelor=0 %}
@@ -30,6 +31,15 @@ permalink: /research-summary/
                 {% assign word = k | map: "keyword"  | first | downcase %}
                 keywords["{{word}}"] = keywords["{{word}}"] ? keywords["{{word}}"] + 1 : 1;
             {% endfor %}
+            {% for m in group.members %}
+                if(itNames.has("{{m.member.name | downcase}}")){
+                    if(itNames.get("{{m.member.name | downcase}}") == "male"){
+                        gender[0] = gender[0] + 1;
+                    }else{
+                        gender[1] = gender[1] + 1;
+                    }
+                }
+            {% endfor %}
             {% assign m = group.members | size %}
              members[{{m}}] = members[{{m}}] + 1;
             {% if group.field == "CS" %}
@@ -41,7 +51,7 @@ permalink: /research-summary/
         {% endif%}
     {% endfor %}
 
-    console.log("count {{count}}");
+    console.log(" Gender males: " +  gender[0] + " females: " + gender[1]);
 </script>
 
 <div id="fullpage">
@@ -257,6 +267,52 @@ permalink: /research-summary/
                                 }
 
                             },
+                        }
+                    });
+                </script>
+            </div>
+        </div>
+    </div>
+    <div class="section">
+
+        <div class="slide-text">
+            <h2>Gender of the Lab Members</h2>
+            <p><script>document.write("" + (gender[0]/(gender[0] + gender[1]) * 100).toFixed(0))</script>%
+                of lab members are <emph>males</emph>, while
+                <script>document.write("" + (gender[1]/(gender[0] + gender[1]) * 100).toFixed(0))</script>%
+                are <emph>females</emph>.<br/> Please consider that we infer the gender from the first name and
+                it is not related with the members' identity.
+            </p>
+            <div class="squared">
+                <canvas id="genderChart" width="200" height="200"></canvas>
+                <script>
+                    const genderCtx = document.getElementById('genderChart').getContext('2d');
+                    const genderChart = new Chart(genderCtx, {
+                        type: 'pie',
+
+                        data: {
+                            labels: ["Male", "Female"],
+                            datasets: [{
+                                data: [...gender],
+                                backgroundColor: [
+                                    'rgba(54, 162, 235, 0.8)',
+                                    'rgba(255, 99, 132, 0.8)',
+                                ],
+                                borderWidth: 2
+                            }]
+                        },
+                        options: {
+                            plugins: {
+                                legend: {
+                                    position: 'bottom',
+                                    labels: {
+                                        // This more specific font property overrides the global property
+                                        font: {
+                                            size: 16
+                                        }
+                                    }
+                                }
+                            }
                         }
                     });
                 </script>

@@ -26,8 +26,8 @@ teacher: Antonio Rizzo
 topics: 
   Accessibility: no
   Activity_design: no
-  Cognitive_Aspects: no
-  Cognitive_walkthrough: no
+  Cognitive_Aspects: yes
+  Cognitive_walkthrough: yes
   Ergonomics: yes
   Evaluation_metrics: no
   HCI_Design_Patterns: no

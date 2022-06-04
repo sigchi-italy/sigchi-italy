@@ -25,7 +25,7 @@ hours-lab:
 teacher: Paola Vocca
 topics: 
   Accessibility: yes
-  Activity_design: yes
+  Activity_design: no
   Cognitive_Aspects: yes
   Cognitive_walkthrough: yes
   Ergonomics: yes
@@ -60,6 +60,15 @@ learning-verification:
   Individual-project: no 
   Oral-examination: no 
   Open-ended-questions: no 
+tools: 
+  Adobe_Illustrator: no 
+  Adobe_Photoshop: no 
+  Adobe_XD: no 
+  Balsamiq: no 
+  Canva: no 
+  Figma: yes 
+  Sketch: no 
+  No_tools: no
 ---
 
 

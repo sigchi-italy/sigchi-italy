@@ -25,7 +25,7 @@ teacher: Tiziana Catarci
 topics: 
   Accessibility: no 
   Activity_design: no 
-  Cognitive_Aspects: no 
+  Cognitive_Aspects: yes 
   Cognitive_walkthrough: no 
   Ergonomics: no 
   Evaluation_metrics: no 
@@ -50,7 +50,7 @@ topics:
   Usability_principles: no 
   User-centered_design: no 
   User_Interfaces_for_the_Internet_of_Things: no 
-  User_Testing: no 
+  User_Testing: yes 
   Virtual_and_Augmented_Reality: no 
 learning-verification: 
   Homework: no 
@@ -59,6 +59,15 @@ learning-verification:
   Individual-project: no 
   Oral-examination: no 
   Open-ended-questions: no 
+tools: 
+  Adobe_Illustrator: no 
+  Adobe_Photoshop: no 
+  Adobe_XD: no 
+  Balsamiq: yes 
+  Canva: no 
+  Figma: no 
+  Sketch: no 
+  No_tools: no 
 ---
 
 

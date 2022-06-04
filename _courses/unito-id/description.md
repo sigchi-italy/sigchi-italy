@@ -25,8 +25,8 @@ teacher: Amon Rapp, Rossana Simeoni
 topics: 
   Accessibility: no 
   Activity_design: no 
-  Cognitive_Aspects: no 
-  Cognitive_walkthrough: no 
+  Cognitive_Aspects: yes 
+  Cognitive_walkthrough: yes 
   Ergonomics: no 
   Evaluation_metrics: no 
   HCI_Design_Patterns: no 
@@ -50,7 +50,7 @@ topics:
   Usability_principles: no 
   User-centered_design: no 
   User_Interfaces_for_the_Internet_of_Things: no 
-  User_Testing: no 
+  User_Testing: yes 
   Virtual_and_Augmented_Reality: no 
 learning-verification: 
   Homework: no 

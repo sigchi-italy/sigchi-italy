@@ -60,6 +60,15 @@ learning-verification:
   Individual-project: no 
   Oral-examination: no 
   Open-ended-questions: no 
+tools: 
+  Adobe_Illustrator: no 
+  Adobe_Photoshop: no 
+  Adobe_XD: no 
+  Balsamiq: yes 
+  Canva: no 
+  Figma: yes 
+  Sketch: no 
+  No_tools: no 
 ---
 
 

@@ -43,7 +43,7 @@ topics:
   Knowledge_Visualization: no
   Multimodal_Interfaces: no
   Personas: yes
-  Prototyping: no
+  Prototyping: yes
   Requirement_Analysis: yes
   Software_lifecycle: yes
   Usability_Engineering: yes
@@ -60,6 +60,16 @@ learning-verification:
   Individual-project: no 
   Oral-examination: no 
   Open-ended-questions: yes 
+tools: 
+  Adobe_Illustrator: no 
+  Adobe_Photoshop: no 
+  Adobe_XD: no 
+  Balsamiq: no 
+  Canva: no 
+  Figma: no 
+  Sketch: no 
+  No_tools: no 
+
 ---
 
 

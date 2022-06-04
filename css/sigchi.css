@@ -34,7 +34,7 @@ html, body {
 main {
     min-height: 100%;
     overflow:auto;
-    padding-bottom: 150px;
+    padding-bottom: 50px;
 }
 
 
@@ -110,11 +110,41 @@ a.list-group-item:hover{
 
 .card-btn {
     display: inline-block;
-    width: 100px;
+    width: 130px;
+    margin: 5px;
+}
+
+.lab-pic{
+    max-width: 500px;
+    display: block;
+    margin: auto;
 }
 
 @media (max-width: 979px) {
     body {
         padding-top: 65px;
     }
+}
+
+.dont-break-out {
+
+    /* These are technically the same, but use both */
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+
+    -ms-word-break: break-all;
+    /* This is the dangerous one in WebKit, as it breaks things wherever */
+    word-break: break-all;
+    /* Instead use this non-standard one: */
+    word-break: break-word;
+}
+
+.badge-primary{
+    background-color: #505050;
+}
+
+.intro{
+    display: block;
+    margin: 20px auto;
+    max-width: 1000px;
 }

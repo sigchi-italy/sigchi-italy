@@ -10,9 +10,65 @@
 
                 <article class="blog-post">
                     <h1 class="blog-post-title">{{page.course-name}}</h1>
+                    <p class="lead">
+                        {% if page.institution %}
+                        {{page.institution}}
+                        {% endif %}
+                        {% if page.department %}
+                        {% if page.department contains "Dip" or page.department contains "Dep" or page.department contains "Fac"%}
+                          - {{page.department}}
+                        {% else %}
+                            - Department of {{page.department}}
+                        {% endif %}
+                        {% endif %}
+                        {% if page.level %}
+                        <br>{{page.level}}
+                        {% endif %}
+                        {% if page.degree %}
+                        in {{page.degree}}
+                        {% endif %}
+                    </p>
+                    <p class="lead text-muted">
+
+                    </p>
+
                     {{content}}
                 </article>
-
+                <article>
+                    <h2>Additional Information</h2>
+                    <dl>
+                        <dt>Topic Tags</dt>
+                        <dd>
+                            {% for item in page.topics %}
+                            {% assign hasTopic = item | last  %}
+                            {% assign topic = item | first | replace: "_", " " %}
+                            {% if hasTopic == true  %}
+                            <span class="badge badge-primary">{{ topic }}</span>
+                            {% endif %}
+                            {% endfor %}
+                        </dd>
+                        <dt>Learning Verification</dt>
+                        <dd>
+                            {% for item in page.learning-verification %}
+                            {% assign hasVerification = item | last  %}
+                            {% assign verification = item | first | replace: "-", " " %}
+                            {% if hasVerification == true  %}
+                            <span class="badge badge-primary">{{ verification }}</span>
+                            {% endif %}
+                            {% endfor %}
+                        </dd>
+                        <dt>Teaching Tools</dt>
+                        <dd>
+                            {% for item in page.tools %}
+                            {% assign hasVerification = item | last  %}
+                            {% assign verification = item | first | replace: "-", " " %}
+                            {% if hasVerification == true  %}
+                            <span class="badge badge-primary">{{ verification }}</span>
+                            {% endif %}
+                            {% endfor %}
+                        </dd>
+                    </dl>
+                </article>
             </div>
 
             <div class="col-md-4">
@@ -20,24 +76,80 @@
                     <div class="p-4 mb-3 bg-light rounded">
                         <h4 class="fst-italic">Course Info</h4>
                         <dl>
-                            <dt>Institution</dt>
-                            <dd>{{page.institution}}</dd>
-                            <dt>Department</dt>
-                            <dd>{{page.department}}</dd>
-                            <dt>Degree</dt>
-                            <dd>{{page.degree}}</dd>
+                            {% if page.teacher %}
+                            <dt>Teacher</dt>
+                            <dd>{{page.teacher}}</dd>
+                            {% endif %}
+
+                            {% if page.level %}
                             <dt>Level</dt>
-                            <dd>{{page.level}}</dd>
+                            <dd>{{page.level}}
+                                {% if page.course-year %}
+                                <br><small>Year {{page.course-year}}{% if page.course-optional == true %}, optional{% endif %}</small>
+                                {% endif %}
+                            {% endif %}
+                            </dd>
+
+                            {% if page.course-language %}
+                            <dt>Language</dt>
+                            <dd>{{page.course-language}}</dd>
+                            {% endif %}
+
+                            {% if page.cfu %}
                             <dt>CFU</dt>
                             <dd>{{page.cfu}}</dd>
+                            {% endif %}
+
+                            {% if page.hours %}
                             <dt>Hours</dt>
-                            <dd>{{page.hours}}</dd>
+                            <dd>{{page.hours}}:
+                                <small>
+                                {% if page.hours-lectures %}
+                                {{page.hours-lectures}} lectures
+                                {% else %}
+                                    no lectures
+                                {% endif %}
+                                and {% if page.hours-lab %}{{page.hours-lab}} lab
+                                {% else %}
+                                    no lab
+                                 {% endif %}
+                                </small>
+
+                            </dd>
+                            {% endif %}
+
+                            {% if page.course-website %}
                             <dt>Website</dt>
-                            <dd><a href="{{page.website}}">{{page.website}}</a></dd>
+                            <dd><a class="dont-break-out" href="{{page.course-website}}">{{page.course-website}}</a></dd>
+                            {% endif %}
+
+
                         </dl>
+
                     </div>
 
                 </div>
+                <div id="map" style="height:35vh"></div>
+                <script type="text/javascript">
+
+                    var tiles = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                            maxZoom: 18,
+                            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Points &copy 2012 LINZ'
+                        }),
+                        latlng = L.latLng({{page.map-pin}});
+
+                    var map = L.map('map', {
+                        center: latlng, zoom: 14,
+                        scrollWheelZoom: true,
+                        layers: [tiles]});
+
+                    // Creating a marker
+                    var marker = L.marker([{{page.map-pin}}]);
+
+                    // Adding marker to the map
+                    marker.addTo(map);
+
+                </script>
             </div>
         </div>
     </div>

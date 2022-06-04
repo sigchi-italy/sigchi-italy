@@ -36,19 +36,19 @@ topics:
   Information_Design: yes
   Information_Visualization: no
   Interaction_Design: yes
-  Interaction_models_and_frameworks: no
+  Interaction_models_and_frameworks: yes
   Interaction_paradigms: yes
   Interaction_styles: yes
   Interviews_and_Surveys: yes
   Knowledge_Visualization: no
   Multimodal_Interfaces: no
   Personas: yes
-  Prototyping: no
+  Prototyping: yes
   Requirement_Analysis: yes
   Software_lifecycle: yes
   Usability_Engineering: yes
   Usability_Evaluation: yes
-  Usability_principles: no
+  Usability_principles: yes
   User-centered_design: yes
   User_Interfaces_for_the_Internet_of_Things: no
   User_Testing: yes
@@ -60,6 +60,15 @@ learning-verification:
   Individual-project: no 
   Oral-examination: yes 
   Open-ended-questions: yes 
+tools: 
+  Adobe_Illustrator: no 
+  Adobe_Photoshop: no 
+  Adobe_XD: no 
+  Balsamiq: yes 
+  Canva: no 
+  Figma: no 
+  Sketch: yes 
+  No_tools: no 
 ---
 
 

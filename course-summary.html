@@ -9,10 +9,18 @@ permalink: /courses-summary/
 
     {% for course in site.courses %}
         {% if course.map-pin  and course.active != "no" %}
-            [{{course.map-pin}}, "{{course.institution | replace: '"', "" }}<br> <a href=\"{{site.baseurl}}{{ course.url }}\">{{ course.course-name }}</a>"],{% endif%}
+            [{{course.map-pin}}, "{{course.institution | replace: '"', "" }}<br> <a href=\"{{site.baseurl}}{{ course.url }}\" target=\"_blank\">{{ course.course-name }}</a>"],{% endif%}
     {% endfor %}
     ];
 
+    var learn_verification = {
+        "Homework" : 0,
+        "Group-project" : 0,
+        "Multiple-choice-questions" : 0,
+        "Individual-project": 0,
+        "Oral-examination" : 0,
+        "Open-ended-questions" : 0,
+    }
     var topics = {
         "Accessibility" : 0,
         "Activity_design": 0,
@@ -45,7 +53,19 @@ permalink: /courses-summary/
         "Virtual_and_Augmented_Reality": 0
     }
 
+    var tools = {
+        "Adobe_Illustrator": 0,
+        "Adobe_Photoshop": 0,
+        "Adobe_XD": 0,
+        "Balsamiq": 0,
+        "Canva": 0,
+        "Figma": 0,
+        "Sketch": 0,
+        "No_tools": 0,
+    }
+
     var lessons = [0, 0, 0]
+    var language = [0, 0];
 
     {% assign count=0 %}
     {% assign bachelor=0 %}
@@ -53,7 +73,7 @@ permalink: /courses-summary/
     {% assign phd = 0 %}
 
     {% for course in site.courses %}
-        {% if course.map-pin  and course.active != "no" %}
+        {% if course.map-pin  and course.active != false %}
             console.log("{{count}} {{course.institution | replace: '"', "" }} {{course.title}} {{course.level}}");
             {% assign count = count | plus:1 %}
             {% if  course.level == "Laurea Triennale"  or course.level == "Bachelor's Degree"%}
@@ -66,7 +86,22 @@ permalink: /courses-summary/
                 {% assign phd = phd | plus:1 %}
             {% endif%}
             {%for topic in course.topics%}
-                if ("{{topic}}".endsWith("true")) ++topics["{{topic}}".replace("true", "")]
+                {% assign topicName = topic | first %}
+                {% assign topicValue = topic | last %}
+                {% if topicValue %} topics["{{topicName}}"] += 1; {% endif %}
+            {% endfor %}
+            {%for learn in course.learning-verification %}
+                {% assign learnName = learn | first %}
+                {% assign learnValue = learn | last %}
+                {% if learnValue %} learn_verification["{{learnName}}"] += 1; {% endif %}
+            {% endfor %}
+            {%for tool in course.tools %}
+                {% assign toolName = tool | first %}
+                {% assign toolValue = tool | last %}
+                {% if toolValue %}
+                    if(!tools.hasOwnProperty("{{toolName}}")) tools["{{toolName}}"] = 0;
+                    tools["{{toolName}}"] += 1;
+                {% endif %}
             {% endfor %}
             {%if course.hours == course.hours-lectures and course.hours-lab == 0 %}
                 lessons[0] = lessons[0] + 1
@@ -77,8 +112,16 @@ permalink: /courses-summary/
             {%if course.hours-lab != 0 and course.hours-lessons != 0 %}
                 lessons[2] = lessons[2] + 1
             {% endif %}
+            {% if course.course-language contains "talia" %}
+                language[0] += 1;
+            {% endif %}
+            {% if course.course-language contains "ngl" %}
+                language[1] += 1;
+            {% endif %}
         {% endif%}
     {% endfor %}
+
+
 
     console.log("count {{count}}");
     console.log("Bachelor {{bachelor}}");
@@ -223,6 +266,50 @@ permalink: /courses-summary/
         </div>
     </div>
     <div class="section">
+
+        <div class="slide-text">
+            <h2>Course Language</h2>
+            <p><script>document.write("" + (language[0]/(language[0] + language[1]) * 100).toFixed(0))</script>%
+                of the courses are taught in Italian,
+                <script>document.write("" + (language[1]/(language[0] + language[1]) * 100).toFixed(0))</script>%
+                in English.</p>
+            <div class="squared">
+                <canvas id="pieChart3" width="200" height="200"></canvas>
+                <script>
+                    const languageCtx = document.getElementById('pieChart3').getContext('2d');
+                    const languageChart = new Chart(languageCtx, {
+                        type: 'pie',
+
+                        data: {
+                            labels: ["Italian", "English"],
+                            datasets: [{
+                                data: [...language],
+                                backgroundColor: [
+                                    'rgba(54, 162, 235, 0.8)',
+                                    'rgba(255, 99, 132, 0.8)',
+                                ],
+                                borderWidth: 2
+                            }]
+                        },
+                        options: {
+                            plugins: {
+                                legend: {
+                                    position: 'bottom',
+                                    labels: {
+                                        // This more specific font property overrides the global property
+                                        font: {
+                                            size: 16
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    });
+                </script>
+            </div>
+        </div>
+    </div>
+    <div class="section">
         <div class="slide-text">
             <h2>Course Topics</h2>
             <div class="topics">
@@ -232,7 +319,7 @@ permalink: /courses-summary/
                     var horizontalBarChartData = {
                         labels: Object.keys(topics),
                         datasets: [{
-                            label: 'Topics',
+                            label: 'Count',
                             backgroundColor: 'rgba(54, 162, 235, 0.5)',
                             borderColor: 'rgba(54, 162, 235, 1)',
                             borderWidth: 1,
@@ -266,5 +353,92 @@ permalink: /courses-summary/
             </div>
         </div>
     </div>
-    <div class="section">Some section</div>
+    <div class="section">
+        <div class="slide-text">
+            <h2>Verification of Learning</h2>
+            <div class="topics">
+                <canvas id="learningChart" width="200" height="200"></canvas>
+                <script>
+                    const learningctx = document.getElementById('learningChart').getContext('2d');
+                    var learningBarChartData = {
+                        labels: Object.keys(learn_verification),
+                        datasets: [{
+                            label: 'Count',
+                            backgroundColor: 'rgba(54, 162, 235, 0.5)',
+                            borderColor: 'rgba(54, 162, 235, 1)',
+                            borderWidth: 1,
+                            data: Object.values(learn_verification)
+                        },]
+
+                    };
+                    const learningChart = new Chart(learningctx, {
+                        type: 'bar',
+                        data: learningBarChartData,
+
+                        options: {
+                            // Elements options apply to all of the options unless overridden in a dataset
+                            // In this case, we are setting the border of each horizontal bar to be 2px wide
+                            indexAxis: 'y',
+                            elements: {
+                                rectangle: {
+                                    borderWidth: 2,
+                                }
+                            },
+                            responsive: true,
+                            plugins: {
+                                legend :{
+                                    display: false,
+                                }
+                            }
+
+                        },
+                    });
+                </script>
+            </div>
+        </div>
+    </div>
+    <div class="section">
+        <div class="slide-text">
+            <h2>Teaching Tools</h2>
+            <div class="topics">
+                <canvas id="toolsChart" width="200" height="200"></canvas>
+                <script>
+                    const toolsctx = document.getElementById('toolsChart').getContext('2d');
+                    var toolsBarChartData = {
+                        labels: Object.keys(tools),
+                        datasets: [{
+                            label: 'Count',
+                            backgroundColor: 'rgba(54, 162, 235, 0.5)',
+                            borderColor: 'rgba(54, 162, 235, 1)',
+                            borderWidth: 1,
+                            data: Object.values(tools)
+                        },]
+
+                    };
+                    const toolsChart = new Chart(toolsctx, {
+                        type: 'bar',
+                        data: toolsBarChartData,
+
+                        options: {
+                            // Elements options apply to all of the options unless overridden in a dataset
+                            // In this case, we are setting the border of each horizontal bar to be 2px wide
+                            indexAxis: 'y',
+                            elements: {
+                                rectangle: {
+                                    borderWidth: 2,
+                                }
+                            },
+                            responsive: true,
+                            plugins: {
+                                legend :{
+                                    display: false,
+                                }
+                            }
+
+                        },
+                    });
+                </script>
+            </div>
+        </div>
+    </div>
 </div>

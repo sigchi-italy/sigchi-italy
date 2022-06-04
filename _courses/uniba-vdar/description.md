@@ -53,7 +53,6 @@ topics:
   User_Interfaces_for_the_Internet_of_Things: no
   User_Testing: no
   Virtual_and_Augmented_Reality: no
-  Other: Perception
 learning-verification: 
   Homework: yes 
   Group-project: no 
@@ -61,6 +60,15 @@ learning-verification:
   Individual-project: yes 
   Oral-examination: yes 
   Open-ended-questions: no 
+tools: 
+  Adobe_Illustrator: no 
+  Adobe_Photoshop: no 
+  Adobe_XD: no 
+  Balsamiq: no 
+  Canva: no 
+  Figma: no 
+  Sketch: no 
+  No_tools: no 
 ---
 
 

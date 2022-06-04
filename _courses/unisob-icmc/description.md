@@ -51,7 +51,7 @@ topics:
   Usability_principles: yes
   User-centered_design: yes
   User_Interfaces_for_the_Internet_of_Things: no
-  User_Testing: no
+  User_Testing: yes
   Virtual_and_Augmented_Reality: no
 learning-verification: 
   Homework: no 
@@ -59,7 +59,16 @@ learning-verification:
   Multiple-choice-questions: no 
   Individual-project: no 
   Oral-examination: yes 
-  Open-ended-questions: no 
+  Open-ended-questions: no
+tools: 
+  Adobe_Illustrator: no 
+  Adobe_Photoshop: no 
+  Adobe_XD: no 
+  Balsamiq: no 
+  Canva: no 
+  Figma: no 
+  Sketch: no 
+  No_tools: yes 
 ---
 
 
