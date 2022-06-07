@@ -8,7 +8,7 @@ permalink: /courses-summary/
     var addressPoints = [
 
     {% for course in site.courses %}
-        {% if course.map-pin  and course.active != "no" %}
+        {% if course.map-pin  and course.active != false%}
             [{{course.map-pin}}, "{{course.institution | replace: '"', "" }}<br> <a href=\"{{site.baseurl}}{{ course.url }}\" target=\"_blank\">{{ course.course-name }}</a>"],{% endif%}
     {% endfor %}
     ];
