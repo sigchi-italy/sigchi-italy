@@ -3,15 +3,15 @@ layout: research
 title: EUD
 group-name: EUD
 institution: Università degli Studi di Brescia
-department: 
+department: Department of Information Engineering
 address: 
-  street-name: 
-  street-number: 
+  street-name: Via Branze
+  street-number: 38
   city: Brescia
   state: 
-  zip:
+  zip: 25123
   pin: 45.53801733596075, 10.217307727416403
-website:
+website: https://www.unibs.it
 field: CS
 members: 
  - member: 
@@ -20,6 +20,12 @@ members:
     picture: null
     url: null
     email: daniela.fogli@unibs.it
+ - member: 
+    name: Barbara Rita
+    surname: Barricelli
+    picture: null
+    url: htts://barbara-barricelli.unibs.it
+    email: barbara.barricelli@unibs.it
 keywords: 
  - keyword: end-user development
  - keyword: meta-design
@@ -30,7 +36,13 @@ keywords:
  - keyword: smart home
  - keyword: gamification
  - keyword: usability
- - keyword: 
+ - keyword: human work interaction design
+ - keyword: interaction design
+ - keyword: digital twins
+ - keyword: participatory design
+ - keyword: semiotic engineering
+ - keyword: user experience
+ 
 papers: 
  - doi: https://doi.org/10.1016/j.jss.2018.11.041
  - doi: https://doi.org/10.1016/j.jss.2018.06.035
@@ -46,4 +58,4 @@ papers:
 
 
 ### Main Research Interests
-Current research interests include end-user development and meta-design, participatory design, interactive systems to support collaboration, decision support systems for emergency management and clinical discussions, web accessibility and usability, universal design, design patterns, personalization of software systems through artificial intelligence techniques, user-oriented interfaces for IoT and ambient intelligence, gamification, computational thinking, e-government, collaborative robotics.
+Current research interests include end-user development and meta-design, participatory design, interactive systems to support collaboration, decision support systems for emergency management and clinical discussions, web accessibility and usability, universal design, design patterns, personalization of software systems through artificial intelligence techniques, user-oriented interfaces for IoT and ambient intelligence, gamification, computational thinking, e-government, collaborative robotics, interaction design, digital twins, human work interaction design, user experience, semiotic engineering.
